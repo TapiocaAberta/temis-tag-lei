@@ -1,0 +1,1 @@
+web: java -jar target/temis-tag-lei-1.0.jar
