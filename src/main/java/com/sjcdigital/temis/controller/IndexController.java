@@ -8,6 +8,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.servlet.view.RedirectView;
 
 import com.sjcdigital.temis.model.Data;
 import com.sjcdigital.temis.repositories.DataRepository;
@@ -31,19 +32,12 @@ public class IndexController {
 	}
 	
 	@PostMapping("/salvar")
-	public String salvarLivro(@ModelAttribute Data data, @ModelAttribute(name="tag") String tag, Model model) {
+	public RedirectView salvarLivro(@ModelAttribute Data data, @ModelAttribute(name="tag") String tag, Model model) {
 		
 		data.setTag(tag);
 		repository.save(data);
 		
-		List<Data> todasLeisSemClassificacao = repository.findByTagLike("SEM_CLASSIFICACAO");
-		long totalLeisClassificdas = repository.count() - todasLeisSemClassificacao.size();
-		
-		model.addAttribute("todasLeis", todasLeisSemClassificacao);
-		model.addAttribute("totalLeisClassificdas", totalLeisClassificdas);
-		model.addAttribute("mensagem", "Salvo com sucesso!");
-		
-		return "index";
+		return new RedirectView("/");
 	}
 
 }
