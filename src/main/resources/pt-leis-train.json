@@ -2868,30 +2868,6 @@
         "text": "Autoriza o Poder Executivo a firmar parcerias com empresas privadas visando a instalação de jardins verticais nas colunas de viadutos e fachadas de prédios públicos."
     },
     {
-        "id": 527,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo a conceder licença para realização de feira livre em áreas particulares ou condomínios."
-    },
-    {
-        "id": 529,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a obrigatoriedade de os condomínios dotados de elevadores manterem cadeira de rodas, e dá outras providências."
-    },
-    {
-        "id": 533,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a reserva de vagas em estacionamentos de shopping centers, centros comerciais e hipermercados para gestantes e pessoas com crianças de colo, no âmbito do Município de São José dos Campos, e dá outras providências."
-    },
-    {
-        "id": 534,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo Municipal, a instituir, no âmbito de São José dos Campos, o programa IPTU SOLIDÁRIO."
-    },
-    {
         "id": 506,
         "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
@@ -3072,100 +3048,28 @@
         "text": "Dispõe sobre a reserva de vagas em estacionamentos de shopping centers, centros comerciais e hipermercados para gestantes e pessoas com crianças de colo, no âmbito do Município de São José dos Campos, e dá outras providências."
     },
     {
-        "id": 540,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 527,
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
-        "text": "“Dispõe sobre aspectos da política municipal de educação no trânsito, especialmente por meio de aulas teóricas e de práticas simuladas nas escolas integrantes da Rede Pública Municipal, e dá outras providências."
+        "text": "Autoriza o Poder Executivo a conceder licença para realização de feira livre em áreas particulares ou condomínios."
     },
     {
-        "id": 542,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 529,
+        "tag": "ACESSIBILIDADE",
         "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre abertura de crédito adicional suplementar no valor de R$ 2.360.000,00."
+        "text": "Dispõe sobre a obrigatoriedade de os condomínios dotados de elevadores manterem cadeira de rodas, e dá outras providências."
     },
     {
-        "id": 543,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 533,
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre concessão de reajuste de vencimento e salários dos servidores públicos do Poder Executivo, e dá outras providências."
+        "text": "Dispõe sobre a reserva de vagas em estacionamentos de shopping centers, centros comerciais e hipermercados para gestantes e pessoas com crianças de colo, no âmbito do Município de São José dos Campos, e dá outras providências."
     },
     {
-        "id": 547,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 534,
+        "tag": "ORCAMENTO",
         "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo a implantar um Velório Municipal no Bairro Parque Novo Horizonte e Adjacências da região leste do Município de São José dos Campos."
-    },
-    {
-        "id": 549,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo a criar espaços para compartilhamento de livros em ponto de parada de ônibus, denominados pontos do conhecimento."
-    },
-    {
-        "id": 552,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza a Prefeitura Municipal a efetuar com prioridade a transferência para unidades da Rede Municipal de Ensino dos alunos que necessitam de educação especial da educação infantil para o ensino fundamental."
-    },
-    {
-        "id": 554,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo a proceder a instalação de controlador eletrônico de velocidade em logradouros públicos onde se situem prédios escolares   e dá outras providencias."
-    },
-    {
-        "id": 555,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza a Prefeitura Municipal de São José dos Campos  permitir no município, Feira Livre nos Condomínios residenciais ou Associações de moradores, mediante solicitação dos mesmos."
-    },
-    {
-        "id": 557,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a “PARADA SEGURA” que garante às mulheres o direito de desembarcar dos veículos de transporte coletivo urbano nas linhas regulares fora dos pontos fixados após as 22 horas e dá outras providências."
-    },
-    {
-        "id": 558,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre o funcionamento dos semáforos após às 23 horas e dá outras providências."
-    },
-    {
-        "id": 559,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a redução da jornada de trabalho dos funcionários da administração pública, direta e indireta do município, ocupantes do cargo de Agente Administrativo, locados nas unidades de saúde."
-    },
-    {
-        "id": 570,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a sinalização de semáforo, no período compreendido entre vinte e três e cinco horas, no município"
-    },
-    {
-        "id": 571,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Cria no Município de São José dos Campos a \"Parada Cidadã\" para mulheres, idosos e portadores de necessidades especiais em horário noturno no itinerário dos ônibus e alternativos de transporte coletivo urbano."
-    },
-    {
-        "id": 572,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a obrigatoriedade da manutenção de serviços de segurança privada nos locais que especifica e dá outras providências."
-    },
-    {
-        "id": 573,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Institui no âmbito municipal de ensino, o “Programa Escola sem Partido”."
-    },
-    {
-        "id": 823,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Rua F do Loteamento Santa Hermínia de Rua Alexandrita."
+        "text": "Autoriza o Poder Executivo Municipal, a instituir, no âmbito de São José dos Campos, o programa IPTU SOLIDÁRIO."
     },
     {
         "id": 544,
@@ -3288,1790 +3192,1760 @@
         "text": "Institui e inclui no calendário oficial de festas e comemorações do município, o Dia Municipal dos Pais de Pessoas com Deficiência."
     },
     {
-        "id": 575,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 573,
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
-        "text": "Autoriza o Nunicípio a conceder isenção de tarifas de transporte coletivo às pessoas portadoras do vírus hiv-aids, e dá outras providências."
+        "text": "Institui no âmbito municipal de ensino, o “Programa Escola sem Partido”."
     },
     {
-        "id": 577,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 571,
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre o fornecimento de passes ou cartão para o transporte de jovens que estão atuando no serviço Militar, no âmbito do Município de São José dos Campos."
+        "text": "Cria no Município de São José dos Campos a \"Parada Cidadã\" para mulheres, idosos e portadores de necessidades especiais em horário noturno no itinerário dos ônibus e alternativos de transporte coletivo urbano."
     },
     {
-        "id": 578,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 557,
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
-        "text": "Denomina a Rua 11 do loteamento Chácaras Araújo I, de Rua Benedito de Araújo."
+        "text": "Dispõe sobre a “PARADA SEGURA” que garante às mulheres o direito de desembarcar dos veículos de transporte coletivo urbano nas linhas regulares fora dos pontos fixados após as 22 horas e dá outras providências."
+    },
+    {
+        "id": 823,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Rua F do Loteamento Santa Hermínia de Rua Alexandrita."
+    },
+    {
+        "id": 558,
+        "tag": "TRANSPORTE",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre o funcionamento dos semáforos após às 23 horas e dá outras providências."
+    },
+    {
+        "id": 540,
+        "tag": "EDUCACAO",
+        "tipo": "Projeto de Lei",
+        "text": "“Dispõe sobre aspectos da política municipal de educação no trânsito, especialmente por meio de aulas teóricas e de práticas simuladas nas escolas integrantes da Rede Pública Municipal, e dá outras providências."
+    },
+    {
+        "id": 542,
+        "tag": "ORCAMENTO",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre abertura de crédito adicional suplementar no valor de R$ 2.360.000,00."
+    },
+    {
+        "id": 543,
+        "tag": "ORCAMENTO",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre concessão de reajuste de vencimento e salários dos servidores públicos do Poder Executivo, e dá outras providências."
+    },
+    {
+        "id": 547,
+        "tag": "OUTRO",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza o Poder Executivo a implantar um Velório Municipal no Bairro Parque Novo Horizonte e Adjacências da região leste do Município de São José dos Campos."
+    },
+    {
+        "id": 549,
+        "tag": "EDUCACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza o Poder Executivo a criar espaços para compartilhamento de livros em ponto de parada de ônibus, denominados pontos do conhecimento."
+    },
+    {
+        "id": 552,
+        "tag": "EDUCACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza a Prefeitura Municipal a efetuar com prioridade a transferência para unidades da Rede Municipal de Ensino dos alunos que necessitam de educação especial da educação infantil para o ensino fundamental."
+    },
+    {
+        "id": 554,
+        "tag": "SEGURANCA",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza o Poder Executivo a proceder a instalação de controlador eletrônico de velocidade em logradouros públicos onde se situem prédios escolares   e dá outras providencias."
+    },
+    {
+        "id": 555,
+        "tag": "OUTRO",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza a Prefeitura Municipal de São José dos Campos  permitir no município, Feira Livre nos Condomínios residenciais ou Associações de moradores, mediante solicitação dos mesmos."
+    },
+    {
+        "id": 559,
+        "tag": "TRABALHO",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a redução da jornada de trabalho dos funcionários da administração pública, direta e indireta do município, ocupantes do cargo de Agente Administrativo, locados nas unidades de saúde."
+    },
+    {
+        "id": 570,
+        "tag": "TRANSPORTE",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a sinalização de semáforo, no período compreendido entre vinte e três e cinco horas, no município"
+    },
+    {
+        "id": 572,
+        "tag": "SEGURANCA",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a obrigatoriedade da manutenção de serviços de segurança privada nos locais que especifica e dá outras providências."
     },
     {
         "id": 579,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "“Autoriza o Poder Executivo Municipal a regulamentar a Lei Municipal nº 6.732/2004 que dispõe sobre a Paraolimpíada no Município”."
     },
     {
         "id": 580,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "UTILIDADE_PUBLICA",
         "tipo": "Projeto de Lei",
         "text": "DECLARA DE UTILIDADE PÚBLICA MUNICIPAL A CIA. DE EVENTOS CULTURAIS WS"
     },
     {
-        "id": 581,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 578,
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
-        "text": "Reestrutura a Secretaria de Meio Ambiente e altera a Lei n. 6.808, de 25 de maio de 2005, que \"Cria a Secretaria de Habitação e a Secretaria de Meio Ambiente, destinadas a planejar e executar, respectivamente, as políticas habitacional e do meio ambiente do Município, e dá outras providências\"."
-    },
-    {
-        "id": 582,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei n. 4.617, de 12 de setembro de 1994, que \"Reformula o Conselho Municipal de Meio Ambiente - COMAM e dá outras providências.\""
-    },
-    {
-        "id": 583,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "INSTITUI o Dia Municipal de Valorização da Família e dá outras providencias."
-    },
-    {
-        "id": 584,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "“Autoriza o Poder Executivo a Instituir na Cidade de São José dos às praças da modalidade de “STREET WORKOUT”."
+        "text": "Denomina a Rua 11 do loteamento Chácaras Araújo I, de Rua Benedito de Araújo."
     },
     {
         "id": 585,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a sede do IPSM - Instituto de Previdência do Servidor Municipal, de “Jair Ferreira Santos”."
     },
     {
         "id": 586,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua de Servidão do loteamento Chácaras Araújo I, de Rua Três Rios"
     },
     {
         "id": 587,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 17 do loteamento Chácaras Araújo I, de Rua Vassouras."
     },
     {
         "id": 588,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 16 do loteamento Chácaras Araújo I, de Rua Quatis."
     },
     {
         "id": 589,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 15 do loteamento Chácaras Araújo I, de Rua Barra do Piraí"
     },
     {
+        "id": 584,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "“Autoriza o Poder Executivo a Instituir na Cidade de São José dos às praças da modalidade de “STREET WORKOUT”."
+    },
+    {
         "id": 590,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 14 do loteamento Chácaras Araújo I, de Rua Pinheiral."
     },
     {
+        "id": 583,
+        "tag": "DATA_COMEMORATIVA",
+        "tipo": "Projeto de Lei",
+        "text": "INSTITUI o Dia Municipal de Valorização da Família e dá outras providencias."
+    },
+    {
         "id": 591,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 13 do loteamento Chácaras Araújo I, de Rua Barra Mansa."
     },
     {
         "id": 592,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 12 do loteamento Chácaras Araújo I, de Rua Volta Redonda."
     },
     {
         "id": 593,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 11 do loteamento Chácaras Araújo I, de Rua Rio das Flores."
     },
     {
         "id": 594,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Avenida 02 do loteamento Chácaras Araújo I, de Avenida Porto Real."
     },
     {
         "id": 595,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina o Canteiro Central da Avenida dos Tangarás no Jardim Uirá, de Canteiro Central João Pereira da Silva."
     },
     {
-        "id": 596,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 582,
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a obrigatoriedade de instalação de brinquedos adaptados em Praças Públicas, e em propriedades privadas de uso público para crianças portadoras de necessidades especiais."
-    },
-    {
-        "id": 597,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo a informar a destinação dos valores recebidos em função da aplicação de multas pelo município e dá outras providencias."
-    },
-    {
-        "id": 598,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Declara de Utilidade Pública o Projeto Olhar Futuro."
+        "text": "Altera a Lei n. 4.617, de 12 de setembro de 1994, que \"Reformula o Conselho Municipal de Meio Ambiente - COMAM e dá outras providências.\""
     },
     {
         "id": 599,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina o campo de futebol situado na Praça Aloisio Petiti, no Bosque dos Eucaliptos, de \"Arena Bosque\"."
     },
     {
-        "id": 600,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 598,
+        "tag": "UTILIDADE_PUBLICA",
         "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a implantação de bebedouros em parques, praças e áreas verdes no município e dá providências."
-    },
-    {
-        "id": 601,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Praça localizada entre as ruas Rosário, Shizuco fida e Benedicto de Alvarenga, situadas no Jardim América, de Praça \"Kanebo\"."
-    },
-    {
-        "id": 602,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a manutenção periódica dos equipamentos esportivos localizados ao ar livre, denominados \"Academia ao Ar Livre\"."
+        "text": "Declara de Utilidade Pública o Projeto Olhar Futuro."
     },
     {
         "id": 603,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ORCAMENTO",
         "tipo": "Projeto de Lei",
         "text": "Estabelece as Diretrizes Orçamentárias para o exercício de 2017."
     },
     {
-        "id": 604,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 601,
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
-        "text": "Altera, inclui e exclui Programas, Metas, Indicadores, Unidades de Medidas e Ações, substituindo os Anexos I, II e III, e IV da Lei n. 9.070, de 16 de dezembro de 2013, com suas alterações, que \"Dispõe sobre o Plano Plurianual para o período de 2014 a 2017.\"."
-    },
-    {
-        "id": 605,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a política municipal de atendimento às pessoas com Transtornos do Espectro do Autismo e dá outras providências."
-    },
-    {
-        "id": 606,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo a celebrar acordo de cooperação com o Comando do Exército, por intermédio da 2ª Região Militar, objetivando o funcionamento do Tiro de Guerra 02-037 - São José dos Campos -, e dá outras providências."
-    },
-    {
-        "id": 607,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Proíbe a fabricação, a comercialização, distribuição e o uso, a qualquer título, de buzina de pressão à base de gás propanobutano, envasado em tubo de aerossol, em São José dos Campos e dá outras providências."
+        "text": "Denomina a Praça localizada entre as ruas Rosário, Shizuco fida e Benedicto de Alvarenga, situadas no Jardim América, de Praça \"Kanebo\"."
     },
     {
         "id": 608,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Área Verde existente na Rua Benedito Fernandes de Andrade, no Jardim San Rafael, de “Área Verde San Rafael”."
     },
     {
         "id": 609,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina-se de Prof. Alberto de Souza Simões o Ginásio do “Teatrão”  de  São José dos Campos, situado na Rua Ricardo Edwards, nº 95, Vila Industrial."
     },
     {
         "id": 610,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina Travessa 1 da Avenida 1 do loteamento Santa Maria do município de São Jose dos Campos de Travessa João Manuel Lima Cunha."
     },
     {
+        "id": 575,
+        "tag": "TRANSPORTE",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza o Nunicípio a conceder isenção de tarifas de transporte coletivo às pessoas portadoras do vírus hiv-aids, e dá outras providências."
+    },
+    {
+        "id": 577,
+        "tag": "TRANSPORTE",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre o fornecimento de passes ou cartão para o transporte de jovens que estão atuando no serviço Militar, no âmbito do Município de São José dos Campos."
+    },
+    {
+        "id": 581,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Reestrutura a Secretaria de Meio Ambiente e altera a Lei n. 6.808, de 25 de maio de 2005, que \"Cria a Secretaria de Habitação e a Secretaria de Meio Ambiente, destinadas a planejar e executar, respectivamente, as políticas habitacional e do meio ambiente do Município, e dá outras providências\"."
+    },
+    {
+        "id": 600,
+        "tag": "OUTRO",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a implantação de bebedouros em parques, praças e áreas verdes no município e dá providências."
+    },
+    {
+        "id": 596,
+        "tag": "ACESSIBILIDADE",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a obrigatoriedade de instalação de brinquedos adaptados em Praças Públicas, e em propriedades privadas de uso público para crianças portadoras de necessidades especiais."
+    },
+    {
+        "id": 597,
+        "tag": "ORCAMENTO",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza o Poder Executivo a informar a destinação dos valores recebidos em função da aplicação de multas pelo município e dá outras providencias."
+    },
+    {
+        "id": 602,
+        "tag": "MANUTENCAO",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a manutenção periódica dos equipamentos esportivos localizados ao ar livre, denominados \"Academia ao Ar Livre\"."
+    },
+    {
+        "id": 605,
+        "tag": "ACESSIBILIDADE",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a política municipal de atendimento às pessoas com Transtornos do Espectro do Autismo e dá outras providências."
+    },
+    {
+        "id": 606,
+        "tag": "OUTRO",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza o Poder Executivo a celebrar acordo de cooperação com o Comando do Exército, por intermédio da 2ª Região Militar, objetivando o funcionamento do Tiro de Guerra 02-037 - São José dos Campos -, e dá outras providências."
+    },
+    {
+        "id": 607,
+        "tag": "OUTRO",
+        "tipo": "Projeto de Lei",
+        "text": "Proíbe a fabricação, a comercialização, distribuição e o uso, a qualquer título, de buzina de pressão à base de gás propanobutano, envasado em tubo de aerossol, em São José dos Campos e dá outras providências."
+    },
+    {
         "id": 611,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a criação da \"Geladeiroteca\" e dá outras providencias."
     },
     {
         "id": 612,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a proibição do transporte de qualquer tipo de carga ou fretamento por veículo de tração animal, como carroça ou similar, no município de São José dos Campos."
     },
     {
         "id": 613,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CAUSAS_ANIMAIS",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a reservar uma área pública de 3,5 mil m² para viabilizar a implantação de um Abrigo Público Municipal de animais domésticos com capacidade de 500 abrigos com solarium para dois animais cada."
     },
     {
         "id": 614,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SEGURANCA",
         "tipo": "Projeto de Lei",
         "text": "AUTORIZA O PODER EXECUTIVO A CELEBRAR CONVÊNIO COM A SECRETARIA DE SEGURANÇA PÚBLICA E O DETRAN DO ESTADO DE SÃO PAULO E DÁ OUTRAS PROVIDÊNCIAS."
     },
     {
-        "id": 615,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a instituição no Município o Programa Municipal de Identificação e Controle da População de Cães e  Gatos."
-    },
-    {
         "id": 616,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a Lei nº 9.321, de 7 de dezembro de 2015, e dá providências."
     },
     {
         "id": 617,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de “Rua Fernanda Paula Silva Duarte”, a Travessa Um, do Loteamento Jardim Nova Michigan II, e dá providências."
     },
     {
-        "id": 618,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza a Prefeitura a inscrever nos carnês de pagamento do IPTU de São José dos Campos a frase “Maltratar e abandonar animais é crime ! Lei Federal 9.605/98”."
-    },
-    {
-        "id": 619,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a publicidade da localização dos radares de controle de velocidade de veículos, fixos ou móveis, na Imprensa Oficial do Município e na Internet e dá outras providências."
-    },
-    {
-        "id": 620,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Praça do Jardim Santa Inês I, localizado entre as Ruas Abelardo Alves de Paiva e Maria Aparecida Veríssimo Madureira Ramos do Município de São José dos Campos de “Praça Tainá Thaís Santos da Silva”."
-    },
-    {
         "id": 621,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e inclui no calendário oficial de festas e comemorações do município, o Dia Municipal do PROERD - Programa Educacional de Resistência as Drogas e a Violência."
     },
     {
-        "id": 622,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Concede o Título de Cidadão Joseense ao Pastor Antonio Marques Ribeiro."
-    },
-    {
-        "id": 623,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Disciplina a realização de eventos no Município de São José dos Campos e dá outras providências."
-    },
-    {
         "id": 624,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e inclui no Calendário Oficial de Festas e Comemorações do Município de São José dos Campos a festa “Arraiá da Vila Cristina”."
     },
     {
-        "id": 625,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a obrigatoriedade dos estabelecimentos que comercializam gasolina, informar a seus clientes se a  gasolina comercializada é formulada ou refinada."
-    },
-    {
         "id": 626,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a Lei nº. 5.374 de 05 maio de 1.999, que “Declara de Utilidade Pública a Associação Batista Bíblica para Educação Especial.”."
     },
     {
         "id": 627,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
         "text": "Institui a Política Municipal do Esporte e dá outras providências."
     },
     {
-        "id": 628,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo, proceder a instalação e manutenção de armários nas escolas municipais de ensino fundamental II."
-    },
-    {
-        "id": 630,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei nº 8.654 de 19 de março de 2012 que alterou a Lei nº 5.097, de 12 de setembro de 1997, que \"estabelece definições e normas para a vegetação de porte arbóreo no território urbano do Município, e dá outras providências\"."
-    },
-    {
-        "id": 631,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Fica autorizado a criação do CEDET - Centro para Desenvolvimento  do Potencial e Talento de São José dos Campos."
-    },
-    {
         "id": 632,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 01 do Residencial Alto dos Ypês de Maria Rosa Santos."
     },
     {
         "id": 633,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 03 do Residencial Alto dos Ypês de José Savastano Neto."
     },
     {
         "id": 634,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 02 do Residencial Alto dos Ypês de Waldemir Pereira Goulart."
     },
     {
+        "id": 630,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a Lei nº 8.654 de 19 de março de 2012 que alterou a Lei nº 5.097, de 12 de setembro de 1997, que \"estabelece definições e normas para a vegetação de porte arbóreo no território urbano do Município, e dá outras providências\"."
+    },
+    {
         "id": 635,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Viela existente entre a Av. das Rosas e a Rua Heliotrópios, no Jardim Motorama, de Viela Maria Amélia Lopes dos Santos"
     },
     {
         "id": 636,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Viela existente entre a Av. das Rosas e a Rua Heliotrópios, no Jardim Motorama, de Viela Maria Amélia Lopes Santos"
     },
     {
-        "id": 637,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 622,
+        "tag": "CONGRATULACAO",
         "tipo": "Projeto de Lei",
-        "text": "Acrescenta um Paragrafo Único ao artigo 1° da Lei nº 8.459, de 31 de agosto de 2011, que \"Dispõe sobre a obrigatoriedade do Poder Executivo de afixar na porta das escolas municipais 'placa' informando o Índice de Desenvolvimento na Educação Básica - IDEB da escola, e informações que especifica, nas escolas da Rede Municipal de Ensino\" e dá outras providencias."
-    },
-    {
-        "id": 638,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a obrigatoriedade de farmácias, drogarias e unidades de saúde disponibilizarem recipientes para armazenar medicamentos e perfumarias com o prazo de validade vencido para descarte no Município de São José dos Campos, e dá outras providências."
-    },
-    {
-        "id": 639,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Cria o Programa de desbloqueio, de desentupimento e fechamento de bueiros e canais de escoamento de águas no município e da outras providências."
-    },
-    {
-        "id": 640,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "DISPÕE SOBRE A OBRIGATORIEDADE DE EXIBIÇÃO DE MÍDIAS AUDIOVISUAIS SOBRE PREVENÇÃO ÀS DROGAS, ÁLCOOL E SEUS MALEFÍCIOS NAS ABERTURAS DE SHOWS, EVENTOS ARTÍSTICOS, CULTURAIS E EDUCACIONAIS NO ÂMBITO DO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS E DA OUTRAS PROVIDÊNCIAS."
-    },
-    {
-        "id": 641,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "DISPÕE SOBRE O TEMPO MÁXIMO DE ESPERA PARA ATENDIMENTO NAS LOJAS DE  OPERADORES DE TELEFONIA FIXA E CELULAR NO ÂMBITO DO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS E DA OUTRAS PROVIDÊNCIAS."
+        "text": "Concede o Título de Cidadão Joseense ao Pastor Antonio Marques Ribeiro."
     },
     {
         "id": 642,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a Lei n. 9.072, de 19 de dezembro de 2013, que \"Desafeta o imóvel de domínio público municipal que especifica, classifica-o como bem dominical e autoriza a Prefeitura Municipal a permutá-lo com área de propriedade da Universidade Estadual Paulista Júlio de Mesquita Filho - Unesp - , dá outras providências.\""
     },
     {
-        "id": 643,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei n. 9.258, de 5 de maio de 2015, que \"Institui o Programa Municipal de Compra Assistida, e dá outras providências.\"."
-    },
-    {
         "id": 644,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MEIO_AMBIENTE",
         "tipo": "Projeto de Lei",
         "text": "Cria o Programa de “Horta Comunitária” no  Município de São José dos Campos e dá outra  providências."
     },
     {
         "id": 645,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CAUSAS_ANIMAIS",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a afixar cartazes contendo a informação “Maltratar e abandonar animais é crime! Lei Federal 9.605/98”, em todas as repartições públicas municipais de São José dos Campos."
     },
     {
+        "id": 643,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a Lei n. 9.258, de 5 de maio de 2015, que \"Institui o Programa Municipal de Compra Assistida, e dá outras providências.\"."
+    },
+    {
+        "id": 615,
+        "tag": "CAUSAS_ANIMAIS",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a instituição no Município o Programa Municipal de Identificação e Controle da População de Cães e  Gatos."
+    },
+    {
+        "id": 618,
+        "tag": "CAUSAS_ANIMAIS",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza a Prefeitura a inscrever nos carnês de pagamento do IPTU de São José dos Campos a frase “Maltratar e abandonar animais é crime ! Lei Federal 9.605/98”."
+    },
+    {
+        "id": 619,
+        "tag": "TRANSPORTE",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a publicidade da localização dos radares de controle de velocidade de veículos, fixos ou móveis, na Imprensa Oficial do Município e na Internet e dá outras providências."
+    },
+    {
+        "id": 623,
+        "tag": "OUTRO",
+        "tipo": "Projeto de Lei",
+        "text": "Disciplina a realização de eventos no Município de São José dos Campos e dá outras providências."
+    },
+    {
+        "id": 625,
+        "tag": "TRANSPORTE",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a obrigatoriedade dos estabelecimentos que comercializam gasolina, informar a seus clientes se a  gasolina comercializada é formulada ou refinada."
+    },
+    {
+        "id": 628,
+        "tag": "EDUCACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza o Poder Executivo, proceder a instalação e manutenção de armários nas escolas municipais de ensino fundamental II."
+    },
+    {
+        "id": 631,
+        "tag": "EDUCACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Fica autorizado a criação do CEDET - Centro para Desenvolvimento  do Potencial e Talento de São José dos Campos."
+    },
+    {
+        "id": 637,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Acrescenta um Paragrafo Único ao artigo 1° da Lei nº 8.459, de 31 de agosto de 2011, que \"Dispõe sobre a obrigatoriedade do Poder Executivo de afixar na porta das escolas municipais 'placa' informando o Índice de Desenvolvimento na Educação Básica - IDEB da escola, e informações que especifica, nas escolas da Rede Municipal de Ensino\" e dá outras providencias."
+    },
+    {
+        "id": 638,
+        "tag": "OUTRO",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a obrigatoriedade de farmácias, drogarias e unidades de saúde disponibilizarem recipientes para armazenar medicamentos e perfumarias com o prazo de validade vencido para descarte no Município de São José dos Campos, e dá outras providências."
+    },
+    {
+        "id": 639,
+        "tag": "URBANIZACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Cria o Programa de desbloqueio, de desentupimento e fechamento de bueiros e canais de escoamento de águas no município e da outras providências."
+    },
+    {
+        "id": 640,
+        "tag": "EDUCACAO",
+        "tipo": "Projeto de Lei",
+        "text": "DISPÕE SOBRE A OBRIGATORIEDADE DE EXIBIÇÃO DE MÍDIAS AUDIOVISUAIS SOBRE PREVENÇÃO ÀS DROGAS, ÁLCOOL E SEUS MALEFÍCIOS NAS ABERTURAS DE SHOWS, EVENTOS ARTÍSTICOS, CULTURAIS E EDUCACIONAIS NO ÂMBITO DO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS E DA OUTRAS PROVIDÊNCIAS."
+    },
+    {
+        "id": 641,
+        "tag": "OUTRO",
+        "tipo": "Projeto de Lei",
+        "text": "DISPÕE SOBRE O TEMPO MÁXIMO DE ESPERA PARA ATENDIMENTO NAS LOJAS DE  OPERADORES DE TELEFONIA FIXA E CELULAR NO ÂMBITO DO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS E DA OUTRAS PROVIDÊNCIAS."
+    },
+    {
         "id": 646,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a obrigatoriedade das empresas prestadoras de serviços no Polo Industrial do Município de São José dos Campos a contratarem e manterem empregados prioritariamente trabalhadores domiciliados no Município e dá outras providencias."
     },
     {
         "id": 647,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a instituir o passe livre para atletas no Sistema de transportes público de São José dos Campos e dá outras providencias."
     },
     {
         "id": 648,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SAUDE",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a obrigatoriedade da realização de exames oftalmológicos e fornecimento de óculos, anualmente, para os alunos matriculados na rede de ensino público municipal a partir dos seis anos de idade"
     },
     {
-        "id": 649,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre permissão de uso de uma área de terreno de domínio público municipal à empresa Construcap CCPS Engenharia e Comércio S.A.."
-    },
-    {
-        "id": 650,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Institui e inclui no calendário oficial de festas e comemorações do município, o Dia da Superação."
-    },
-    {
-        "id": 651,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo Municipal, a implantar o sistema de bueiros ecológicos no âmbito de São José dos Campos."
-    },
-    {
         "id": 652,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e inclui no Calendário Oficial de Festas e Comemorações do município a “Festa do Trabalhador do bairro Novo Horizonte”."
     },
     {
         "id": 653,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 8 do Loteamento Jardim do Golfe do Município de São Jose dos Campos  de Rua Profª  Maria Aparecida Candelária Bernardes Ottoboni."
     },
     {
-        "id": 654,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo a criar o Programa de Atendimento Pedagógico Hospitalar e Domiciliar no âmbito do Município."
-    },
-    {
-        "id": 655,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina o Ambulatório de Saúde da Mulher, situado nesta cidade, de “Ambulatório de Saúde  da Mulher Dra. Therezinha Veneziani Silva”"
-    },
-    {
-        "id": 656,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Escola Infantil localizada na Vila Monterrey de Denise Prates Fernandes Rocha."
-    },
-    {
-        "id": 657,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo Municipal a instituir o selo verde de combate ao aedes aegypti, no âmbito de São José dos Campos."
-    },
-    {
-        "id": 658,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre concessão de reajuste de vencimento e salários dos servidores públicos efetivos do Poder Executivo, e dá outras providências."
-    },
-    {
-        "id": 659,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "DISPÕE SOBRE A CRIAÇÃO DO PROGRAMA MUNICIPAL DE DESENVOLVIMENTO DA ATIVIDADE DE YOGA NAS ESCOLAS MUNICIPAIS DE SÃO JOSÉ DOS CAMPOS, DENOMINADO \"YOGA NA ESCOLA\" E DÁ OUTRAS PROVIDÊNCIAS."
-    },
-    {
         "id": 660,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina o imóvel localizado na Rua Roberto Cruz nº 40, no bairro Jardim Santo Onofre, de “Casa de Cultura Maria Benedita dos Santos - Lili Figureira”."
     },
     {
+        "id": 655,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina o Ambulatório de Saúde da Mulher, situado nesta cidade, de “Ambulatório de Saúde  da Mulher Dra. Therezinha Veneziani Silva”"
+    },
+    {
         "id": 661,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Praça localizada entre as Ruas Francisco Moreira de Souza e Profª Maria José de Oliveira no bairro Jardim Nova Michigan, de Praça Dalma de Fatima da Silva."
     },
     {
-        "id": 662,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 656,
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
-        "text": "“Autoriza o Executivo Municipal a criar o Bilhete Único Especial.”"
+        "text": "Denomina a Escola Infantil localizada na Vila Monterrey de Denise Prates Fernandes Rocha."
+    },
+    {
+        "id": 651,
+        "tag": "MEIO_AMBIENTE",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza o Poder Executivo Municipal, a implantar o sistema de bueiros ecológicos no âmbito de São José dos Campos."
     },
     {
         "id": 663,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Avenida 1 localizada no loteamento Jardim dos Coqueiros de Avenida Luiz Carlos Amancio Pereira."
     },
     {
-        "id": 664,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina-se de \"Espaço Maestro Sérgio Weiss\", o Teatrão da Vila Industrial, em São José dos Campos, situado na Rua Ricardo Edwards, 95 - Vila Industrial, que irá abrigar uma área de convivência, estacionamento, ginásio esportivo, centro de ciências e tecnologia"
-    },
-    {
-        "id": 665,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Institui e Inclui no Calendário Oficial de Festas  e  Comemorações  do  Município os eventos “Vale Tattoo Festival”, “Vale Beer Festival” e “Food Truck Festival” a serem comemorados na segunda quinzena do mês de abril."
-    },
-    {
-        "id": 666,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Garante aos professores readaptados da Rede Municipal de Ensino de São José dos Campos o direito à aposentadoria especial de magistério."
-    },
-    {
         "id": 667,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Dá nova redação ao § 1º do art. 70 da Lei Municipal 1.566 de 1° de setembro de 1970 e insere uma  alínea ao respectivo parágrafo."
     },
     {
+        "id": 665,
+        "tag": "DATA_COMEMORATIVA",
+        "tipo": "Projeto de Lei",
+        "text": "Institui e Inclui no Calendário Oficial de Festas  e  Comemorações  do  Município os eventos “Vale Tattoo Festival”, “Vale Beer Festival” e “Food Truck Festival” a serem comemorados na segunda quinzena do mês de abril."
+    },
+    {
+        "id": 670,
+        "tag": "OUTRO",
+        "tipo": "Projeto de Lei",
+        "text": ""
+    },
+    {
         "id": 668,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Praça localizada no fim da rua Brilho Okada no Residencial Sol Nascente, de Praça Angela Faria."
     },
     {
         "id": 669,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina Rua 10 do Loteamento Chácara Araújo II de Rua Canas."
-    },
-    {
-        "id": 670,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": ""
     },
     {
         "id": 671,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina Rua 10 do Loteamento Chácara Araújo II de Rua Canas."
     },
     {
-        "id": 672,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Proíbe o manuseio, a utilização, a queima e a soltura de fogos de artifício e artefatos pirotécnicos em eventos realizados pelo Poder Público (Prefeitura e Câmara Municipal) em todo o território do Município de São José dos Campos, em respeito à saúde e bem-estar dos animais e ao princípio de economicidade do Erário Público, utilizando esses recursos para fins sociais e filantrópicos."
-    },
-    {
-        "id": 673,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a instalação de Câmeras de Monitoramento nos estabelecimentos comerciais que prestam serviço de Banho e Tosa em animais domésticos no Município de São José dos Campos e dá outras providencias."
-    },
-    {
-        "id": 674,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre o acesso a informações ,previsto na Constituição Federal, no inciso XXXIII do art. 5º, no inciso II do § 3º do art. 37 e no § 2º do art. 210 e na Lei Federal 12 527 de 18 de novembro de 2011, que cria o serviço de informações ao cidadão no âmbito municipal e dá outras providencias."
-    },
-    {
         "id": 675,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a rua 11 do Loteamento Colinas do Parahyba, de Alameda Flor de LIz."
     },
     {
         "id": 676,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 12 do Loteamento Colinas do Parahyba, de Alameda das Cerejeiras."
     },
     {
-        "id": 677,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Instituí e inclui no Calendário Oficial de Festas e Comemorações do Município o Festival de  Orquídeas de São Jose dos Campos -FestOrquideas a ser comemorado anualmente na primeira quinzena do mês de julho."
-    },
-    {
         "id": 678,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de “Estrada Municipal Zé Malaquias (José Araújo Andrade)”, a Estrada Municipal SJC 360, no Bairro Santo Agostinho, e dá providências."
     },
     {
-        "id": 679,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina de “Estrada Municipal Antonio Marciano de Araújo”, a Estrada Municipal SJC 315, no Bairro Terra Boa, e dá providências."
-    },
-    {
         "id": 680,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "INSTITUI E INCLUI NO CALENDÁRIO OFICIAL DE FESTAS E COMEMORAÇÕES DO MUNICÍPIO O PROGRAMA MUNICIPAL DE PREVENÇÃO AO ALCOOLISMO ENTRE MULHERES."
     },
     {
-        "id": 681,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 677,
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
-        "text": "DECLARA DE UTILIDADE PÚBLICA MUNICIPAL A ASSOCIAÇÃO DE ENSINO SOCIAL PROFISSIONALIZANTE - ESPRO"
+        "text": "Instituí e inclui no Calendário Oficial de Festas e Comemorações do Município o Festival de  Orquídeas de São Jose dos Campos -FestOrquideas a ser comemorado anualmente na primeira quinzena do mês de julho."
     },
     {
         "id": 682,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a Lei n. 4.656, de 28 de novembro de 1994, que \"Modifica a denominação de cargos da Prefeitura Municipal de São José dos Campos, institui nova tabela de vencimentos e salários, e dá outras providências\"."
     },
     {
+        "id": 681,
+        "tag": "UTILIDADE_PUBLICA",
+        "tipo": "Projeto de Lei",
+        "text": "DECLARA DE UTILIDADE PÚBLICA MUNICIPAL A ASSOCIAÇÃO DE ENSINO SOCIAL PROFISSIONALIZANTE - ESPRO"
+    },
+    {
+        "id": 679,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina de “Estrada Municipal Antonio Marciano de Araújo”, a Estrada Municipal SJC 315, no Bairro Terra Boa, e dá providências."
+    },
+    {
         "id": 683,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a Lei n. 4.417, de 7 de julho de 1993, que \"Dispõe sobre o Serviço de Transporte Público Urbano Coletivo de Passageiros pelo sistema de lotação em veiculo tipo Kombi\", com suas alterações."
     },
     {
         "id": 824,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua D do Loteamento Santa Hermínia de Rua Ágata."
     },
     {
-        "id": 684,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 659,
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
-        "text": "Autoriza a Prefeitura Municipal a outorgar permissão de uso de duas áreas de terreno de domínio público municipalà Companhia de Saneamento Básico do Estado de São Paulo, e dá outras providências."
+        "text": "DISPÕE SOBRE A CRIAÇÃO DO PROGRAMA MUNICIPAL DE DESENVOLVIMENTO DA ATIVIDADE DE YOGA NAS ESCOLAS MUNICIPAIS DE SÃO JOSÉ DOS CAMPOS, DENOMINADO \"YOGA NA ESCOLA\" E DÁ OUTRAS PROVIDÊNCIAS."
     },
     {
-        "id": 685,
-        "tag": "SEM_CLASSIFICACAO",
+        "id": 662,
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
-        "text": "Denomina a Rua 04 no bairro Residencial Tom Jobim de Rua Manoel Araújo dos Santos."
+        "text": "“Autoriza o Executivo Municipal a criar o Bilhete Único Especial.”"
+    },
+    {
+        "id": 649,
+        "tag": "URBANIZACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre permissão de uso de uma área de terreno de domínio público municipal à empresa Construcap CCPS Engenharia e Comércio S.A.."
+    },
+    {
+        "id": 654,
+        "tag": "EDUCACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza o Poder Executivo a criar o Programa de Atendimento Pedagógico Hospitalar e Domiciliar no âmbito do Município."
+    },
+    {
+        "id": 657,
+        "tag": "SAUDE",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza o Poder Executivo Municipal a instituir o selo verde de combate ao aedes aegypti, no âmbito de São José dos Campos."
+    },
+    {
+        "id": 658,
+        "tag": "ORCAMENTO",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre concessão de reajuste de vencimento e salários dos servidores públicos efetivos do Poder Executivo, e dá outras providências."
+    },
+    {
+        "id": 666,
+        "tag": "TRABALHO",
+        "tipo": "Projeto de Lei",
+        "text": "Garante aos professores readaptados da Rede Municipal de Ensino de São José dos Campos o direito à aposentadoria especial de magistério."
+    },
+    {
+        "id": 672,
+        "tag": "SEGURANCA",
+        "tipo": "Projeto de Lei",
+        "text": "Proíbe o manuseio, a utilização, a queima e a soltura de fogos de artifício e artefatos pirotécnicos em eventos realizados pelo Poder Público (Prefeitura e Câmara Municipal) em todo o território do Município de São José dos Campos, em respeito à saúde e bem-estar dos animais e ao princípio de economicidade do Erário Público, utilizando esses recursos para fins sociais e filantrópicos."
+    },
+    {
+        "id": 673,
+        "tag": "SEGURANCA",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a instalação de Câmeras de Monitoramento nos estabelecimentos comerciais que prestam serviço de Banho e Tosa em animais domésticos no Município de São José dos Campos e dá outras providencias."
+    },
+    {
+        "id": 674,
+        "tag": "OUTRO",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre o acesso a informações ,previsto na Constituição Federal, no inciso XXXIII do art. 5º, no inciso II do § 3º do art. 37 e no § 2º do art. 210 e na Lei Federal 12 527 de 18 de novembro de 2011, que cria o serviço de informações ao cidadão no âmbito municipal e dá outras providencias."
     },
     {
         "id": 686,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "URBANIZACAO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Executivo Municipal a criar o programa de instalação de Parklets no município."
     },
     {
         "id": 687,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 03 no bairro Residencial Tom Jobim de Rua João Domingues de Almeida."
     },
     {
         "id": 688,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 02 no bairro Residencial Tom Jobim de Rua Juvenal Ramos da Silva."
     },
     {
         "id": 689,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Avenida 01 no bairro Residencial Tom Jobim de Avenida Robson Custódio Machado."
     },
     {
         "id": 690,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 01 no bairro Residencial Tom Jobim de Rua Paulo Antonio."
     },
     {
         "id": 691,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "UTILIDADE_PUBLICA",
         "tipo": "Projeto de Lei",
         "text": "Declara de Utilidade Pública a APEFIVALI - Associação dos Profissionais de Educação Física, Técnicos Desportivos, Atletas e afins do Vale do Paraíba e Litoral."
     },
     {
         "id": 692,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONSUMIDOR",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a obrigação de Supermercados, lojas de conveniência e de varejo na comercialização de gêneros alimentícios, de afixar cartaz informativo, quando realizar promoções que ofereçam vantagens de preço e quantidades aos consumidores, e dá outras providencias."
     },
     {
         "id": 693,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a criar o Programa Jovem Cidadão no Município de São Jose dos Campos e dá outras previdências"
     },
     {
         "id": 694,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRABALHO",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a prorrogação da licença maternidade aos Agentes Comunitários de Saúde e aos Agentes de Combateàs Endemias e altera a Lei n. 4.783, de 14 de dezembro de 2015, que \"Institui o Programa de Bolsas de Estudo doServidor Municipal - PROBESEM, destinado a custear parcialmente despesas com estudos de servidores públicos daAdministração Direta do Município de São José dos Campos, e dá outras providências.\"."
     },
     {
         "id": 695,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Instituí e incluí no Calendário Oficial de Festas e Comemorações do Município o Festival de Música Autoral de São Jose dos Campos (Festimúsica) a ser comemorado anualmente na segunda quinzena do mês de novembro."
     },
     {
         "id": 696,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CAUSAS_ANIMAIS",
         "tipo": "Projeto de Lei",
         "text": "Torna obrigatória a inscrição nos carnês de pagamento do IPTU de São José dos Campos da frase “Maltratar e abandonar animais é crime! Lei Federal 9.605/98”."
     },
     {
         "id": 697,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CAUSAS_ANIMAIS",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a obrigatoriedade de afixação de cartazes contendo a informação “Maltratar e abandonar animais é crime! Lei Federal 9.605/98”, em todas as repartições públicas municipais de São José dos Campos."
     },
     {
         "id": 698,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
         "text": "Institui o Sistema Municipal de Cultura de São José dos Campos, e dá outras providências."
     },
     {
         "id": 699,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a criar Base Móvel de Apoio aos Moradores de Rua e dá outras providências."
     },
     {
         "id": 700,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a Lei n. 9.154, de 18 de agosto de 2014, que \"Denomina o Instituto Materno Infantil do Residencial Armando Moreira Righi de IMI Prof' Eliana de Oliveira Santos Cruz.\"."
     },
     {
         "id": 701,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a celebrar convênio com o Tribunal de Justiça do Estado de São Paulo, e dá outras providências."
     },
     {
         "id": 702,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRABALHO",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a jornada de trabalho dos profissionais ocupantes dos cargos de Psicólogo, Farmacêutico, Laboratorista Clínico e Nutricionista da administração pública direta e indireta de São José dos Campos."
     },
     {
         "id": 703,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a área verde localizada fronte à Avenida Marilise Martins dos Santos, no Distrito de Eugênio de Melo, fundos com a Rua Flor de Lís e Rua das Alfazemas no Loteamento Jardim das Flores de Área Verde \"Maria Luz Porto Urena\"."
     },
     {
         "id": 704,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "Determina afixação de cartaz informando o número telefônico do Conselho Tutelar, da Delacia de Proteção a Mulher a Criança e ao Adolescente nos estabelecimentos de Ensino Público e Privado no Município."
     },
     {
         "id": 705,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a prioridade de vagas e transferências escolares aos beneficiários do programa habitacional do município de São José dos Campos."
     },
     {
         "id": 706,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de “Avenida Cabo Denison Duarte da Silva”, a chamada Avenida Dois, do Conjunto Habitacional São José dos Campos A, e dá providências."
     },
     {
         "id": 707,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SEGURANCA",
         "tipo": "Projeto de Lei",
         "text": "Fica criado no Município de São José dos Campos, o \"Programa Vizinhança Solidária\"."
     },
     {
         "id": 708,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a área verde do loteamento Jardim das Paineiras, de Stephanie KogaKe Rodrigues."
     },
     {
         "id": 709,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a rua I do Loteamento Santa Hermínia, de rua Ricardo Gomes Dos Santos."
     },
     {
         "id": 710,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "URBANIZACAO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o poder executivo a implantar o Skate in Park - modelo Plaza -, no município de São José dos Campos."
     },
     {
         "id": 711,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua G do Loteamento Santa Hermínia, de Vicente Martins Pinto."
     },
     {
         "id": 712,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "UTILIDADE_PUBLICA",
         "tipo": "Projeto de Lei",
         "text": "Declara de Utilidade Pública a \" Associação Sem Fins Lucrativos dos Voluntários Em Prol do Bom Humor\", de São José dos Campos."
     },
     {
         "id": 713,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e inclui no calendário oficial de festas e comemorações do município de São José dos Campos, o Dia Municipal da Integridade, a ser comemorado no dia 31 de maio de cada ano."
     },
     {
         "id": 714,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": ""
     },
     {
         "id": 715,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Praça localizada entre as Ruas Profª. Joana de Camargo Fonseca, José Candido de Oliveira e Pedro Gonçalves Reis, no Parque Interlagos, de Praça Margareth de Sousa França Gregório."
     },
     {
         "id": 716,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 1 do Loteamento Residencial Dunamis de Rua José Aparecido Ferreira."
     },
     {
         "id": 717,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e inclui no Calendário Oficial de Eventos do Município de São José dos Campos, a “Semana Municipal da Família” a ser comemorada na semana do dia 21 de outubro, e dá outras providências."
     },
     {
         "id": 718,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CAUSAS_ANIMAIS",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo Municipal a implantar, em São José dos Campos, um aplicativo para celular visando facilitar a adoção de animais e/ou denúncias de maus tratos."
     },
     {
         "id": 719,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina o Núcleo de Educação Infantil da Vila César, de Professora Silvia Helena de Souza."
     },
     {
-        "id": 720,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "DISPÕE SOBRE O INCENTIVO À PRÁTICA DE ESPORTES EM ACADEMIAS E CLUBES DESPORTIVOS PARA ALUNOS DE BAIXA RENDA DA REDE PÚBLICA DE ENSINO – PRÓ-ESPORTE, ATRAVÉS DE ISENÇÃO TRIBUTÁRIA PARCIAL DE ISS NO ÂMBITO DO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS E DÁ OUTRAS PROVIDÊNCIAS."
-    },
-    {
         "id": 721,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
         "text": "Fica concedido preferência de uso dos assentos no transporte coletivo urbano do Município de São José dos Campos às pessoas: obesa, gestante, com deficiência ou mobilidade reduzida, idosa ou com criança no colo e dá outras providências."
     },
     {
         "id": 722,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 02 do Loteamento Jardim do Golfe, de Padre Antonio Corso."
     },
     {
         "id": 723,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a incluir no currículo da Rede Municipal de Ensino, o estudo sobre a História e Cultura Afro-Brasileira"
     },
     {
         "id": 724,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SAUDE",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a distribuir gratuitamente fraldas descartáveis para usuários do sistema municipal de saúde, e dá outras providências"
     },
     {
         "id": 725,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e inclui no calendário oficial de festas e comemorações do município, a Semana de Estudos e Conscientização sobre a Síndrome Pós-Pólio."
     },
     {
         "id": 726,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ORCAMENTO",
         "tipo": "Projeto de Lei",
         "text": "Disciplina os procedimentos relativos aos depósitos judiciais e administrativos em dinheiro, tributários ou não tributários, bem como seus respectivos acessórios, de que trata a Lei Complementar n. 151, de 5 de agosto de 2015, que alterou a Lei Complementar n. 148, de 25 de novembro de 2014, revogou as Leis nº 10.819, de 16 de dezembro de 2003 e 11.429, de 26 de dezembro de 2006, e dá outras providências.\""
     },
     {
         "id": 727,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 08 do Loteamento Jardim do Golfe do município de São José dos Campos de Rua Dulcinéia dos Reis."
     },
     {
         "id": 728,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SAUDE",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre o tempo de espera por atendimento médico nos casos de menor de urgência nos serviços de saúde do Município de São José dos Campos."
     },
     {
         "id": 729,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ORCAMENTO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Instituto de Previdência do Servidor Municipal a adquirir imóvel para instalação de sua sede, autoriza o Poder Executivo a abrir crédito adicional especial ao Instituto de Previdência do Servidor Municipal, e dá outras providências."
     },
     {
         "id": 730,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a celebrar convênio com a Associação de Pró-Gestão das Águas da Bacia Hidrográfica do Rio Paraíba do Sul - Agevap, objetivando desenvolver ações de restauração e conservação florestal no município de São José dos Campos e dá outras providências."
     },
     {
         "id": 731,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de “Rua José Raimundo Damião”, a Rua 5 (cinco), do Jardim dos Coqueiros, e dá providências."
     },
     {
         "id": 732,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
         "text": "DISPÕE SOBRE A PROIBIÇÃO DO USO DE PLACAS INFORMATIVAS E IMPRESSÃO EM BILHETES OU CUPONS, EM ESTACIONAMENTO E/OU SIMILARES NO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS COM O SEGUINTE DIZER: NÃO NOS RESPONSABILIZAMOS POR OBJETOS DEIXADOS NO INTERIOR DO VEÍCULO E DÁ OUTRAS PROVIDÊNCIAS."
     },
     {
         "id": 733,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a criar a Inscrição Municipal Provisória – IMP, para estabelecimentos comerciais e afins, localizados em bairros com processo de regularização fundiária concluídas no município de São José dos Campos."
     },
     {
         "id": 734,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ORCAMENTO",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre abertura de crédito adicional suplementar no valor de R$ 300.000,00"
     },
     {
         "id": 735,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e inclui no calendário oficial de festas e comemorações do município, o Dia do Migrante."
     },
     {
         "id": 736,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CAUSAS_ANIMAIS",
         "tipo": "Projeto de Lei",
         "text": "Autoriza a Prefeitura a criar o Serviço de Atendimento Médico de Emergência Veterinário – denominado de SAMU Pet, no município de São José dos Campos."
     },
     {
         "id": 737,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua K, no loteamento Santa Hermínia, região leste de São José dos Campos como Rua FLÁVIA ROSANA DOS SANTOS ROSA CABRAL"
     },
     {
         "id": 738,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRABALHO",
         "tipo": "Projeto de Lei",
         "text": "DISPÕE SOBRE A PROIBIÇÃO DA NOMEAÇÃO DE SERVIDORES COMISSIONADOS NO ÂMBITO DO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS/SP QUE NÃO COMPROVAREM RESIDÊNCIA E DOMICÍLIO NESTA CIDADE DURANTE O PERÍODO DE QUATRO ANOS IMEDIATEAMENTE ANTERIOR À DATA DA NOMEAÇÃO E DÁ OUTRAS PROVIDÊNCIAS."
     },
     {
         "id": 739,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "Dispensa o pagamento das taxas com a realização de funeral à pessoa que tiver doado, por ato próprio ou por meio de seus familiares ou responsáveis, seus órgãos ou tecidos corporais para fins de transplante médico, no Município e dá outras providências."
     },
     {
         "id": 740,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina o Campo de Futebol do Conjunto Residencial Galo Branco, de Campo de Futebol Luismar Leopoldino de Meirelles."
     },
     {
         "id": 741,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "UTILIDADE_PUBLICA",
         "tipo": "Projeto de Lei",
         "text": "Declara de Utilidade Pública a “Associação Missionários da Santíssima Trindade”."
     },
     {
         "id": 742,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a redação do Parágrafo 3º do art. 3º da Lei 8.940 de 16 de maio de 2013 que dispõe sobre ruídos urbanos e proteção do bem-estar e do sossego público no âmbito do município de São José dos Campos."
     },
     {
         "id": 743,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o usuário a instalar equipamento eliminador de ar na tubulação do sistema de abastecimento de água e dá outras providências."
     },
     {
         "id": 744,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ORCAMENTO",
         "tipo": "Projeto de Lei",
         "text": "Estima a Receita e Fixa a Despesa do Município de São José dos Campos, para o exercício de 2016."
     },
     {
         "id": 745,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Substitui os anexos VI-A e VII da Lei n. 9.273, de 15 de julho de 2015 que \"Estabelece as Diretrizes Orçamentárias para o exercício de 2016.\"."
     },
     {
         "id": 746,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera, inclui e exclui Programas, Metas, Indicadores, Unidades de Medidas e Ações, substituindo os Anexos I, II, III e IV da Lei n. 9.070, de 16 de dezembro de 2013, com suas alterações, que \"Dispõe sobre o Plano Plurianual para o período de 2014 a 2017.\"."
     },
     {
         "id": 747,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 3 do Loteamento Vila Matilde 2, de Rua José Aparecido Ferreira."
     },
     {
         "id": 748,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CAUSAS_ANIMAIS",
         "tipo": "Projeto de Lei",
         "text": "Autoriza a Prefeitura Municipal  a conceder desconto ou isenção de tributos aos munícipes que adotem animais e dá outras providências."
     },
     {
         "id": 749,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
         "text": "Cria e Institui o Circuito Joseense de Skate."
     },
     {
         "id": 750,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui o diploma “AMIZADE PARA SEMPRE”, em comemoração aos 120 anos do  “Tratado de Amizade Comercio e Navegação” entre o Brasil e o Japão."
     },
     {
         "id": 751,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e inclui no calendário oficial de festas e comemorações do município, a Semana de Estudos e Conscientização sobre o Diabetes e a Doença Celíaca."
     },
     {
         "id": 752,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a Lei Municipal n.º 8077/10 que “Dispõem sobre a construção, manutenção e conservação das calçadas no município, e dá outras providências.”"
     },
     {
         "id": 754,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a viela localizada entre a Av. Nicanor Reis e Rua Domilheta de Moraes, no Parque Interlagos, de Viela Benedita da Silva Dantas."
     },
     {
         "id": 755,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SAUDE",
         "tipo": "Projeto de Lei",
         "text": "DISPÕE SOBRE A PROIBIÇÃO DO USO EM LOCAIS PÚBLICOS E DA VENDA, PARA MENORES DE 18 (DEZOITO) ANOS, DE CACHIMBO CONHECIDO COMO “NARGUILE’ NO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS/SP E DÁ OUTRAS PROVIDÊNCIAS."
     },
     {
         "id": 756,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e inclui no Calendário Oficial de Festas e Comemorações do Município de  São José dos Campos o \"Dia Municipal do Fusca\", a ser comemorado anualmente no dia 14 de julho."
     },
     {
         "id": 757,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e Inclui no Calendário Oficial de Festas e Comemorações do município, o evento “Expo Vale Cristã” e dá providências."
     },
     {
         "id": 758,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MEIO_AMBIENTE",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a obrigatoriedade do uso de lâmpadas de LED em todos os órgãos da Administração do município de São José dos Campos e dá outras providências."
     },
     {
         "id": 759,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo Municipal a incluir alimentos orgânicos ou de base agroecológica na alimentação escolar no âmbito do Sistema Municipal de Ensino de São José dos Campos, e dá outras providências."
     },
     {
         "id": 760,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONSUMIDOR",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a implantação do “Mercado Social” no Município de São José dos Campos como alternativa ao consumidor de baixa renda e dá outras providências."
     },
     {
         "id": 761,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
         "text": "DISPOE NO ÂMBITO DO MUNICIPIO DE SÃO JOSÉ DOS CAMPOS SOBRE A PROIBIÇÃO DO USO DE CARROS PARTICULARES CADASTRADOS EM APLICATIVOS PARA O TRANSPORTE REMUNERADO INDIVIDUAL DE PESSOAS E DÁ OUTRAS PROVIDÊNCIAS."
     },
     {
         "id": 762,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a Lei Municipal 8.698 de 18/05/2012 que dispõe sobre normas gerais para permissão do serviço de transporte de passageiros em veículos de aluguel (táxi)."
     },
     {
         "id": 763,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CAUSAS_ANIMAIS",
         "tipo": "Projeto de Lei",
         "text": "Proíbe o abandono de animais domésticos ou domesticados em logradores públicos ou áreas particulares de São José dos Campos e dá outras providências."
     },
     {
         "id": 764,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CAUSAS_ANIMAIS",
         "tipo": "Projeto de Lei",
         "text": "Proíbe o abandono de animais domésticos ou domesticados em logradores públicos ou áreas particulares de São José dos Campos e dá outras providências."
     },
     {
         "id": 765,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SAUDE",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a permanência de acompanhantes das gestantes assistidas nas unidades de saúde do Município."
     },
     {
         "id": 766,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
         "text": "Institui no Município de São José dos Campos as normas para o desembarque de pessoas do sexo feminino, no período noturno, do transporte coletivo urbano municipal e dá outras providencias."
     },
     {
         "id": 767,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SAUDE",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Público a criar Campanha Municipal de incentivo à utilização do filtro solar."
     },
     {
         "id": 768,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "IDOSO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a Instituir a Política Municipal de Informação e Orientação aos Idosos sobre Previdência Social e Assistência Social no Município e dá outras providências."
     },
     {
         "id": 769,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Travessa remanescente da matrícula imobiliária nº 10.312, no bairro Vista Verde, Região Leste de São José dos Campos, como RUA ANTÍGUA."
     },
     {
         "id": 770,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "UTILIDADE_PUBLICA",
         "tipo": "Projeto de Lei",
         "text": "Declara de Utilidade Pública o “Instituto Magneto Cultural”."
     },
     {
         "id": 771,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": ""
     },
     {
         "id": 772,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a Lei n. 4.598, de 4 de julho de 1994, que \"Institui junto à Secretaria de Esportes e Lazer, o Fundo de Apoio ao Desporto não Profissional do Município de São José dos Campos e dá providências.\"."
     },
     {
         "id": 773,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MEIO_AMBIENTE",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a proteção e preservação de parte do Parque Natural Municipal Augusto Ruschi, situado no Loteamento do Costinha, e dá outras providências."
     },
     {
-        "id": 775,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a área de esporte próximo da Fundhas na Rua Sete de Setembro ao lado do nº 550, atrás da UPA de Eugênio de Melo de \"Praça de Esportes Décio Pedroza dos Anjos\"."
-    },
-    {
         "id": 776,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina o Campo de Futebol localizado na Rua Antonio Aleixo da Silva, nº 1435, no Jardim Satélite, de Campo de Futebol “Oswaldo Martins”."
     },
     {
         "id": 777,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Estrada Saboya, no Distrito de São Francisco Xavier, de Estrada Municipal Humberto Saboya de Albuquerque."
     },
     {
         "id": 778,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
         "text": "Proíbe o uso de carros particulares cadastrados em aplicativos, para o transporte remunerado individual de pessoas em São José dos Campos e dá outras providências."
     },
     {
         "id": 779,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 4 do Residencial Campo Belo de Rua  Ipê Florido."
     },
     {
         "id": 780,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 3 do Residencial Campo Belo de Rua Cedro do Líbano."
     },
     {
         "id": 781,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denominada a área verde localizada na Rua Airto Pelógia, fronte ao nº 1205 no residencial Galo Branco de, \"Praça Geneci Rosa Pinto Teixeira\"."
     },
     {
         "id": 782,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRABALHO",
         "tipo": "Projeto de Lei",
         "text": "AUTORIZA A PREFEITURA A CONCEDER INCENTIVO AOS AGENTES COMUNITÁRIOS DE SAÚDE DO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS/SP E DÁ OUTRAS PROVIDÊNCIAS"
     },
     {
         "id": 783,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
         "text": "DISPÕE SOBRE A UTILIZAÇÃO DE DISPOSITIVO DE ALERTA NOS VEÍCULOS DE TRANSPORTE COLETIVO DO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS/SP E DÁ OUTRAS PROVIDÊNCIAS."
     },
     {
         "id": 784,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "Proíbe a veiculação de propaganda eleitoralpor meio da fixação de outdoors, placas,faixas, cartazes, pinturas ou inscrições em bensparticulares, bem como a colocação decavaletes, bonecos ou cartazes contendopropaganda eleitoral nas vias públicas ecalçadas do Município, e dá outrasprovidências."
     },
     {
         "id": 785,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a área verde localizada entre as Ruas Waldemar Luiz Consiglio, Celso Negrão e Waldomiro Nunes ao da creche IMI Profª Eliana de Oliveira Santos Cruz no Residencial Armando Moreira Righi de \"Praça Professora Dejanira Moreira Machado dos Santos\"."
     },
     {
         "id": 786,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 3, no bairro Recanto dos Eucaliptos, de Rua Paulo Antonio."
     },
     {
         "id": 787,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MANUTENCAO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Executivo a criar o programa de preservação, revitalização dos Campos de Futebol de Várzea do município."
     },
     {
-        "id": 788,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a proibição do uso de carros particulares cadastrados em aplicativos para o transporte remunerado individual de pessoas para locais pré-estabelecidos e dá outras providências."
-    },
-    {
         "id": 789,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e inclui no calendário oficial de festas e comemorações do município, a Semana de Estudos e Conscientização sobre o Diabetes e a Doença Celíaca."
     },
     {
         "id": 790,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a permissão do uso das faixas exclusivas de ônibus por veículos particulares no horário entre às 21h00 e 05h00 no Município de São José dos Campos e dá outras providências."
     },
     {
         "id": 791,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SAUDE",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a obrigatoriedade dos restaurantes e similares em conceder descontos e/ou meia porção para as pessoas que realizaram cirurgia bariátrica ou qualquer outra gastroplastia na forma que especifica e dá outras providências."
     },
     {
         "id": 792,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a área verde localizada na Rua das Íris, fronte ao nº 61, atrás da Rua das Alíseas, nº 222 no bairro Jardim das Flores de \"Praça Luiz Claúdio Ribeiro\"."
     },
     {
         "id": 793,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a rua que liga a Av. Jorge Zarur à Rua Santa Ana, no bairro Vila Nova Conceição, de Rua Ana da Conceição de Souza."
     },
     {
         "id": 794,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 03 do Loteamento Chácaras Araújo II, de Rua São Luiz do Paraitinga."
     },
     {
         "id": 795,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a área verde localizada na Rua das Begônias, fronte ao nº 352 no bairro Jardim das Flores de \"Praça Adriana Aparecida Ribeiro\"."
     },
     {
         "id": 796,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a área verde localizada entre a Praça Ronaldo Davoli na entrada da portaria com a Rua Flôr de Lís, atrás do Centro Comercial, nº 110 no bairro Jardim das Flores de \"Praça Lucas Cordeiro Borges\"."
     },
     {
         "id": 797,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a área verde localizada na Rua das Begônias, fronte ao nº 232 no residencial Jardim das flores de \"Praça Antonio Luiz Siqueira Campos\"."
     },
     {
         "id": 798,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a área verde localizada na Rua Flôr de Lís, fronte ao nº 73, no bairro Jardim das Flores de \"Praça Delfim Batista Ribeiro Júnior\"."
     },
     {
         "id": 799,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a renovar convênio com o Governo do Estado de São Paulo para a execução de serviços pelo Corpo de Bombeiros da Polícia Militar, e dá outras providências."
     },
     {
         "id": 800,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "TRANSPORTE",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a necessidade da velocidade  dos veículos automotores seja regulada  conforme  normatização do DENATRAN"
     },
     {
         "id": 801,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a área verde localizada entre a Rua Mário Campos e a Estrada Municipal Martins Guimarães, no bairro Chácara dos Eucaliptos de Praça “Leda de Fátima Rodrigues Santos”."
     },
     {
         "id": 802,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a área verde localizada na Rua Miguel de Melo Braga, no bairro Jardim São Jorge de Praça Maria Benedita dos Santos - “Lili Figureira”."
     },
     {
         "id": 803,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a instituir no âmbito do ensino fundamental a disciplina “Ensino Religioso” de natureza não confessional e facultativa."
     },
     {
         "id": 804,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "UTILIDADE_PUBLICA",
         "tipo": "Projeto de Lei",
         "text": "Declara de Utilidade Pública a Associação Brasileira em Defesa dos Doentes Mentais e Seus Familiares - ABRADEM."
     },
     {
         "id": 805,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o poder Executivo a realizar convênio com o Governo do Estado de São Paulo para o fornecimento de cursos gratuitos de línguas aos alunos do ensino fundamental da rede municipal, através do CEL - Centro de Estudos de Línguas, da Secretaria da Educação Estadual."
     },
     {
         "id": 806,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 2 do Loteamento Residencial Montserrat de Rua Dr. Luiz Fernando Leite Chaves."
     },
     {
         "id": 807,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "CRIA O SELO “EMPRESA AMIGA DA BICICLETA” NO ÂMBITO DO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS/SP E DÁ OUTRAS PROVIDÊNCIAS"
     },
     {
         "id": 808,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONSUMIDOR",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a comercialização de alimentos em vias e áreas públicas - comida de rua “bike food”, em todo o município de São José dos Campos e dá outras providências"
     },
     {
         "id": 809,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "INSTITUI e inclui no calendário de evento do município o dia 23 de Julho \"DIA DE ENFRENTAMENTO À SITUAÇÃO DE MORADIA NAS RUAS DE CRIANÇAS E ADOLESCENTES”. “Criança Não é de Rua”."
     },
     {
         "id": 810,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e Inclui no Calendário Oficial de Festas e Comemorações do município, a “Expo Vale Nutrition Release”."
     },
     {
         "id": 811,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SEGURANCA",
         "tipo": "Projeto de Lei",
         "text": "Proíbe a comercialização e uso de linhas do tipo \"chilena\" nas condições em que estabelece e dá outras providências."
     },
     {
         "id": 812,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "UTILIDADE_PUBLICA",
         "tipo": "Projeto de Lei",
         "text": "Declara de Utilidade Pública a \" Associação Alpha para Educação Especial\" de São José dos Campos."
     },
     {
         "id": 813,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CAUSAS_ANIMAIS",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a criar a Feira Municipal de Adoção de Animais em São José dos Campos, a ser realizado no último domingo de cada mês no Parque da Cidade."
     },
     {
         "id": 814,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SEGURANCA",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a proibição de uso de aparelhos celulares ou rádio de comunicação tipo Nextel ou similar, em casas lotéricas, bem como torna obrigatória a instalação de câmeras externas de vídeo para fins de controle da segurança na entrada e saída dos clientes desses estabelecimentos."
     },
     {
         "id": 815,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CAUSAS_ANIMAIS",
         "tipo": "Projeto de Lei",
         "text": "Proíbe a produção e a comercialização de artigos derivados da pele de animais, no município de São José dos Campos, e dá outras providências."
     },
     {
         "id": 816,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo, por intermédio da Secretaria de Educação, a celebrar convênio com aAssociação Missionários da Santíssima Trindade, para o desenvolvimento do Centro de Educação Infantil do Jardim Castanheira, e dá outras providências."
     },
     {
         "id": 817,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ORCAMENTO",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre abertura de crédito adicional suplementar no valor de R$ 3.350.000,00"
     },
     {
         "id": 818,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SAUDE",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a celebrar convênio com a Associação Nossa Casa de Acolhida objetivando o desenvolvimento de ações que visam diminuir a vulnerabilidade a Doenças Sexualmente Transmissíveis."
     },
     {
         "id": 819,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
         "text": "AUTORIZA A CRIAÇÃO DE MATÉRIA OBRIGATÓRIA DE ÉTICA E PRÁTICAS DE SEGURANÇA NA INTERNET PARA ALUNOS DO ENSINO FUNDAMENTAL DA REDE MUNICIPAL DE ENSINO DE SÃO JOSE DOS CAMPOS/SP"
     },
     {
         "id": 820,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Acrescenta ao Art. 7º da Lei Municipal nº 6.057, de 28.03.2002, dois parágrafos."
     },
     {
         "id": 821,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ORCAMENTO",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre concessão de reajuste de vencimentos e salários dos servidores públicos do Poder Executivo, e dá outras providências."
     },
     {
-        "id": 825,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Rua 09 (Nove) do Loteamento Chácara Araújo II de Rua Eduardo Lino."
-    },
-    {
         "id": 826,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 07 (Sete) do Loteamento Chácara Araújo II de Rua Silveiras."
     },
     {
-        "id": 827,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Escola Municipal de Ensino Fundamental do Residencial Frei Galvão de EMEF. Profª Denise Prates Fernandes Rocha."
-    },
-    {
         "id": 828,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Institui e inclui no Calendário de Festas e Comemorações  do Município o “CONTAI - Festival de Contação de História de São José dos Campos”."
     },
     {
         "id": 829,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SEGURANCA",
         "tipo": "Projeto de Lei",
         "text": "AUTORIZA A PREFEITURA A INSTALAR EM TODOS OS VEÍCULOS DA FROTA MUNICIPAL DE SÃO JOSÉ DOS CAMPOS/SP EQUIPAMENTO DE RASTREAMENTO E MONITORAMENTO POR GPS E DÁ OUTRAS PROVIDÊNCIAS."
     },
     {
-        "id": 830,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Fica proibido em todo o Município de São José dos Campos, a utilização e exposição de modelos natural ou fotográfico imitando imagens religiosas, femininos ou masculinos, adultos ou infantis, despidos ou parcialmente nus ou em pose que sugira nudez parcial ou total em manifestações públicas ou particulares."
-    },
-    {
         "id": 831,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ACESSIBILIDADE",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre o \"atendimento aos alunos deficientes surdos-mudos e visuais nos cursinhos preparatórios para o pré-vestibular, e dá outras providências”."
     },
     {
         "id": 832,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MANUTENCAO",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a avaliação periódica dos equipamentos esportivos do Município, e dá outras providências."
     },
     {
         "id": 833,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de Centro Esportivo Luiz Otávio Silva o campo de futebol localizado na Vila Machado, e dá providências."
     },
     {
         "id": 834,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CAUSAS_ANIMAIS",
         "tipo": "Projeto de Lei",
         "text": "Proíbe a produção e a comercialização de foie gras no município de São José dos Campos, e dá outras providências."
     },
     {
         "id": 835,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de Centro Esportivo Luis Otávio Silva o campo de futebol localizado na Vila Machado, e dá providências."
     },
     {
         "id": 836,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a Lei 6946 de 15 de dezembro de 2005."
     },
     {
         "id": 837,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de Rua Nelson Gonçalves bem a chamada Rua Seis do Bairro Jardim do Golfe, e dá providências."
     },
     {
         "id": 838,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "URBANIZACAO",
         "tipo": "Projeto de Lei",
         "text": "“Dispõe sobre a obrigatoriedade, para todas as edificações, da ligação de canalização do esgoto à rede coletora pública, nos logradouros em que ela exista, e dá outras providências”"
     },
     {
         "id": 839,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "URBANIZACAO",
         "tipo": "Projeto de Lei",
         "text": "“Dispõe sobre a obrigatoriedade, para todas as edificações, da ligação de canalização do esgoto à rede coletora pública, nos logradouros em que ela exista, e dá outras providências”"
     },
     {
         "id": 840,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Estrada conhecida como Estrada da Vicentina localizada no Jardim Santa Hermínia, de Estrada Roseli Aparecida de Almeida Ferreira."
     },
     {
         "id": 841,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 2 localizada no Jardim dos Coqueiros, de Rua Osmar de Oliveira."
     },
     {
         "id": 842,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de Rua Eder Oliveira Prata a Rua Três do Jardim dos Coqueiros, e dá providências."
     },
     {
         "id": 843,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de Rua Nelson Gonçalves bem a chamada Rua Seis do Bairro Jardim do Golfe, e dáprovidências."
     },
     {
         "id": 844,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de Av. Cabo Donato Gomes Barbosa a chamada Avenida \"A\" do Bairro Recanto dos Tamoios, e dá providencias."
     },
     {
         "id": 845,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "UTILIDADE_PUBLICA",
         "tipo": "Projeto de Lei",
         "text": "Declara de Utilidade Pública a “Câmara de Comércio Exterior do Vale do Paraíba – CACOMEX - VP”"
     },
     {
         "id": 846,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ORCAMENTO",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a obrigatoriedade do Poder Executivo Municipal em divulgar o valor gasto em cada propaganda oficial e dá outras providências."
     },
     {
         "id": 847,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Oficializa e Inclui no Calendário de Festas e Comemorações do Município o \"Dia VemSer - Programa Municipal Sobre Drogas \"."
     },
     {
         "id": 848,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "DATA_COMEMORATIVA",
         "tipo": "Projeto de Lei",
         "text": "Cria a \"GINCANA VemSer \", atividade integrante do Programa Municipal Sobre Drogas - VemSer e a inclui no calendário oficial de eventos do Município, e dá outras providências."
     },
     {
         "id": 849,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SEGURANCA",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Município a criar o Plano Municipal de Redução de Risco - PMRR de São José dos Campos e dá outras providências."
     },
     {
         "id": 850,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ORCAMENTO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a conceder o aumento real da inflação aos servidores públicos municipais de São José dos Campos."
     },
     {
         "id": 851,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza a Prefeitura de São José dos Campos a implantação da feira livre no período noturno na REGIÃO SUL, e dá outras providências."
     },
     {
         "id": 852,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina o CCZ - Centro de Controle de Zoonose, de São José dos Campos, de Dr. João Marcos de Lima Rodrigues."
     },
     {
         "id": 853,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de Avenida Paulo Moraes Júnior a avenida localizada entre a Av. Brigadeiro Faria Lima e o Aeroporto Internacional, e dá providências."
     },
     {
         "id": 854,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a Lei 9.258, de 5 de maio de 2015, que “Institui o Programa Municipal de Compra Assistida, e dá outras providências”."
     },
     {
         "id": 855,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
         "text": "Altera a Lei 2046/1978, que “Dispõe sobre a regulamentação de propaganda e publicidade do Município”."
     },
     {
         "id": 856,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 1 (um) do Loteamento Jardim Nova Michigan II, de Rua Ruy Pereira Gomes."
     },
     {
         "id": 857,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Travessa 3 (três) do Loteamento Jardim Nova Michigan II, de Travessa Luis Carlos Ossamu Kishi."
     },
     {
         "id": 858,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a rua 05 (cinco) do Loteamento Chácara do Araújo II,  de Rua Areias."
     },
     {
         "id": 859,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a rua 01 (um) do Loteamento Chácara do Araújo II, de rua Bananal."
     },
     {
         "id": 860,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a quadra localizada na área verde entre a Praça Nossa Senhora da Soledade e a caixa d´água da SABESP, no bairro Vista Verde, de quadra Gilberto da Silva."
     },
     {
         "id": 861,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua J, do Loteamento Santa Hermínia, de Rua Espinela."
     },
     {
         "id": 862,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua L, do Loteamento Santa Hermínia, de Rua Citrino."
     },
     {
         "id": 863,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua nº 06, do Loteamento Jardim dos Coqueiros,  de Rua Benedito Rodrigues Mathias."
     },
     {
         "id": 864,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua nº 04, do Loteamento Jardim dos Coqueiros,  de Rua José Marquete de Sousa."
     },
     {
         "id": 865,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "SEGURANCA",
         "tipo": "Projeto de Lei",
         "text": "Autoriza O Poder Executivo Municipal a disponibilizar a Guarda Civil Municipal de São José dos Campos para auxiliar no monitoramento da eficácia do cumprimento de medidas protetivas."
     },
     {
-        "id": 866,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a área verde localizada na Rua Henrique Dias, fronte aos números 45 e 83, na Vila Progresso de Praça Auta de Matos Santos \"Dna. Auta\"."
-    },
-    {
-        "id": 867,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Rua B do Loteamento Santa Hermínia de\" Rua Pedra da Lua\"."
-    },
-    {
-        "id": 868,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Rua 04 do Loteamento Chácara Araújo II de Rua Lavrinhas."
-    },
-    {
-        "id": 869,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Rua 7, no bairro Jardim dos Coqueiros, região leste de São José dos Campos como Rua Jorge Caetano dos Reis"
-    },
-    {
-        "id": 870,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Rua 8, no bairro Jardim Santa Hermínia, região leste de São José dos Campos como Rua Flávia Rosana dos Santos Rosa Cabral"
-    },
-    {
-        "id": 871,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Rua 4, no bairro Jardim do Golf, região oeste de São José dos Campos como Rua Mildes Agripina Junqueira Pereira."
-    },
-    {
-        "id": 872,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Rua 1 do loteamento Jardim dos Coqueiros, região leste de São José dos Campos, de Rua Vergilio Boschetti"
-    },
-    {
-        "id": 873,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Rua 05 do Loteamento Jardim do Golfe, de Carina Torres Mota"
-    },
-    {
-        "id": 874,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Denomina a Rua 03 do Loteamento Jardim do Golfe, de Paulo de Faria"
-    },
-    {
         "id": 875,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 03 do Loteamento Chácaras Araújo II, de Rua Aparecida."
     },
     {
         "id": 876,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 02 do Loteamento Chácaras Araújo II, de Rua Arapeí."
     },
     {
         "id": 877,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina  a Travessa 02  do Loteamento Jardim Nova Michigan II de \"Travessa  Dimas Moreira dos Santos\"."
     },
     {
         "id": 878,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a via que liga a Rua Rio Grande do Sul a Avenida Deputado Benedito Matarazzo, localizada na Vila São Pedro, de Rua Rosalina Ana dos Santos."
     },
@@ -5083,31 +4957,31 @@
     },
     {
         "id": 880,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 6 do Loteamento Chácara Araújo II de Rua São José do Barreiro."
     },
     {
         "id": 881,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 08 do Loteamento Chácaras Araújo II, de Rua Eugênio de Paula Araújo."
     },
     {
         "id": 882,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Avenida 01 do Loteamento Chácaras Araújo II, de Avenida Cesário de Araújo."
     },
     {
         "id": 883,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua C do loteamento Jardim Santa Hermínia de Rua Ônix."
     },
     {
         "id": 884,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua A do loteamento Jardim Santa Hermínia de Rua Pedra do Sol."
     },
@@ -5143,13 +5017,13 @@
     },
     {
         "id": 890,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua M, do Loteamento Santa Hermínia, de Rua Antonio Rigobeli."
     },
     {
         "id": 891,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Rua 2 e 7(prolongamento da Rua 2) loteamento Portal do Céu de Rua “José Ivo Mendes”."
     },
@@ -5209,7 +5083,7 @@
     },
     {
         "id": 901,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Escola Municipal de Ensino Fundamental do Residencial Frei Galvão de EMEF. Profª Iolina Rosa de Lima."
     },
@@ -5236,6 +5110,54 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Decreto Legislativo",
         "text": "Institui a “MEDALHA GILSON DE CÁSSIA CARVALHO” em São José dos Campos."
+    },
+    {
+        "id": 867,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Rua B do Loteamento Santa Hermínia de\" Rua Pedra da Lua\"."
+    },
+    {
+        "id": 868,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Rua 04 do Loteamento Chácara Araújo II de Rua Lavrinhas."
+    },
+    {
+        "id": 869,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Rua 7, no bairro Jardim dos Coqueiros, região leste de São José dos Campos como Rua Jorge Caetano dos Reis"
+    },
+    {
+        "id": 870,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Rua 8, no bairro Jardim Santa Hermínia, região leste de São José dos Campos como Rua Flávia Rosana dos Santos Rosa Cabral"
+    },
+    {
+        "id": 871,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Rua 4, no bairro Jardim do Golf, região oeste de São José dos Campos como Rua Mildes Agripina Junqueira Pereira."
+    },
+    {
+        "id": 872,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Rua 1 do loteamento Jardim dos Coqueiros, região leste de São José dos Campos, de Rua Vergilio Boschetti"
+    },
+    {
+        "id": 873,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Rua 05 do Loteamento Jardim do Golfe, de Carina Torres Mota"
+    },
+    {
+        "id": 874,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Rua 03 do Loteamento Jardim do Golfe, de Paulo de Faria"
     },
     {
         "id": 905,
@@ -5347,7 +5269,7 @@
     },
     {
         "id": 923,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de Estrada Alice de Souza Simão a estrada localizada na Av. José Marcondes Pereira, Vila Rossi, e dá providências."
     },
@@ -5365,7 +5287,7 @@
     },
     {
         "id": 926,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de Dojô Sensei Kishi, a Sala de Judô,   localizada no Centro Poliesportivo do João do Pulo."
     },
@@ -5389,13 +5311,13 @@
     },
     {
         "id": 930,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "“Denomina a Rua H no Bairro Jardim Santa Hermínia, de RUA FRANCISCO CUNHA LARANJEIRA”."
     },
     {
         "id": 931,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Academia ao Ar Livre localizada  na  Praça Nossa Senhora Soledade,  no bairro Vista Verde,  de Academia Gilberto da  Silva."
     },
@@ -5461,7 +5383,7 @@
     },
     {
         "id": 942,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "DENOMINA A RUA M NO BAIRRO JARDIM SANTA HERMÍNIA, DE RUA JOSÉ FRANKILIN SANT’ANA"
     },
@@ -5521,7 +5443,7 @@
     },
     {
         "id": 952,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Praça na intersecção da Rua Corifeu de Azevedo Marques com a Rua Winston Churchill, no bairro Jardim das Indústrias, como “Praça Comendador Kalczuk”."
     },
@@ -5551,7 +5473,7 @@
     },
     {
         "id": 957,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de Centro Esportivo José Moreira da Silva o centro esportivo localizado na Avenida Um, Mirantes do Buquirinha, e dá providências."
     },
@@ -5587,7 +5509,7 @@
     },
     {
         "id": 963,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a viela localizada entre a Rua Avelina Dias de Souza e Avenida Joaquim Moreira Ávila, no bairro Jardim Minas Gerais de Viela Maria Rosa Santos."
     },
@@ -5623,7 +5545,7 @@
     },
     {
         "id": 969,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina a Quadra Poliesportiva localizada entre as ruas Manoel Alves Feitosa e Miguel Orlando de Freitas, no bairro Residencial Vista Linda de Quadra Poliesportiva “Manoel José Pinto”"
     },
@@ -5641,7 +5563,7 @@
     },
     {
         "id": 972,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de Irmã Maria da Penha Aguiar e Silva a creche localizada na Rua Reinaldo Carneiro, Jardim Minas Gerais, e dá providências."
     },
@@ -5713,13 +5635,13 @@
     },
     {
         "id": 984,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Fica denominada a Área Verde localizada na esquina da Av. Antônio Pádua Santos com a Rua Alberto Pinto Ferreira, no bairro Altos do Bosque em São José dos Campos, de Área Verde Jaime Priante."
     },
     {
         "id": 985,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Fica denominada a Área Verde localizada na Av. Ouro Fino, próximo ao nº 1674, do bairro Bosque dos Eucaliptos, em São José dos Campos, de Área Verde Maria Conceição de Carvalho de Cerqueira."
     },
@@ -5749,7 +5671,7 @@
     },
     {
         "id": 990,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Fica denominada a Área Verde localizada no final das Ruas Pedro Nunes Souza e Dr. Octavio Monteiro Becker, no bairro Jardim Terras do Sul, em São José dos Campos, de Área Verde José Borges da Fonseca."
     },
@@ -5797,7 +5719,7 @@
     },
     {
         "id": 998,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina o Núcleo de Educação Infantil localizado no Loteamento Chácaras Reunidas de Núcleo de Educação Infantil Professora Ilza Nascimento Pintus."
     },
@@ -5839,13 +5761,13 @@
     },
     {
         "id": 1014,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Decreto Legislativo",
         "text": "Denomina a sala da TV Câmara na Câmara Municipal de São José dos Campos, de \"Sala Jornalista Dailor Varela\"."
     },
     {
         "id": 1016,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Decreto Legislativo",
         "text": "Denomina o gabinete da Presidência da Câmara Municipal de São José dos Campos, de \"Sala Dr. José Rubens Barbosa\"."
     },
@@ -5965,7 +5887,7 @@
     },
     {
         "id": 1198,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Decreto Legislativo",
         "text": "Denomina a Via Contígua ao Templo da  Primeira Igreja Batista – PIB/Campus-Colina, localizada no Km 148 da Rodovia Presidente Dutra, Bairro Tatetuba – São José dos Campos – SP., como  Rua Pastor ITAMAR FRANCISCO DE SOUZA."
     },
@@ -11299,7 +11221,7 @@
     },
     {
         "id": 2289,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "NOMEACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Oficializa e denomina de Rua Japurá o seu prolongamento, e autoriza a Prefeitura Municipal apromover a regularização fundiária e urbanística dos lotes nela situados, e dá outras providências."
     },
@@ -19495,7 +19417,7 @@
     },
     {
         "id": 3746,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com os familiares pela solenidade de denominação da Unidade Norte da Fundhas –  Bernardo  Alberto Rohde."
     },
@@ -19645,13 +19567,13 @@
     },
     {
         "id": 3770,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Carlos Gustavo Martimiano Dos Santos parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3771,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Evangelista Lindomar Ferreira dos Santos parabenizando-o pelo seu aniversário."
     },
@@ -19663,103 +19585,103 @@
     },
     {
         "id": 3773,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Willis Bento Goulart parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3774,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor José Candido Peixoto parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3775,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Francisco Cesar parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3776,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Thiago S. Espindola parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3777,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Mauricio Keske parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3778,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se pelo Dia Internacional da Pessoa Idosa que é comemorado no dia 1º de outubro."
     },
     {
         "id": 3779,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com os Administradores pelo o seu dia, comemorado em 9 de setembro em todo o território brasileiro."
     },
     {
         "id": 3780,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Manifesta apoio aos Técnicos da Fazenda Estadual de São Paulo pelo movimento reivindicatório visando melhorias nos planos da carreira através da pauta encaminhada pelo SITESP – Sindicato dos Técnicos da Fazenda Estadual – São Paulo enviando tais pleitos ao Excelentíssimo Governador de Estado Doutor Geraldo Alckmin e seu respectivo Secretário da Fazenda Estadual."
     },
     {
         "id": 3781,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Manifesta apoio irrestrito aos servidores da Defensoria Pública do Estado de São Paulo, que lutam pela aprovação do PLC nº 58/2015, que dispõe sobre a solução referente à perda inflacionária entre o período de novembro de 2013 a agosto de 2015."
     },
     {
         "id": 3782,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Apoia a luta dos servidores estaduais da Defensoria Pública do Estado de São Paulo que estão em campanha por reposição da perda inflacionária do período novembro de 2013 a agosto de 2015."
     },
     {
         "id": 3783,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Claudinei S. B. de Souza parabenizando-o pelo seu aniversário"
     },
     {
         "id": 3784,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Marcos R. Pires parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3785,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Cícero André parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3786,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Izaias Vaz Pereira parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3787,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Antonio J. Martins parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3788,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Welder de Paula Silva parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3789,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza o Hospital Municipal \"José de Carvalho Florence\" pelo recebimento do Certificado de Acreditação pela ONA."
     },
@@ -19771,85 +19693,85 @@
     },
     {
         "id": 3794,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Vanderson Luiz da Cruz parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3795,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Rivanildo J. de Souza parabenizando-o pelo seu aniversário"
     },
     {
         "id": 3796,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor João Sebastião da Silva parabenizando-o pelo seu aniversário"
     },
     {
         "id": 3797,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Cicero R. Das Neves parabenizando-o pelo seu aniversário"
     },
     {
         "id": 3798,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Carlos Zanelli parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3799,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Flávio Ap. Santos parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3800,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor João Rocha de Moraes Neto parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3801,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Oziel Batista do Nascimento parabenizando-o pelo seu aniversário"
     },
     {
         "id": 3802,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Philipe João Camara parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3803,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR Airton Luiz Silva parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3804,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR Marcio Augusto dos Santos parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3805,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR HILDEQUIAS DE PAULA HOLANDA parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3806,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Sra. Roberta Borrego, Diretora do Sesi – Taubaté, pelo Título de Cidadania Taubateana."
     },
     {
         "id": 3807,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Senhora Fabíola Pulga Molina Yabe, pela condução da Tocha Olímpica na Cidade de São José dos Campos no dia 26 de julho de 2016."
     },
@@ -19867,13 +19789,13 @@
     },
     {
         "id": 3810,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Apóstolo Augusto Odécio Egydio pela outorga do Título de Cidadão Joseense, no Plenário da Câmara Municipal, no dia 3 de junho de 2016."
     },
     {
         "id": 3811,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Senhora Ana Cláudia Aragão por ser agraciada com a Medalha Cassiano Ricardo em reconhecimento pelos serviços prestados à comunidade, em solenidade do dia 15 de junho de 2016, no plenário da Câmara Municipal."
     },
@@ -19885,157 +19807,157 @@
     },
     {
         "id": 3813,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS a Vereadora Amelia Naomi parabenizando-o pelo seu aniversário"
     },
     {
         "id": 3814,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Fernando Petiti parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3815,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Macedo Bastos parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3816,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor FLAVIO MEDEIROS parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3817,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor REINALDO MENDONÇA JR parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3818,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor JOSÉ LUIZ OZÓRIO parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3819,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor NOÉ A. M. DA SILVA parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3820,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Silvan Bispo parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3821,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao EV GENILSON PINHEIRO DA SILVA parabenizando-opelo seu aniversário."
     },
     {
         "id": 3822,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabenizo a EMEF Vera Babo de Oliveira pela passagem do aniversário de 25 anos que ocorrerá no dia 25 de maio de 2016."
     },
     {
         "id": 3823,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza a Liga Municipal de Futebol de São José dos Campos pelo brilhante trabalho realizado na organização da 1ª RECOPA da Liga 2016."
     },
     {
         "id": 3824,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza o Sr. Osvaldo Soares pelo brilhante trabalho realizado na organização da Copa Monsenhor Luiz Gonzaga Alves Cavalheiro, categoria Sub 9."
     },
     {
         "id": 3825,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza o ITA – Instituto Tecnológico de Aeronáutica pelos 66 anos de criação."
     },
     {
         "id": 3826,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza a Obra Social e Assistencial Magnificat pelo trabalho desenvolvido junto às famílias carentes."
     },
     {
         "id": 3827,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Juvenil Silvério parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3828,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor CLEBER DA SILVA PEREIRA parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3829,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Evangelista JOSEMAR APARECIDO ALBERTO parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3830,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor SEBASTIÃO DOS S. LEMES parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3831,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Manifesta repúdio à proposta do Governo do Estado de São Paulo, que enviou à Assembléia Legislativa projeto solicitando autorização para a venda de diversos bens imóveis, entre eles o Prédio Deputado Benedito Matarazzo (antiga Coletoria) patrimônio histórico de nossa cidade."
     },
     {
         "id": 3832,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE PROTESTOS à Excelentíssima Senhora Presidente da República, Dilma Roussef e ao Ministro da Educação, Aloisio Mercadante, pelos cortes previstos no Programa Institucional de Bolsa de Iniciação à Docência - PIBID."
     },
     {
         "id": 3833,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Juvenal Silverio parabenizando-o pelo seu aniversário"
     },
     {
         "id": 3835,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Valdir Alvarenga parabenizando-o pelo seu aniversário"
     },
     {
         "id": 3836,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Robertinho da Padaria parabenizando-o pelo seu aniversário"
     },
     {
         "id": 3837,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Deputado Federal Antonio Bulhões parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3838,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APOIO aos estudantes bolsistas e professores inscritos no Programa Institucional de Bolsa de Iniciação à Docência – PIBID, que lutam e protestam contra os cortes das verbas do Governo Federal."
     },
     {
         "id": 3839,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a delegação joseense pela conquista do  título de heptacampeão dos Jogos Regionais do Idoso, disputado em Caraguatatuba, no dia 1º de maio de 2016."
     },
@@ -20047,7 +19969,7 @@
     },
     {
         "id": 3841,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a FUNDHAS – Fundação Helio Augusto de Souza pelos 29 Anos de sua Fundação, em 26 de abril de 2016."
     },
@@ -20059,49 +19981,49 @@
     },
     {
         "id": 3843,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Diocese de São José dos Campos pelo Aniversário dos 35 Anos de Instalação, que ocorrerá no dia 1º de maio de 2016."
     },
     {
         "id": 3844,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza o Sr. Benedito Carlos Freire pelos quarenta anos de profissão."
     },
     {
         "id": 3845,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza a Diocese de São José dos Campos pelos seus 35 anos de História, a comemorar no dia 01 de maio de 2016."
     },
     {
         "id": 3846,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Guarda Civil Municipal pela posse do Comandante Inspetor Regional Alex Alexandre da Silva, em solenidade ocorrida em 15 de abril de 2016."
     },
     {
         "id": 3847,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Magnífico Reitor, Prof. Dr. Jair Cândido de Melo e da Vice Reitora, Prof. Dra. Sandra Maria Fonseca da Costa pela posse na Universidade Valeparaibana de Ensino, no quadriênio de 2016 a 2020, evento realizado no dia 15 de abril de 2016, às 15 horas no Anfiteatro da Univap."
     },
     {
         "id": 3848,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR Jurandir de Oliveira parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3849,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR Rivaldo Alves parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3850,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor  Marcio Keli Rodrigues Chaves parabenizando-o pelo seu aniversário."
     },
@@ -20119,19 +20041,19 @@
     },
     {
         "id": 3853,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS a Vereadora Dra Ângela Guadagnin parabenizando-a pelo seu aniversário."
     },
     {
         "id": 3854,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS a Vereadora Renata Paiva parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3855,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Wagner Balieiro parabenizando-o pelo seu aniversário."
     },
@@ -20161,91 +20083,91 @@
     },
     {
         "id": 3860,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza a Congregação Cristã do Brasil na pessoa do Cooperador do Oficio Ministerial, o Sr. José Matias pelo trabalho realizado na assistência da família das vitímas da tragédia que atingiu o bairro dos Freitas."
     },
     {
         "id": 3861,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador WALTER HAYASHI parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3862,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza a Provisão, seus paratletas e a equipe de treinadores que participaram do Grand Prix Internacional de judô para cegos, realizado no Rio de Janeiro, no último dia 5 de março."
     },
     {
         "id": 3863,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR ANTONIO BATISTA FILHO parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3864,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR  LUIZ CARLOS GONÇALVES PEREIRA parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3865,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR HELEZIEL GOMES CONCRET parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3866,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR ZAQUEU DE SOUZA JUNIOR parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3867,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR ODAIR PEREIRA DA SILVA parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3868,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Registra a posse e parabeniza o novo Diretor-Geral de Ciência e Tecnologia Aeroespacial, Senhor Major-Brigadeiro do Ar Antônio Carlos Egito do Amaral"
     },
     {
         "id": 3869,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza o Instituto São José, pelo aniversário de fundação desta conceituada Instituição de ensino."
     },
     {
         "id": 3870,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Instituto São José pelos 90 anos de fundação, comemorados em 8 de março de 2016."
     },
     {
         "id": 3872,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PR. ANTÔNIO DE PÁDUA parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3873,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor ELISEU VERÍSSIMO DOS SANTOS parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3874,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PR. VALTER GOMES DE ARAÚJO parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3875,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Inácio de Lima parabenizando-o pelo seu aniversário."
     },
@@ -20257,79 +20179,79 @@
     },
     {
         "id": 3877,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Diocese de São José dos Campos pelo  lançamento oficial do texto base da CFE – Campanha da Fraternidade Ecumênica 2016, no dia 15 de fevereiro de 2016, na Faculdade Católica – Instituto de Teologia Santa Terezinha."
     },
     {
         "id": 3878,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com os membros da Diretoria da 36ª Subseção da Ordem dos Advogados do Brasil eleita para o triênio 2016, 2017 e 2018."
     },
     {
         "id": 3879,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vice Prefeito da Cidade de São Jose dos Campos, Dr. Itamar Coppio parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3880,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Jadiel Pereira parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3881,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Marcos Novaes parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3882,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Juvenal Rocha parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3883,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Alvaro do Nascimento parabenizando-o peloseu aniversário."
     },
     {
         "id": 3884,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Isaias parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3885,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Genivaldo parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3886,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Rogério parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3887,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Edmilson Monteiro parabenizando-o peloseu aniversário."
     },
     {
         "id": 3888,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza a Obra Social Magnificat e o Grupo de oração Jovens Seduzidos por Jesus pela apresentação do Musical sobre a vida de Dom Bosco."
     },
     {
         "id": 3889,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza a Diocese de São José dos Campos pelo lançamento da Campanha da Fraternidade Ecumênica 2016."
     },
@@ -20347,337 +20269,337 @@
     },
     {
         "id": 3892,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Célio Antonio de Almeida pelo 20º Aniversário de sua Ordenação Presbiteral, em 30 de dezembro de 2015."
     },
     {
         "id": 3893,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Rodolfo Domingues de Vasconcelos pelo 25º Aniversário de sua Ordenação Presbiteral, em 29 de dezembro de 2015."
     },
     {
         "id": 3894,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Carlos Raimundo Barbosa pelo 24º Aniversário de sua Ordenação Presbiteral, em 28 de dezembro de 2015."
     },
     {
         "id": 3895,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Benedito Paulo de Carvalho pelo 3º Aniversário de sua Ordenação Presbiteral, em 22 de dezembro de 2015."
     },
     {
         "id": 3896,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre José Edward Padoan pelo 52º Aniversário de sua Ordenação Presbiteral,  em 22 de dezembro de 2015."
     },
     {
         "id": 3897,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Djalma Lopes Siqueira pelo 25º Aniversário de sua Ordenação Presbiteral,  em 22 de dezembro de 2015."
     },
     {
         "id": 3898,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Dimas Cornélio do Nascimento pelo 31º Aniversário de sua Ordenação Presbiteral, em 22 de dezembro de 2015."
     },
     {
         "id": 3899,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Roberto Lessa pelo 24º Aniversário de sua Ordenação Presbiteral, em 21 de dezembro de 2015."
     },
     {
         "id": 3900,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Edson Benedito dos Santos, SCJ pelo 18º Aniversário de sua Ordenação Presbiteral, em 20 de dezembro de 2015"
     },
     {
         "id": 3901,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Thiago Domiciano Dias, pelo 7º Aniversário de sua Ordenação Presbiteral,  em 20 de dezembro de 2015."
     },
     {
         "id": 3902,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Antonio Aparecido Alves, pelo 29º Aniversário de sua Ordenação Presbiteral, em 20 de dezembro de 2015."
     },
     {
         "id": 3903,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Milton Faria, pelo 28º Aniversário de sua Ordenação Presbiteral, em 20 de dezembro de 2015."
     },
     {
         "id": 3904,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Alexsandro de Brito Ramos, pelo 6º Aniversário de sua Ordenação Presbiteral,  em 19 de dezembro de 2015."
     },
     {
         "id": 3905,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Luciano Barbosa, pelo 5º Aniversário de sua Ordenação Presbiteral,  em 18 de dezembro de 2015."
     },
     {
         "id": 3906,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Ernesto Cunha, pelo 67º Aniversário de sua Ordenação Presbiteral,  em 18 de dezembro de 2015."
     },
     {
         "id": 3907,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Darci Dutra, SCJ pelo 49º Aniversário de sua Ordenação Presbiteral,  em 17 de dezembro de 2015."
     },
     {
         "id": 3908,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Lucas Rosa da Silva pelo 10º Aniversário de sua Ordenação Presbiteral,  em 17 de dezembro de 2015."
     },
     {
         "id": 3909,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre João Osmar de Souza pelo 27º Aniversário de sua Ordenação Presbiteral,  em 17 de dezembro de 2015."
     },
     {
         "id": 3910,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Geraldo Magela dos Santos pelo 26º Aniversário de sua Ordenação Presbiteral, ocorrida em 16 de dezembro de 2015."
     },
     {
         "id": 3911,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Gessione Alves da Cunha pelo 3º Aniversário de sua Ordenação Presbiteral, ocorrida em 15 de dezembro de 2015."
     },
     {
         "id": 3912,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Fabiano Kleber Cavalcante Amaral pelo 5º Aniversário de sua Ordenação Presbiteral, ocorrida em 11 de dezembro de 2015."
     },
     {
         "id": 3991,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Benedito Sérgio  Teixeira pelos relevantes serviços prestados ao município até a sua aposentação."
     },
     {
         "id": 3913,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Fábio Ferreira Costa pelo 8º Aniversário de sua Ordenação Presbiteral, ocorrida em 15 de dezembro de 2015."
     },
     {
         "id": 3914,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Francisco Dâmaso Zanon pelo 26º Aniversário de sua Ordenação Presbiteral, ocorrida em 11 de dezembro de 2015."
     },
     {
         "id": 3915,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Luís Fernando Soares pelo 24º Aniversário de sua Ordenação Presbiteral, ocorrida em 14 de dezembro de 2015."
     },
     {
         "id": 3916,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Dom Moacir Silva pelo 11º Aniversário de sua Ordenação Episcopal, ocorrida em 11 de dezembro de 2015."
     },
     {
         "id": 3917,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre José Vieira Pinto pelo 27º Aniversário de sua Ordenação Presbiteral, ocorrida em 10 de dezembro de 2015."
     },
     {
         "id": 3918,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratulamos com o Padre Ademir Nunes Faria pelo 10º Aniversário de sua Ordenação Presbiteral ocorrida em 10 de  dezembro de 2015."
     },
     {
         "id": 3919,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Dom José Valmor Cesar Teixeira, SDB e toda Congregação dos Salesianos de Dom Bosco de São José dos Campos pela inauguração de estátua de São João Bosco, em comemoração ao bicentenário de seu nascimento."
     },
     {
         "id": 3920,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Dom José Valmor Cesar Teixeira, SDB pelo 36º Aniversário de sua Ordenação Presbiteral, ocorrida em 9 de dezembro de 2015."
     },
     {
         "id": 3921,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Edi Carlos Pereira pelo 9º Aniversário de sua Ordenação Presbiteral, ocorrida em 9 de dezembro de 2015."
     },
     {
         "id": 3922,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Francisco José da Silva pelo 3º Aniversário de sua Ordenação Presbiteral, ocorrida em 8 de dezembro de 2015."
     },
     {
         "id": 3923,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre André Afonso Maria Butti pelo 60º Aniversário de sua Ordenação Presbiteral, ocorrida em 8 de dezembro de 2015."
     },
     {
         "id": 3924,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Vitor Mendes Santos pelo 8º Aniversário de sua Ordenação Presbiteral, ocorrida em 8 de dezembro de 2015."
     },
     {
         "id": 3925,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Vicente Benedito Simões pelo 10º Aniversário de sua Ordenação Presbiteral, ocorrida em 8 de dezembro de 2015."
     },
     {
         "id": 3926,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Rinaldo Roberto de Rezende pelo 25º Aniversário de sua Ordenação Presbiteral, ocorrida em 8 de dezembro de 2015."
     },
     {
         "id": 3927,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Diácono Hugo Urbano de Souza pelo 40º Aniversário de sua Ordenação Presbiteral, ocorrida em 8 de dezembro de 2015."
     },
     {
         "id": 3928,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Padre Ivan Tomasetto pelo 4º Aniversário de sua Ordenação Presbiteral, ocorrida em17 de dezembro de 2015."
     },
     {
         "id": 3929,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Diácono Antonio Carlos Amaro de Faria  pelo 26º Aniversário de sua Ordenação Presbiteral, ocorrida em 8 de dezembro de 2015."
     },
     {
         "id": 3930,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Diácono Mauri Guardia de Souza pelo 40º Aniversário de sua Ordenação Presbiteral, ocorrida em 8 de dezembro de 2015."
     },
     {
         "id": 3931,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Diácono José Maria da Silva,  pelo 22º Aniversário de sua Ordenação Presbiteral, ocorrida em 7 de dezembro de 2015"
     },
     {
         "id": 3932,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Padre José Luís Gouvêa, scj pelo 18º Aniversário de sua Ordenação Presbiteral, ocorrida em 7 de dezembro de 2015."
     },
     {
         "id": 3933,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Padre Rogerio Felix Machado pelo 24º Aniversário de sua Ordenação Presbiteral, ocorrida em 7 de dezembro de 2015"
     },
     {
         "id": 3934,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Padre Alexandre Rodolfo Aparecido da Costa pelo 1º Aniversário de sua Ordenação Prebisteral, ocorrida em 6 de dezembro de 2015"
     },
     {
         "id": 3935,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Dom Moacir Silva por sua Ordenação Presbiteral, a comemorar-se no dia 6 de dezembro."
     },
     {
         "id": 3936,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratulamos com o Pe Cláudio César Costa pelo 7º aniversário de sua   ordenação presbiteral ocorrida em 6 de dezembro de 2015."
     },
     {
         "id": 3937,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratulamos com Dom Dimas Lara Barbosa pelos 27 Anos de Ordenação Presbiteral, ocorrida em 03 de dezembro de 2015."
     },
     {
         "id": 3938,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza o Palhaço Frigideira e sua equipe e cumprimenta todos os Palhaços que trabalham em nossa cidade pela comemoração do seu Dia, nesta quinta-feira, dia 10 de dezembro."
     },
     {
         "id": 3939,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Claudio M de Carvalho parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3940,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Hélio Ferreira parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3941,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor José Emanuel Gomes da Silva parabenizando-opelo seu aniversário."
     },
     {
         "id": 3942,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Alexandre Almeida de Santana parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3943,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratulamos com Senhor Leonardo Cedaro por sua democrática disputa na eleição  à presidência da 36ª Subseção da Ordem dos Advogados do Brasil - OAB de São José dos Campos  no dia 18 de novembro de 2015"
     },
     {
         "id": 3944,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratulamos com Senhor Rodrigo Canelas por sua eleição à presidência da 36ª Subseção da Ordem dos Advogados do Brasil - OAB de São José dos Campos para o Biênio 2016-2017, no dia 18 de novembro de 2015."
     },
     {
         "id": 3945,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratulamos com Padre Rinaldo Roberto de Rezende, Pároco da Catedral de São Dimas, pelos 25 Anos de Sacerdócio, comemorados em 8 de dezembro de 2015."
     },
     {
         "id": 3946,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Antonio Wanderley da Silva parabenizando-opelo seu aniversário."
     },
@@ -20689,67 +20611,67 @@
     },
     {
         "id": 3948,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Roberto do Eleven parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3949,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Adriano Lima Pereira parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3950,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Dr. Roniel parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3951,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Osvaldo Junior parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3952,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza o Comando de Policiamento do Interior, pela conduta demonstrada na manifestação ocorrida no dia 15 de outubro de 2015, na Fundação Armando Alvares Penteado – FAAP, nesta cidade"
     },
     {
         "id": 3953,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Parabeniza o Instituto Nacional de Estudos e Pesquisas Educacionais – INEP, pela elaboração do Exame Nacional do Ensino Médio do ano de 2015."
     },
     {
         "id": 3954,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a SAE Brasil – Sociedade de Engenheiros da Mobilidade pela realização da 17ª Competição SAE BRASIL AeroDesign, nos dias 31 e 1º de novembro de 2015, no Aeroporto do DCTA, em São José dos Campos."
     },
     {
         "id": 3955,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Dilermando Dié parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3956,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o 3º Sargento do Exército Brasileiro Leandro Leme da Cunha pela Medalha de Ouro – na modalidade Judô, nos Jogos Mundiais Militares, na Coréia do Sul, em outubro de 2015."
     },
     {
         "id": 3957,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Arquiteto Rosendo Santos Mourão, um dos precursores da arquitetura moderna em São José dos Campos por ser agraciado com o Troféu Cassiano Ricardo na 49ª Semana Cassiano Ricardo no dia 14 de outubro de 2015, às 19h30, no Museu Municipal – Espaço Mário Covas."
     },
     {
         "id": 3958,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a FCCR - Fundação Cassiano Ricardo pela 49º Semana Cassiano Ricardo, que será realizada a partir do dia 14 de outubro de 2015, no Museu Municipal – Espaço Mário Covas."
     },
@@ -20761,55 +20683,55 @@
     },
     {
         "id": 3960,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR Francisco Cesar parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3961,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Nova Diretoria da Associação Profissional dos Feirantes de São José dos Campos para o quadriênio 2015/2019, aclamada em 4 de outubro de 2015."
     },
     {
         "id": 3962,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Fundação Valeparaibana de Ensino pela inauguração da expansão do Parque tecnológico Univap, no dia 23 de Outubro de 2015."
     },
     {
         "id": 3963,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Sanatório Maria Imaculada pelo 80º Aniversário, no dia 6 de outubro de 2015."
     },
     {
         "id": 3964,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Deputado Estadual Sebastião Santos parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3965,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR Francisco Cesar parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3966,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR Tiago Espindola parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3967,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Willis Goulart parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3968,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao PASTOR Mauricio Keske parabenizando-o pelo seu aniversário."
     },
@@ -20821,25 +20743,25 @@
     },
     {
         "id": 3970,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Associação Nossa Casa da Acolhida pelos 21 anos de existência."
     },
     {
         "id": 3971,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Associação Guadalupe o 1° Seminário Pró- Vida."
     },
     {
         "id": 3972,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Marcos Pires parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3973,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS a Vereadora Juliana Fraga parabenizando-o pelo seu aniversário."
     },
@@ -20851,253 +20773,253 @@
     },
     {
         "id": 3975,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Rogério Cyborg parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3976,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Cicero Andre parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3977,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "“Parabeniza o Governo do Estado de São Paulo pela elaboração do Plano Estadual de Educação sem os termos ‘identidade de gênero’ e ‘relação de gênero’”."
     },
     {
         "id": 3978,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Igreja Cristã Evangélica Central, situada na Praça Cônego Lima,167 – centro,  por seu 100º Aniversário  em São José dos Campos, no dia 3 de setembro de 2015."
     },
     {
         "id": 3979,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer Moção de Congratulação à nova diretoria eleita da Sociedade Amigos de Bairro da Vila São Bento, parabenizando o presidente Nelson Oliveira Alves Filho e a vice Maria Helena Siqueira, bem como todos os demais membros e Conselheiros vitoriosos da Chapa 2."
     },
     {
         "id": 3980,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Senhor Wellington Leite Protásio pela promoção de Capitão para Major no CPAM12 , Mogi das Cruzes."
     },
     {
         "id": 3981,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Terezinha de Lourdes Castro pelos relevantes serviços prestados ao município até a sua aposentação."
     },
     {
         "id": 3982,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Paulo Eduardo Guimarães Gaia pelos relevantes serviços prestados ao município até a sua aposentação."
     },
     {
         "id": 3983,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Vanessa Saraiva Silveira Delgado pelos relevantes serviços prestados ao município até a sua aposentação."
     },
     {
         "id": 3984,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Vicente de Paulo Morais pelos relevantes serviços prestados ao município até a sua aposentação."
     },
     {
         "id": 3985,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Paulo Sérgio Alciprete pelos relevantes serviços prestados ao município até a sua aposentação."
     },
     {
         "id": 3986,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Reinaldo Sávio Carvalho pelos relevantes serviços prestados ao município até a sua aposentação."
     },
     {
         "id": 3987,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Rodolfo Cesar pelos relevantes serviços prestados ao município até a sua aposentação"
     },
     {
         "id": 3988,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Marlene Teruel Carmona pelos relevantes serviços prestados ao município até a sua aposentação."
     },
     {
         "id": 3989,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Luiz Gonzaga Espíndola pelos relevantes serviços prestados ao município até a sua aposentação."
     },
     {
         "id": 3990,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Job Roberval Roberval Rezende Sampaio pelos relevantes serviços prestados ao município até a sua aposentação."
     },
     {
         "id": 3992,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com  Célia Regina N. Siqueira dos Santos pelos relevantes serviços prestados ao município até a sua aposentação."
     },
     {
         "id": 3993,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com Aires Cunha Leite pelos relevantes serviços prestados ao município até a sua aposentação."
     },
     {
         "id": 3994,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com empresa Cooper (Cooperativa de Laticínios de São José dos Campos), situada na Rua Paraibuna, 295 – Centro,  por seu 80º Aniversário  em São José dos Campos, no dia 25 de agosto de 2015."
     },
     {
         "id": 3995,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer Moção de Congratulação a todos os funcionários da UBS do Residencial União pelos brilhantes serviços prestados à comunidade."
     },
     {
         "id": 3996,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Esta edilidade, por proposta deste Vereador, vem requerer desta casa a aprovação da presente Moção de Congratulação aos Médicos Veterinários, Diretores e Funcionários do Centro de Controle de Zoonoses de São José dos Campos pelos brilhantes e incansáveis serviços prestados à comunidade."
     },
     {
         "id": 3997,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Rogerio Olimpio parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3998,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Vereador Calasans Camargo parabenizando-o pelo seu aniversário."
     },
     {
         "id": 3999,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Antonio Clemilton parabenizando-o pelo seu aniversário."
     },
     {
         "id": 4000,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Geraldo Gomes parabenizando-o pelo seu aniversário."
     },
     {
         "id": 4001,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Vanderson Luiz da Cruz parabenizando-o pelo seu aniversário."
     },
     {
         "id": 4002,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Rodolfo Silva parabenizando-o pelo seu aniversário."
     },
     {
         "id": 4003,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Janaina Dias pela posse como Presidente do SOS Mulher de São José dos Campos, Quadriênio 2015/2019."
     },
     {
         "id": 4004,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Engenheiro Cartográfico Eric Sousa pela criação do Mapa Ambiental de São José dos Campos."
     },
     {
         "id": 4005,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Cicero R. das Neves parabenizando-o pelo seu aniversário."
     },
     {
         "id": 4006,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Sargento PM Eliseu pela condução da apresentação da Banda Musical da Polícia Militar do Estado de São Paulo, na solenidade deReabertura da Capela Menino Jesus de Praga."
     },
     {
         "id": 4007,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Conselho da Maçonaria Joseense – COMAJ pela Solenidade comemorativa do “Dia do Maçom”, no dia 19 de agosto de 2015, na Câmara Municipal."
     },
     {
         "id": 4008,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Presidente do Tribunal de justiça do Estado de São Paulo, Desembargador José Renato Nalini pela Instalação do Posto do Centro Judiciário de Solução de Conflitos e Cidadania da Comarca de São José dos Campos no Município de Monteiro Lobato."
     },
     {
         "id": 4009,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Senhora Vera Marcondes Buffulin pelo Título de Cidadão Joseense, outorgada no dia 28 de agosto de 2015, em Sessão Solene no Plenário da Câmara Municipal de São José dos Campos."
     },
     {
         "id": 4010,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Carlos Zanelli parabenizando-o pelo seu aniversário."
     },
     {
         "id": 4011,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Manifesta apoio à UNIVAP - Universidade do Vale do Paraíba e ao Grupo SUPREMA no tocante à escolha da instalação da faculdade de medicina em nosso Município."
     },
     {
         "id": 4012,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Manifesta apoio à UNIVAP - Universidade do Vale do Paraíba, no tocante à escolha da instalação da faculdade de medicina em nosso Município."
     },
     {
         "id": 4013,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor João Rocha de Moraes Neto parabenizando-opelo seu aniversário."
     },
     {
         "id": 4014,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Repúdio às demissões dos trabalhadores da GM, pois a mesma está quebrando o acordo feito com os trabalhadores e o Sindicato dos Metalúrgicos."
     },
     {
         "id": 4015,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Equipe de Vôlei de São José dos Campos pela conquista de vaga na elite do vôlei nacional – a Superliga em agosto de 2015, no Ginásio do Sesi de Taguatinga – Brasília (DF)."
     },
     {
         "id": 4016,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Paróquia Sagrada Família, da Congregação Salesiana de São José dos Campos, Estado de São Paulo,  pelo 200º Aniversário de Dom Bosco, em 16 de agosto de 2015."
     },
     {
         "id": 4017,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Presidente Philipe João Camara parabenizando-opelo seu aniversário."
     },
@@ -21109,169 +21031,169 @@
     },
     {
         "id": 4019,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o CEPHAS – Centro de Educação Profissional Hélio Augusto de Souza pela realização da Exposição de Robótica, realizada em 23 de julho de 2015, nas dependências do Parque Vicentina Aranha."
     },
     {
         "id": 4020,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Equipe Masculina de Goalball pela conquista do 2º Lugar no Campeonato Estadual de Goalball realizado na cidade de Itu, entre os dias 16 a 19 de julho de 2015."
     },
     {
         "id": 4021,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Equipe de Ciclismo de São José dos Campos pela conquista da Medalha de Ouro, Medalha de Prata e Medalha de Bronze  na Copa Rio de Ciclismo, realizada na cidade de Conservatória, no dia 19 de julho de 2015."
     },
     {
         "id": 4022,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Prefeitura Municipal e o Conselho Municipal dos Direitos da Pessoa Com Deficiência pela realização da 4ª Conferência Municipal dos Direitos da Pessoa Com Deficiência, realizada no dia 18 de julho no Centro da Juventude."
     },
     {
         "id": 4023,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Professor Wilson da Costa Pinto, fundador e técnico da Escolinha Iracan Futsal- Sub 16 que no dia 29 de julho de 2015 completa 32 Anos de atividades com crianças e adolescentes em  São José dos Campos."
     },
     {
         "id": 4024,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o SINDMOTOVALE pela realização do II Workshop Moto@Ciclista que foi realizado no dia 20 de julho de 2015, na Câmara Municipal de São José dos Campos."
     },
     {
         "id": 4025,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Senhor Marcelo Doval Mendes representante do DETRAN – Departamento Estadual de Trânsito SP  por sua participação no II Workshop Moto@Ciclistas do Sindmoto Vale, realizado na Câmara Municipal de São José dos Campos, no dia 20 de julho de 2015."
     },
     {
         "id": 4088,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a C.I. Marina Maria Bandeira de Oliveira por sua nomeação ao cargo de Delegada Regional da Sub Regional do Conselho de Corretores de Imóveis de São José dos Campos- Estado de São Paulo."
     },
     {
         "id": 4026,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Senhor Wilson Yasuda representante da ABRACICLO – Associação Brasileira dos Fabricantes de Motocicletas, Ciclomotores, Motonetas, Bicicletas e Similares por sua participação no II Workshop Moto@Ciclistas do Sindmoto Vale, realizado na Câmara Municipal de São José dos Campos, no dia 20 de julho de 2015."
     },
     {
         "id": 4027,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Senhor Sinval Pereira da Silva representante da Empresa Vacina Contra Roubo por sua participação no II Workshop Moto@Ciclistas do Sindmoto Vale, realizado na Câmara Municipal de São José dos Campos, no dia 20 de julho de 2015."
     },
     {
         "id": 4028,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Senhor Marcos Scarpa representante da EDP Bandeirante por sua participação no II Workshop Moto@Ciclistas do Sindmoto Vale, realizado na Câmara Municipal de São José dos Campos, no dia 20 de julho de 2015."
     },
     {
         "id": 4029,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o PRF C.Carvalho da Polícia Rodoviária Federal por sua participação no II Workshop Moto@Ciclistas do Sindmoto Vale, realizado na Câmara Municipal de São José dos Campos, no dia 20 de julho de 2015."
     },
     {
         "id": 4030,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Capitão PM Alain Kalczuk por sua participação no II WorkShop Moto@Ciclista realizado na Câmara Municipal de São José dos Campos, no dia 20 de julho de 2015, proferindo a palestra sobre o tema – Segurança Pública, Trânsito e Serviços da Polícia Militar."
     },
     {
         "id": 4031,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Companhia Cultural Velhus Novatus que foi inaugurada no dia 4 de Julho de 2015, na Rua Olivo Gomes, 320, no bairro Santana, neste município."
     },
     {
         "id": 4032,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Associação dos Feirantes de São José dos Campos pelo 1º Aniversário da Feira Noturna, instalada na Avenida Olivo Gomes – Santana em 22 de julho de 2015."
     },
     {
         "id": 4033,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Associação dos Feirantes de São José dos Campos pela realização da Festa Julina realizada no dia 19 de julho de 2015, na área verde do Bosque dos Eucalíptos."
     },
     {
         "id": 4034,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Delegação de São José dos Campos pela conquista do Título de Campeã dos Jogos Regionais que aconteceu em Taubaté – Estado de São Paulo, encerrados no dia 12 de julho de 2015."
     },
     {
         "id": 4035,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com os capoeiristas das equipes feminina e masculina de São José dos Campos pela conquista do título da capoeira nos Jogos Regionais que foi realizado no Município de Taubaté, em 5 de julho de 2015."
     },
     {
         "id": 4036,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a atleta do São José Rugby Edna Santini pela conquista da medalha de Bronze nos Jogos Pan Americanos, no dia 12 de julho de 2015."
     },
     {
         "id": 4037,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Governo do Estado de São Paulo pela realização do 14º Revelando São Paulo que foi realizado nos dias 10, 11 e 12 de julho de 2015, no Parque  Burle Marx em São José dos Campos."
     },
     {
         "id": 4038,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Promotor de Justiça da Vara de Infância e Juventude de São José dos Campos, Fausto Junqueira de Paula pela idealização do Curso de Adoção visando diminuir as restrições na adoção."
     },
     {
         "id": 4039,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Vara de Infância e Juventude de São José dos Campos por constar no levantamento do Conselho Nacional de Justiça como uma das cidades mais céleres nos processos de adoção de criança e medidas protetivas no Brasil."
     },
     {
         "id": 4040,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Próvisão pelos seus 33 Anos de Fundação no dia 13 de julho de 2015."
     },
     {
         "id": 4041,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Instituto Embraer pelo desenvolvimento do Projeto Ambiente-se: autocuidado, autonomia e saúde da pessoa com deficiência visual em parceria com o Provisão, visando o aperfeiçoamento das ações cotidianas das pessoas com deficiência visual."
     },
     {
         "id": 4042,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Ottus Querino da Silva parabenizando-o pelo seu aniversário."
     },
     {
         "id": 4043,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor João Batista Martins parabenizando-o pelo seu aniversário."
     },
     {
         "id": 4044,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Geovani dos Santos parabenizando-o pelo seu aniversário."
     },
     {
         "id": 4045,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o ciclista Magno Nazaret pela conquista do Bi Campeonato de Contrarrelógio no Campeonato Brasileiro de Estrada para Elite e Sub-23 que foi realizado no Distrito de Bueno de Andrade, em Araraquara, no dia 26 de junho de 2015."
     },
@@ -21301,25 +21223,25 @@
     },
     {
         "id": 4050,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Senhor Gilberto Martins das Neves que desde o dia 2 de junho de 2015 integra a Equipe de Agentes de Trânsito da Prefeitura Municipal de São José dos Campos – Estado de São Paulo."
     },
     {
         "id": 4051,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com o Senhora Aline Moreira Trindade Ramos que desde o dia 2 de junho de 2015 integra a Equipe de Agentes de Trânsito da Prefeitura Municipal de São José dos Campos – Estado de São Paulo."
     },
     {
         "id": 4052,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor Reinaldo Mendonça Junior parabenizando-o pelo seu aniversário."
     },
     {
         "id": 4053,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Requer o envio de MOÇÃO DE APLAUSOS ao Pastor José Luiz Ozorio parabenizando-o pelo seu aniversário."
     },
@@ -31842,6 +31764,12 @@
         "text": "Registra e Parabeniza o Grupo Oscar Calçados pelos 35 anos de fundação e pela realização do Vale Music Fest."
     },
     {
+        "id": 650,
+        "tag": "DATA_COMEMORATIVA",
+        "tipo": "Projeto de Lei",
+        "text": "Institui e inclui no calendário oficial de festas e comemorações do município, o Dia da Superação."
+    },
+    {
         "id": 1986,
         "tag": "CONGRATULACAO",
         "tipo": "Requerimento",
@@ -32518,5 +32446,77 @@
         "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
         "text": "Denomina de “Quadra Esportiva Sebastião Lino da Costa (Senhor Zico)”, a quadra esportiva localizada na Av. Um, no Bairro Mirantes do Buquirinha."
+    },
+    {
+        "id": 604,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera, inclui e exclui Programas, Metas, Indicadores, Unidades de Medidas e Ações, substituindo os Anexos I, II e III, e IV da Lei n. 9.070, de 16 de dezembro de 2013, com suas alterações, que \"Dispõe sobre o Plano Plurianual para o período de 2014 a 2017.\"."
+    },
+    {
+        "id": 620,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Praça do Jardim Santa Inês I, localizado entre as Ruas Abelardo Alves de Paiva e Maria Aparecida Veríssimo Madureira Ramos do Município de São José dos Campos de “Praça Tainá Thaís Santos da Silva”."
+    },
+    {
+        "id": 664,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina-se de \"Espaço Maestro Sérgio Weiss\", o Teatrão da Vila Industrial, em São José dos Campos, situado na Rua Ricardo Edwards, 95 - Vila Industrial, que irá abrigar uma área de convivência, estacionamento, ginásio esportivo, centro de ciências e tecnologia"
+    },
+    {
+        "id": 685,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Rua 04 no bairro Residencial Tom Jobim de Rua Manoel Araújo dos Santos."
+    },
+    {
+        "id": 684,
+        "tag": "URBANIZACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza a Prefeitura Municipal a outorgar permissão de uso de duas áreas de terreno de domínio público municipalà Companhia de Saneamento Básico do Estado de São Paulo, e dá outras providências."
+    },
+    {
+        "id": 720,
+        "tag": "EDUCACAO",
+        "tipo": "Projeto de Lei",
+        "text": "DISPÕE SOBRE O INCENTIVO À PRÁTICA DE ESPORTES EM ACADEMIAS E CLUBES DESPORTIVOS PARA ALUNOS DE BAIXA RENDA DA REDE PÚBLICA DE ENSINO – PRÓ-ESPORTE, ATRAVÉS DE ISENÇÃO TRIBUTÁRIA PARCIAL DE ISS NO ÂMBITO DO MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS E DÁ OUTRAS PROVIDÊNCIAS."
+    },
+    {
+        "id": 775,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a área de esporte próximo da Fundhas na Rua Sete de Setembro ao lado do nº 550, atrás da UPA de Eugênio de Melo de \"Praça de Esportes Décio Pedroza dos Anjos\"."
+    },
+    {
+        "id": 788,
+        "tag": "TRANSPORTE",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a proibição do uso de carros particulares cadastrados em aplicativos para o transporte remunerado individual de pessoas para locais pré-estabelecidos e dá outras providências."
+    },
+    {
+        "id": 825,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Rua 09 (Nove) do Loteamento Chácara Araújo II de Rua Eduardo Lino."
+    },
+    {
+        "id": 827,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a Escola Municipal de Ensino Fundamental do Residencial Frei Galvão de EMEF. Profª Denise Prates Fernandes Rocha."
+    },
+    {
+        "id": 830,
+        "tag": "OUTRO",
+        "tipo": "Projeto de Lei",
+        "text": "Fica proibido em todo o Município de São José dos Campos, a utilização e exposição de modelos natural ou fotográfico imitando imagens religiosas, femininos ou masculinos, adultos ou infantis, despidos ou parcialmente nus ou em pose que sugira nudez parcial ou total em manifestações públicas ou particulares."
+    },
+    {
+        "id": 866,
+        "tag": "NOMEACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Denomina a área verde localizada na Rua Henrique Dias, fronte aos números 45 e 83, na Vila Progresso de Praça Auta de Matos Santos \"Dna. Auta\"."
     }
 ]
