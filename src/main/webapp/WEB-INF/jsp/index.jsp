@@ -51,6 +51,7 @@
 					    <option value="TRABALHO">Trabalho</option>
 					    <option value="CONSUMIDOR">Consumidor</option>
 					    <option value="IDOSO">Idoso</option>
+					    <option value="SOLICITACAO_MEDICA">Solicitação Médica</option>
 					    <option value="OUTRO">Outro</option>
 					</select>
 				</td>
