@@ -18,6 +18,11 @@ public class DataController {
 	private DataRepository repository;
 	
 	@GetMapping({"/", ""})
+	public Iterable<Data> todos() {
+		return repository.findAll();
+	}
+	
+	@GetMapping("/arquivo-train")
 	public String pegaDataParaTreino() {
 		
 		StringBuilder data = new StringBuilder();
