@@ -49,6 +49,8 @@
 					    <option value="CONGRATULACAO">Congratulação</option>
 					    <option value="MEIO_AMBIENTE">Meio Ambiente</option>
 					    <option value="URBANIZACAO">Urbanização</option>
+					    <option value="TRABALHO">Trabalho</option>
+					    <option value="CONSUMIDOR">Consumidor</option>
 					    <option value="OUTRO">Outro</option>
 					</select>
 				</td>
