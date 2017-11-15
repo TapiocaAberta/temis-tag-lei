@@ -37,11 +37,11 @@
 					   	<option value="UTILIDADE_PUBLICA">Utilidade Pública</option>
 					   	<option value="SAUDE">Saúde</option>
 					    <option value="MANUTENCAO">Manutenção</option>
-					    <option value="EDUCACAO">Educação</option>
+					    <option value="EDUCACAO">Educação e Cultura e Lazer</option>
 					    <option value="ACESSIBILIDADE">Acessibilidade</option>
 					    <option value="DATA_COMEMORATIVA">Data Comemorativa</option>
 					    <option value="CAUSAS_ANIMAIS">Causas Animais</option>
-					    <option value="TRANSPORTE">Transporte</option>
+					    <option value="TRANSPORTE">Trânsito e Transporte</option>
 					    <option value="SEGURANCA">Segurança</option>
 					    <option value="ORCAMENTO">Orçamento</option>
 					    <option value="ALTERACAO_LEI">Alteração de Lei</option>
@@ -50,6 +50,7 @@
 					    <option value="URBANIZACAO">Urbanização</option>
 					    <option value="TRABALHO">Trabalho</option>
 					    <option value="CONSUMIDOR">Consumidor</option>
+					    <option value="IDOSO">Idoso</option>
 					    <option value="OUTRO">Outro</option>
 					</select>
 				</td>
