@@ -48,6 +48,7 @@
 					    <option value="ALTERACAO_LEI">Alteração de Lei</option>
 					    <option value="CONGRATULACAO">Congratulação</option>
 					    <option value="MEIO_AMBIENTE">Meio Ambiente</option>
+					    <option value="URBANIZACAO">Urbanização</option>
 					    <option value="OUTRO">Outro</option>
 					</select>
 				</td>
@@ -137,6 +138,11 @@
 			<tr>
 				<td>Meio Ambiente</td>
 				<td>Sobre Meio ambiente, Descarte de lixo etc</td>
+			</tr>
+			
+			<tr>
+				<td>Urbanização</td>
+				<td>Sobre urbanização, posse de terra etc</td>
 			</tr>
 			
 			<tr>
