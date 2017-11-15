@@ -2023,7 +2023,7 @@
     },
     {
         "id": 356,
-        "tag": "OUTRO",
+        "tag": "IDOSO",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre a implantação do Programa São Paulo Amigo do Idoso, no município de São José dos Campos."
     },
@@ -2737,7 +2737,7 @@
     },
     {
         "id": 476,
-        "tag": "OUTRO",
+        "tag": "IDOSO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a firmar adesão com o Governo do Estado de São Paulo para a obtenção do “Selo Amigo do Idoso” com o objetivo de serem implantadas ações diferenciadas, de acordo com boas práticas públicas voltadas às pessoas idosas."
     },
@@ -2749,7 +2749,7 @@
     },
     {
         "id": 477,
-        "tag": "OUTRO",
+        "tag": "IDOSO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a firmar adesão com o Governo do Estado de São Paulo para a obtenção de recursos visando a ampliação de unidades do Centro Dia do Idoso, em todas as regiões do município de São José dos Campos e dá outras providências."
     },
@@ -3007,13 +3007,13 @@
     },
     {
         "id": 516,
-        "tag": "OUTRO",
+        "tag": "IDOSO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo, emergencialmente, comprar vagas nas entidades assistenciais privadas que se enquadrem como instituições de longa permanência para idosos no Município."
     },
     {
         "id": 517,
-        "tag": "OUTRO",
+        "tag": "IDOSO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o poder executivo a implantar o Programa Municipal de Moradia do Idoso - PMMI."
     },
@@ -8503,19 +8503,19 @@
     },
     {
         "id": 2157,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Requerimento",
         "text": "Agradece a colaboração da CASA DO IDOSO às festividades comemorativas dos 140 anos deaniversário do Distrito de Eugênio de Melo."
     },
     {
         "id": 2158,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Requerimento",
         "text": "Agradece a colaboração da GUARDA MUNICIPAL MOTORIZADA às festividades comemorativas dos 140 anos de aniversário do Distrito de Eugênio de Melo."
     },
     {
         "id": 2159,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Requerimento",
         "text": "Agradece a colaboração do 1º BATALHÃO DA POLÍCIA MILITAR às festividades comemorativas dos 140 anos de aniversário do Distrito de Eugênio de Melo."
     },
@@ -8917,7 +8917,7 @@
     },
     {
         "id": 2240,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "IDOSO",
         "tipo": "Projeto de Lei Complementar",
         "text": "DISPÕE SOBRE NORMAS E PADRÕES DE FUNCIONAMENTO DAS INSTITUIÇÕES DE LONGA PERMANÊNCIA PARA IDOSOS - ILPI (s), SUA CLASSIFICAÇÃO E DÁ OUTRAS PROVIDÊNCIAS"
     },
@@ -10129,7 +10129,7 @@
     },
     {
         "id": 2479,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "IDOSO",
         "tipo": "Indicação",
         "text": "Solicita a Prefeitura realocar a vaga de idoso existente na Rua Sebastião Hummel, em frente ao nº 442."
     },
@@ -12151,13 +12151,13 @@
     },
     {
         "id": 2816,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "ACESSIBILIDADE",
         "tipo": "Indicação",
         "text": "Solicita à Prefeitura Municipal, providências necessárias e urgentes quanto a sinalização de solo para a vaga de idosos e portadores de necessidades especiais, na UBS localizada na Avenida São Nicolau, 1-9 no Jardim São Judas Tadeu."
     },
     {
         "id": 2817,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MANUTENCAO",
         "tipo": "Indicação",
         "text": "Solicita à Prefeitura Municipal, providências necessárias e urgentes quanto  a implantação de sinalização em frente ao CEDIM - JARDIM  CASTANHEIRAS, localizado à Rua Maria Montezi Sant Anna, 171  no Jardim Castanheira."
     },
@@ -12169,25 +12169,25 @@
     },
     {
         "id": 2819,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MANUTENCAO",
         "tipo": "Indicação",
         "text": "Solicita à Prefeitura Municipal, providências necessárias e urgentes quanto travessia elevada ou outras providências, na Avenida Bacabal e Estrada velha do Parque Industrial, próximo a EE. Deputado Benedito Matarazzo."
     },
     {
         "id": 2820,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MANUTENCAO",
         "tipo": "Indicação",
         "text": "Solicita à Prefeitura Municipal, providências necessárias e urgentes quanto a supressão de uma árvore localizada na Rua Airto Pelógia, em frente ao número 900, no Residencial Galo Branco."
     },
     {
         "id": 2821,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MANUTENCAO",
         "tipo": "Indicação",
         "text": "Pede a Prefeitura Municipal de São José dos Campos a troca da lâmpada queimada na Rua Breno de Moura nº 384, Jardim Estoril."
     },
     {
         "id": 2822,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MANUTENCAO",
         "tipo": "Indicação",
         "text": "Pede a Prefeitura Municipal de São José dos Campos a troca da lâmpada queimada na Rua Benedito Alexandre Trindade nº 221, Jardim Portugal."
     },
@@ -12199,25 +12199,25 @@
     },
     {
         "id": 2824,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MANUTENCAO",
         "tipo": "Indicação",
         "text": "Pede a Prefeitura Municipal de São José dos Campos a troca da areia do Playground da Praça José Henrique no Parque Industrial."
     },
     {
         "id": 2825,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MANUTENCAO",
         "tipo": "Indicação",
         "text": "Pede a Prefeitura Municipal de São José dos Campos a manutenção no Playground da Praça José Henrique no Parque Industrial."
     },
     {
         "id": 2826,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MANUTENCAO",
         "tipo": "Indicação",
         "text": "Pede a Prefeitura Municipal de São José dos Campos a instalação de bancos na Praça José Henrique no Parque Industrial."
     },
     {
         "id": 2827,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "MANUTENCAO",
         "tipo": "Indicação",
         "text": "Pede a Prefeitura Municipal de São José dos Campos a limpeza na Praça José Henrique no Parque Industrial."
     },
@@ -14113,7 +14113,7 @@
     },
     {
         "id": 3145,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "IDOSO",
         "tipo": "Indicação",
         "text": "Solicita à Prefeitura, que verifiquem o motivo pelo qual foram retiradas as demarcações de vagas para idosos e deficientes em frente à UBS no bairro São Judas Tadeu, localizado na Avenida São Nicolau."
     },
@@ -15811,7 +15811,7 @@
     },
     {
         "id": 3502,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a comitiva de São José dos Campos que participaram do 21° JORI – Jogos Regionais dos Idosos."
     },
@@ -18409,7 +18409,7 @@
     },
     {
         "id": 4208,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com a Casa do Idoso Norte pela apresentação teatral com o tema “Conscientização sobre a prevenção do câncer”."
     },
@@ -18583,7 +18583,7 @@
     },
     {
         "id": 4239,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "CONGRATULACAO",
         "tipo": "Moção",
         "text": "Congratula-se com os Munícipes da Melhor Idade  pelo Dia Internacional do Idoso, comemorado no dia 1º de outubro de 2014."
     },
@@ -30445,19 +30445,19 @@
     },
     {
         "id": 896,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "IDOSO",
         "tipo": "Projeto de Lei",
         "text": "AUTORIZA O PODER EXECUTIVO A CONCEDER A GRATUIDADE DE ACESSO DO IDOSO A EVENTOS ESPORTIVOS REALIZADOS EM ESTÁDIOS E GINÁSIOS, BEM COMO, A MUSEUS MANTIDOS COM VERBAS PÚBLICAS E A EVENTOS ARTÍSTICOS E CULTURAIS PATROCINADOS PELO GOVERNO DO MUNICÍPIO DE SÃO JOSE DOS CAMPOS/SP."
     },
     {
         "id": 897,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "IDOSO",
         "tipo": "Projeto de Lei",
         "text": "DISPÕE SOBRE A OBRIGAÇÃO DE EVENTOS ARTÍSTICOS, CULTURAIS, ESPORTIVOS E DE LAZER DIVULGAREM OS DESCONTOS PARA IDOSOS, BEM COMO, O ACESSO PREFERENCIAL DESTES AOS RESPECTIVOS LOCAIS, NO MUNICÍPIO DE SÃO JOSE DOS CAMPOS/SP, COMO DEFINE O ESTATUTO DO IDOSO (LEI Nº 10.741/03)."
     },
     {
         "id": 899,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "IDOSO",
         "tipo": "Projeto de Lei",
         "text": "DISPÕE SOBRE A OBRIGAÇÃO DE EVENTOS ARTÍSTICOS, CULTURAIS, ESPORTIVOS E DE LAZER DIVULGAREM OS DESCONTOS PARA IDOSOS, BEM COMO, O ACESSO PREFERENCIAL DESTES AOS RESPECTIVOS LOCAIS, NO MUNICÍPIO DE SÃO JOSE DOS CAMPOS/SP, COMO DEFINE O ESTATUTO DO IDOSO (LEI Nº 10.741/03)."
     },
@@ -30847,7 +30847,7 @@
     },
     {
         "id": 1000,
-        "tag": "SEM_CLASSIFICACAO",
+        "tag": "IDOSO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a criar o Programa “Vacinação Domiciliar de Idosos”."
     },
