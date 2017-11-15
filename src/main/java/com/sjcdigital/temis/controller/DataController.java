@@ -26,7 +26,7 @@ public class DataController {
 	public String pegaDataParaTreino() {
 		
 		StringBuilder data = new StringBuilder();
-		List<Data> leis = repository.findByTagNot("SEM_CLASSIFICACAO");
+		List<Data> leis = repository.findByTagNotOrderByTag("SEM_CLASSIFICACAO");
 		
 		for (Data lei : leis) {
 			data.append(lei.getTag()).append(" ").append(lei.getText()).append("\n");

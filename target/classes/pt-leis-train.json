@@ -402,12 +402,6 @@
         "text": "Altera a Lei n. 4.617, de 12 de setembro de 1994, que \"Reformula o Conselho Municipal de Meio Ambiente - COMAM e dá outras providências.\"."
     },
     {
-        "id": 75,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei n. 8.567, de 22 de dezembro de 2011, que \"Estabelece novo Plano de Custeio para o Regime Próprio de Previdência do Servidor Municipal\"."
-    },
-    {
         "id": 76,
         "tag": "EDUCACAO",
         "tipo": "Projeto de Lei",
@@ -592,6 +586,12 @@
         "tag": "OUTRO",
         "tipo": "Projeto de Lei",
         "text": "“Institui o Estatuto do Pedestre no Município de São José dos Campos, e dá outras providências\"."
+    },
+    {
+        "id": 75,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a Lei n. 8.567, de 22 de dezembro de 2011, que \"Estabelece novo Plano de Custeio para o Regime Próprio de Previdência do Servidor Municipal\"."
     },
     {
         "id": 107,
@@ -4926,6 +4926,24 @@
         "text": "Autoriza O Poder Executivo Municipal a disponibilizar a Guarda Civil Municipal de São José dos Campos para auxiliar no monitoramento da eficácia do cumprimento de medidas protetivas."
     },
     {
+        "id": 886,
+        "tag": "SEM_CLASSIFICACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza o Poder Executivo a implantar a FEIRA NOTURNA no aniversário do Distrito de Eugênio de Melo."
+    },
+    {
+        "id": 887,
+        "tag": "SEM_CLASSIFICACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Autoriza o Poder Executivo a criar o Serviço Municipal Especial de Atendimento aos familiares e usuários de drogas."
+    },
+    {
+        "id": 888,
+        "tag": "SEM_CLASSIFICACAO",
+        "tipo": "Projeto de Lei",
+        "text": "Dispõe sobre a criação de um   programa Municipal de Educação Financeira, e dá outras providências."
+    },
+    {
         "id": 867,
         "tag": "NOMEACAO",
         "tipo": "Projeto de Lei",
@@ -5004,24 +5022,6 @@
         "text": "Altera a Lei n. 9.235, de 23 de dezembro de 2014, que \"Dispõe sobre o controle do desperdício de água potável.\""
     },
     {
-        "id": 886,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo a implantar a FEIRA NOTURNA no aniversário do Distrito de Eugênio de Melo."
-    },
-    {
-        "id": 887,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Autoriza o Poder Executivo a criar o Serviço Municipal Especial de Atendimento aos familiares e usuários de drogas."
-    },
-    {
-        "id": 888,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Projeto de Lei",
-        "text": "Dispõe sobre a criação de um   programa Municipal de Educação Financeira, e dá outras providências."
-    },
-    {
         "id": 889,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei",
@@ -5046,6 +5046,12 @@
         "text": "Altera, inclui e exclui Programas, Metas, Indicadores, Unidades de Medidas e Ações, nos Anexos I, II e III da Lei n. 9.070, de 16 de dezembro de 2013, com suas alterações, que \"Dispõe sobre o Plano Plurianual para o período de 2014 a 2017.\""
     },
     {
+        "id": 909,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a Lei n. 3.186, de 2 de dezembro de 1986, que \"Estabelece o Sistema de Plano de Carreira para os servidores municipais e dá outras providências.\"."
+    },
+    {
         "id": 905,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei",
@@ -5062,12 +5068,6 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei",
         "text": "“Dispõe sobre medidas para promoção, preservação do meio ambiente e educação ambiental por meio do plantio de uma muda de árvore a cada nascimento de criança no município e dá outras providencias”."
-    },
-    {
-        "id": 909,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei n. 3.186, de 2 de dezembro de 1986, que \"Estabelece o Sistema de Plano de Carreira para os servidores municipais e dá outras providências.\"."
     },
     {
         "id": 939,
@@ -5268,12 +5268,6 @@
         "text": "Dispõe sobre a instituição da Câmara da Melhor Idade e dá outras providências."
     },
     {
-        "id": 1205,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal, por meio as Secretaria Municipal de Saúde, atendimentomedico para a Sra. Denise Leite dos SantosMendes CRA 278297."
-    },
-    {
         "id": 1198,
         "tag": "NOMEACAO",
         "tipo": "Projeto de Decreto Legislativo",
@@ -5304,22 +5298,10 @@
         "text": "Solicito a Secretaria Estadual de Educação, urgência quanto a reforma geral do telhado da EE Juvenal Machado de Araujo, localizada na Rua Vicente Celestino, nº 150 - Vila Tesouro."
     },
     {
-        "id": 1211,
+        "id": 1205,
         "tag": "SOLICITACAO_MEDICA",
         "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal, providenciar o agendamento de exame de mapeamento de retina com urgência, para Sara Santos Castelani Coelho."
-    },
-    {
-        "id": 1212,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal, agilizar agendamento de cirurgia bariátrica para Neuza Rodrigues da Silva."
-    },
-    {
-        "id": 1213,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal, agilizar agendamento de médico cardiologista para Lucinéia Barbosa Ribeiro."
+        "text": "Solicita à Prefeitura Municipal, por meio as Secretaria Municipal de Saúde, atendimentomedico para a Sra. Denise Leite dos SantosMendes CRA 278297."
     },
     {
         "id": 1214,
@@ -5352,82 +5334,16 @@
         "text": "Solicita ao Poder Executivo, informações quanto a organização do trânsito e da segurança para realização do Exame Nacional do Ensino Médio – ENEM."
     },
     {
-        "id": 1219,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Requer à Prefeitura, urgência no agendamento com neurologista e reumatologista para a Sra. Ana Cristina da Conceição."
-    },
-    {
-        "id": 1220,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Pede a Prefeitura Municipal agendamento de Avaliação de Cirurgião Oncológico em nome da senhora Valeria Aparecida do Nascimento Bacelar de Carvalho - CRAº 821347."
-    },
-    {
         "id": 1222,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Requerimento",
         "text": "Solicita à EDP BANDEIRANTE, providências necessárias e urgentes quanto a troca de um poste de madeira localizado na Rua Elias Anacleto do Prado, em frente ao nº141 no Bairro Jardim São José I."
     },
     {
-        "id": 1223,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 1º BPM, a intensificação de ronda policial no Distrito de Eugênio de Melo."
-    },
-    {
-        "id": 1224,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 46° BPM, rondas ostensivas na Avenida Salinas, localizada no Bairro Bosque dos Eucaliptos."
-    },
-    {
-        "id": 1225,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 1º BPM a intensificação de ronda policial próximo ao escadão localizado na Rua Joaquim Ferreira Carpinteiro cruzamento com a Rua Hélio de Almeida Ferreira, no Jardim Valparaiba."
-    },
-    {
-        "id": 1226,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 1º BPM, a intensificação de rondas policiais ostensivas no Bairro Vila Maria."
-    },
-    {
-        "id": 1227,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 46º BPM, a intensificação de rondas preventivas e ostensivas na Rua das Oliveiras, nas proximidades do n° 198 no Bairro Frei Galvão."
-    },
-    {
-        "id": 1228,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicito ao 46º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda no Bairro do Jardim Coqueiro."
-    },
-    {
         "id": 1229,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Requerimento",
         "text": "Solicita à Prefeitura Municipal, providenciar a limpeza das vielas do bairro Interlagos."
-    },
-    {
-        "id": 1230,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal, providenciar agendamento de consulta com médico especialista Gastroenterologista."
-    },
-    {
-        "id": 1231,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal, providenciar agendamento o agendamento de exame de mamografia com urgência, para Lindsey Bronzatto Viana."
-    },
-    {
-        "id": 1232,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal, providenciar agendamento de cirurgia de catarata com urgência para Nilce Lopes dos Santos de 80 (oitenta) anos."
     },
     {
         "id": 1233,
@@ -5496,12 +5412,6 @@
         "text": "Registra a aposentadoria de Maria Alice da Silva Soares, Professor I da Secretaria de Educação e Cidadania e cumprimenta pelo trabalho realizado."
     },
     {
-        "id": 1244,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Requer à Prefeitura, agendamento de clínico geral para Fábio Gabriel Bento Severino."
-    },
-    {
         "id": 1245,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Requerimento",
@@ -5518,6 +5428,12 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Requerimento",
         "text": "Registra a aposentadoria da servidora ROSEMARY RIBEIRO ROSA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1211,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura Municipal, providenciar o agendamento de exame de mapeamento de retina com urgência, para Sara Santos Castelani Coelho."
     },
     {
         "id": 1247,
@@ -5538,6 +5454,12 @@
         "text": "Requer à Prefeitura, vaga em creche para a criança Bernardo Marques Machado."
     },
     {
+        "id": 1252,
+        "tag": "SEM_CLASSIFICACAO",
+        "tipo": "Requerimento",
+        "text": "Solicita informações à Prefeitura sobre investimentos e expansão do serviço de iluminação pública."
+    },
+    {
         "id": 1250,
         "tag": "SOLICITACAO_MEDICA",
         "tipo": "Requerimento",
@@ -5550,172 +5472,10 @@
         "text": "Requer à Prefeitura, urgência no agendamento de reumatologista para a Sra. Creusa das Neves de Souza."
     },
     {
-        "id": 1252,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Requerimento",
-        "text": "Solicita informações à Prefeitura sobre investimentos e expansão do serviço de iluminação pública."
-    },
-    {
-        "id": 1256,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal, providenciar agendamento o agendamento de exame de colonoscopia com urgência, para Casturina Maria de Azevedo."
-    },
-    {
         "id": 1257,
         "tag": "SEGURANCA",
         "tipo": "Requerimento",
         "text": "Pede ao 1º BATALHÃO BPM mais policiamento no bairro Jardim Telespark."
-    },
-    {
-        "id": 1258,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma cirurgia no ombro, para o Sr. Mario Joaquim dos Santos, CRA 251983, nascido em 15/01/1956."
-    },
-    {
-        "id": 1259,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a urgência de uma consulta com especialista vascular, para a Sra. Antônia Audenor da Silva, CRA 406114, nascida em 21/02/1942."
-    },
-    {
-        "id": 1261,
-        "tag": "SECURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 46º Batalhão da Policia Militar policiamento preventivo e ostensivo na Avenida Gisele Martins e adjacências, no Jardim Morumbi."
-    },
-    {
-        "id": 1262,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita à EDP Bandeirante os serviços de conserto ou substituição do poste na esquina da Avenida George Eastman com a Rua Meghy Moanna Metene, no Palmeiras de São José."
-    },
-    {
-        "id": 1263,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, informações sobre o programa habitacional em nome de Keila Barbosa de Andrade, conforme PH 44405."
-    },
-    {
-        "id": 1264,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, vaga para Lorenzo Cabral Maia dos Santos no IMI João Lopes Simões."
-    },
-    {
-        "id": 1265,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, urgência na marcação do exame de Ultrassom com Doppler colorido venoso de dois membros, para Cristina Aparecida de Brito Gonçalves, conforme CRA 642086."
-    },
-    {
-        "id": 1266,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Pede a EDP BANDEIRANTES o serviço de limpeza de galho após a poda realizada pela mesmo na Rua dos Farmacêuticos em frente ao número 415 no bairro Parque Novo Horizonte."
-    },
-    {
-        "id": 1267,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 46º Batalhão da Polícia Militar a Intensificação das rondas preventivas e ostensivas no bairro Residencial União, de modo especial nas proximidades do Centro Esportivo e da EMEF Ildete Mendonça Barbosa."
-    },
-    {
-        "id": 1268,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Requer à Prefeitura, agendamento de avaliação cardiológica para a Sra. Rita de Cássia Anhaia de Lemos."
-    },
-    {
-        "id": 1269,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Requer à Prefeitura urgência no agendamento de exame de densitometria óssea para a Sra. Clarice Eiko Hanada."
-    },
-    {
-        "id": 1270,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal, providenciar acompanhamento especializado para crianças autistas em sala de aula, EMEF Ângela de Castro, do Parque Industrial."
-    },
-    {
-        "id": 1271,
-        "tag": "OUTRA",
-        "tipo": "Requerimento",
-        "text": "Solicita informações à Prefeitura sobre o IPSM - Instituto de Previdência Social do Servidor Municipal."
-    },
-    {
-        "id": 1272,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal, providenciar atendimento médico especializado de ginecologista para munícipe Marta Mirian Jesus Santos, que já possui o exame de mamografia."
-    },
-    {
-        "id": 1273,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal, providenciar a troca de local de atendimento da UBS da Vila Maria para a UBS da Cel. Monteiro, de Hercília Ribeiro e Nelton Claudio Ribeiro, ambos com sequelas de AVC."
-    },
-    {
-        "id": 1274,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal, providenciar atendimento médico especializado de ginecologista e exame de mamografia para munícipe Oriana Maria Dias Chaves."
-    },
-    {
-        "id": 1275,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra participação no Seminário: “Anistia Política: Perspectivas e desafios à implantação da política de reparação no Brasil”."
-    },
-    {
-        "id": 1276,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura Municipal de São José dos Campos a realização de estudo técnico para avaliar a possibilidade de ser incluído como objeto do contrato de prestação de serviços de pagamento da folha salarial dos servidores municipais ativos do Município, uma agência bancária, bem como a instalação e exploração de postos de atendimento eletrônico, no Distrito de São Francisco Xavier."
-    },
-    {
-        "id": 1277,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicito ao 46º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva no Bairro Jardim Santa Inês I."
-    },
-    {
-        "id": 1278,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de um exame USG doppler, para Sra. Adriana Aparecida Medeiros Neves Manoel, CRA 444613, nascida em 24/05/1985."
-    },
-    {
-        "id": 1279,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma cirurgia de retirada de útero, para a Sra. Claudineia Aparecida G. de Meira, CRA 588121, nascida em 20/02/1973."
-    },
-    {
-        "id": 1280,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de sessões de Fisioterapia, para a Sra. Lúcia Santos, CRA 680715, nascida em 01/03/1962."
-    },
-    {
-        "id": 1281,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de um exame USG de tireoide doppler, para a Sra. Silmara Aparecida de Araújo Silva, CRA 97148, nascida em 10/10/1987."
-    },
-    {
-        "id": 1282,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma consulta com Oncologista, para Sr. Paulo Tadeu de Souza, CRA 534995, nascido em 12/02/1948."
-    },
-    {
-        "id": 1260,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 1º Batalhão da Policia Militar policiamento preventivo e ostensivo na Avenida Vinte e Três de Maio e adjacências, na Vila Maria."
     },
     {
         "id": 1283,
@@ -5728,198 +5488,6 @@
         "tag": "SOLICITACAO_MEDICA",
         "tipo": "Requerimento",
         "text": "Solicito a Prefeitura Municipal, providências quanto agilidade de dois exames de USG partes moles e USG articulações, para o Sr. Alison Manoel, CRA 80119, nascido em 20/04/1983."
-    },
-    {
-        "id": 1285,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade para retirada de gaiola, para o Sr. Alcides Aparecido Carvalho, CRA 545831, nascido em 09/04/1978."
-    },
-    {
-        "id": 1286,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de um exame de Densitometria Óssea, para a Sra. Maria Aparecida das Dores, CRA 498567, nascida em 20/08/1952."
-    },
-    {
-        "id": 1287,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a uma vaga na IMI Flavio Lenzi - Vila Tatetuba, para a criança Lucas de Oliveira, nascido em 11/11/2016."
-    },
-    {
-        "id": 1288,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto agilidade de uma cirurgia no joelho, para Sr. Sidney Ismael dos Santos, CRA 463190, nascido em 25/11/1989."
-    },
-    {
-        "id": 1289,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de alguns exames, para Sra. Ana Maria Dias, CRA 32069, nascido em 08/11/1964."
-    },
-    {
-        "id": 1290,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma consulta com Otorrinolaringologista, para a Sra. Dulceneia Ribeiro da Silva, CRA 470467, nascida em 03/04/1962."
-    },
-    {
-        "id": 1291,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a urgência de um exame de Próstata, para o Sr. Luiz Carlos Gomes, CRA 430603, nascido em 10/03/1952"
-    },
-    {
-        "id": 1292,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de um exame no Provisão, para a Sra. Jesuina Dias Santos, CRA 204988, nascida em 08/05/1961."
-    },
-    {
-        "id": 1293,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Pede a Prefeitura Municipal agendamento do exame de histeroscopia em nome da senhora Maria de Fátima Campos Botelho - CRAº 561067."
-    },
-    {
-        "id": 1294,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita a Prefeitura Municipal agendamento do exame de uretroscopia c/ biópsia visical em nome do senhor Luiz Gonzaga Rodrigues - CRAº 491947."
-    },
-    {
-        "id": 1295,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Pede a Prefeitura Municipal agendamento do exame de histeroscopia para a senhora Fátima Conceição Crot - CRAº 429344."
-    },
-    {
-        "id": 1296,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Pede a Prefeitura Municipal visita domiciliar em carater de vulnerabilidade social para o senhor Edson dos Santos."
-    },
-    {
-        "id": 1297,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita à EDP Bandeirante a troca do poste de madeira existente na Rua Benedita Augusta dos Santos, em frente ao número 595 no Residencial Galo Branco."
-    },
-    {
-        "id": 1298,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicito ao 1º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva na Praça Tereza Tomaz Calsavara, no Residencial Galo Branco."
-    },
-    {
-        "id": 1299,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Pede à UNIP, UNIVERSIDADE PAULISTA, tratamento odontológico para o Senhor Wilson Aparecido Barboza."
-    },
-    {
-        "id": 1300,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita a SABESP,  providências quanto ao vazamento de água na Rua Coronel Gonçalves, em frente ao número 220 no Distrito de Eugênio de Melo."
-    },
-    {
-        "id": 1301,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicito ao 1º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva próximo ao Condomínio Boa Vista,  existente na SP - 50, altura do km 101."
-    },
-    {
-        "id": 1302,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Pede a EDP BANDEIRANTES o serviço de manutenção a rede elétrica na central na Fazenda Takanashi em frente ao número 31 na Fazenda Takanashi."
-    },
-    {
-        "id": 1304,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Pede autorização Plenária para representar esta Edilidade, com ônus, na reunião com o Dr Bruno Caligaris, Chefe de Gabinete da SENASP no Ministério da Justiça e Segurança Pública - Esplanada dos Ministérios, no dia 09 de novembro às 15 horas."
-    },
-    {
-        "id": 1305,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Requer à Prefeitura, agendamento de consulta médica com neurologista para a Sra. Tânia Cristina Ferreira de Souza."
-    },
-    {
-        "id": 1306,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita à EDP Bandeirante, a instalação de “braços” e lâmpadas nos postes na Avenida D. José Antônio do Couto, no Cajuru."
-    },
-    {
-        "id": 1307,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita a EDP Bandeirante a vistoria em um poste localizado na Avenida Filadélfia, em frente ao nº 350, no bairro Águas de Canindú."
-    },
-    {
-        "id": 1308,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita à EDP Bandeirante a poda da árvore em frente ao número 241 da Rua Gemini, no Jardim Satélite."
-    },
-    {
-        "id": 1309,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita à EDP Bandeirante a manutenção, a capina e a limpeza dos imóveis localizados entre os números 405 e 410 da Rua Coronel Manoel Pacheco Neto, Jardim Paulista."
-    },
-    {
-        "id": 1310,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita à EDP Bandeirante a poda da árvore localizada em frente ao número 78 da Rua Francisco Rodrigues Silva, no Jardim Morumbi."
-    },
-    {
-        "id": 1311,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 1º Batalhão da Policia Militar policiamento preventivo e ostensivo na região da Vila Tesouro e adjacências."
-    },
-    {
-        "id": 1313,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, possibilidade de agilizar a consulta da Sra. Vera Lucia Barbosa - CRA: 171958 com o Gastroenterologista e avaliação Cirúrgica Ortopédica."
-    },
-    {
-        "id": 1314,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, vaga em creche para Bernardo Costa Pedroso de Oliveira na EMEI Professora Ângela Maria de Souza Alves"
-    },
-    {
-        "id": 1315,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, vaga em creche para Eduardo Pires de Souza no IMI Maria de Lourdes Constantino ou CECOI Casepafe."
-    },
-    {
-        "id": 1316,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, possibilidade de agilizar a consulta do Sr. Valdir Alves Garcia Junior - CRA: 92154 com especialista Gastroenterologista."
-    },
-    {
-        "id": 1317,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, vaga em creche para Daniel Henrique da Cruz Melo no IMI Professora Maria de Lourdes Constantino."
-    },
-    {
-        "id": 1457,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora MARIA INEZ DE LIMA TEIXEIRA DA GAMA e cumprimenta pelo trabalho realizado."
     },
     {
         "id": 1318,
@@ -5976,112 +5544,10 @@
         "text": "Requer à Prefeitura, urgência no agendamento de retorno oftalmológico para a Sra. Andreia Porto Lopes."
     },
     {
-        "id": 1328,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Requer à Prefeitura, urgência no agendamento de Ressonância da coluna para o Sr. Antônio Carlos Pereira."
-    },
-    {
-        "id": 1329,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Pede autorização Plenária para representar esta Edilidade na cerimônia de Posse do Conselho Municipal de Juventude - COMJUV, sem ônus, que ocorrerá no Centro de Juventude, às 18h00 do dia 31 de outubro de 2017."
-    },
-    {
-        "id": 1330,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Pede à  ECT – EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS, a implantação de CEP na  Estrada Municipal Fazenda Ronda, no Distrito de Eugênio de Melo."
-    },
-    {
-        "id": 1331,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Pede à UNITAU, UNIVERSIDADE DE TAUBATÉ, tratamento odontológico para o Senhor Wilson Aparecido Barboza."
-    },
-    {
-        "id": 1332,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Pede à UNIFESP, UNIVERSIDADE FEDERAL DE SÃO PAULO, tratamento odontológico para o Senhor Wilson Aparecido Barboza."
-    },
-    {
-        "id": 1333,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Pede à UNIVAP, UNIVERSIDADE DO VALE DO PARAÍBA, tratamento odontológico para o Senhor Wilson Aparecido Barbosa."
-    },
-    {
-        "id": 1334,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicito ao 46º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva no Bairro Jardim Bandeirantes."
-    },
-    {
-        "id": 1335,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicito ao 46º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda no Bairro Jardim República."
-    },
-    {
-        "id": 1336,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicito ao 1º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva no Distrito de Eugênio de Melo."
-    },
-    {
-        "id": 1337,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicito ao 1º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva nas proximidades da Praça Luiz Roberto de Souza, no Residencial Galo Branco."
-    },
-    {
-        "id": 1338,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicito à Prefeitura Municipal, informações sobre o curso de depilação e sobrancelhas oferecidos pelo Sebrae, para a senhora ANGELA CRISTINA ATHANASIO DA SILVA, Residente a Rua Benedito Fraga da Silva , nº 975 no Residencial Galo Branco."
-    },
-    {
         "id": 1339,
         "tag": "OUTRO",
         "tipo": "Requerimento",
         "text": "Solicito licença de vereança da Sessão Ordinária do dia 26 de Outubro de 2017"
-    },
-    {
-        "id": 1340,
-        "tag": "GRATIFICACAO",
-        "tipo": "Requerimento",
-        "text": "Requer à confecção da Medalha Mérito Legislativo e respectivo Diploma, concedidos à Paróquia Espírito Santo, Diocese de São José dos Campos, por meio do Decreto Legislativo nº 01/2017, de 16 de março de 2017."
-    },
-    {
-        "id": 1341,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Justifica ausência na Sessão Ordinária do dia 24 de outubro de 2017, conforme atestado médico anexo."
-    },
-    {
-        "id": 1342,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Pede autorização Plenária para representar esta Edilidade na cerimônia de Posse do Conselho Municipal de Juventude - COMJUV, sem ônus, que ocorrerá no Centro de Juventude, às 18h00 do dia 26 de outubro de 2017."
-    },
-    {
-        "id": 1343,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita supressão da sessão ordinária do dia 02 de novembro de 2017, em decorrência do feriado de Finados."
-    },
-    {
-        "id": 1344,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Pede autorização Plenária para representar esta Edilidade na cerimônia de Posse do Conselho Municipal de Juventude - COMJUV, que ocorrerá no Centro de Juventude, às 18h00 do dia 26 de agosto de 2017."
-    },
-    {
-        "id": 1346,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Pede autorização Plenária para representar esta Edilidade, com ônus, na reunião com o Diretor do Departamento de Atenção Básica da Secretaria de Atenção à Saúde João Salame, a ocorrer no próximo dia 08 de novembro, em Brasília."
     },
     {
         "id": 1355,
@@ -6100,180 +5566,6 @@
         "tag": "EDUCACAO",
         "tipo": "Requerimento",
         "text": "Solicita ao MEC – Ministério da Educação que reveja a proposta de Base Nacional Comum Curricular."
-    },
-    {
-        "id": 1358,
-        "tag": "TRANSPORTE",
-        "tipo": "Requerimento",
-        "text": "Solicita ao Governo do Estado de São Paulo que realize estudos estudos para extensão da linha férrea destinada ao transporte de passageiros de Mogi das Cruzes até Jacareí."
-    },
-    {
-        "id": 1359,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita a CTEEP - Companhia de Transmissão de Energia Elétrica Paulista, serviços de capina e limpeza na esquina da Rua dos Paturis com a Av. Deputado Benedito Matarazzo, zona leste, VilaTatetuba, no município de São José dos Campos."
-    },
-    {
-        "id": 1361,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita a Polícia Militar intensificação de ronda policial próximo ao \"escadão\" localizado na Rua Joaquim Ferreira Carpinteiro cruzamento com a Rua Hélio de Almeida Ferreira, no Jardim Ismênia."
-    },
-    {
-        "id": 1362,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita a Polícia Militar a intensificação de rondas policiais ostensivas próximo ao IFSP, campus São José dos Campos."
-    },
-    {
-        "id": 1363,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Requer à Prefeitura, urgência no agendamento de consulta com urologista para o Sr. Antônio Sinézio Soares."
-    },
-    {
-        "id": 1364,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 1º Batalhão da Polícia Militar a intensificação do policiamento preventivo e ostensivo nas imediações do Hospital Municipal na Vila Industrial."
-    },
-    {
-        "id": 1365,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita Prefeitura que envie um técnico para avaliar a possibilidade de providenciar a supressão de duas árvores que estão plantadas na frente da residência da Sra. MARIA JOSÉ FÁTIMA FARIA, na Rua Adriano Espíndola, 691, no bairro Cidade Morumbi."
-    },
-    {
-        "id": 1366,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicito Prefeitura a concessão de Vales Transporte para a munícipe SUELI AKEMI TANAKA, que exerce a atividade de professora do ensino público."
-    },
-    {
-        "id": 1367,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita à EDP Bandeirante a poda dos galhos da árvore em frente ao número 141 da Rua Tupinambás, em Santana."
-    },
-    {
-        "id": 1368,
-        "tag": "CONGRATULACAO",
-        "tipo": "Requerimento",
-        "text": "Requer autorização para homenagear, no próximo dia 22/11/17, às 19 horas, no Plenário desta Edilidade, todos os profissionais e voluntários que atuam no combate ao Câncer Infantojuvenil no Município de São José dos Campos."
-    },
-    {
-        "id": 1369,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita à EDP Bandeirante o rebaixamento da árvore plantada em frente ao número 1016 da Rua Francisco Rodrigues Silva no bairro Cidade Morumbi."
-    },
-    {
-        "id": 1370,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita à EDP Bandeirante a troca do poste de madeira existente em frente ao número 1413 da Rua Odete Garcia no bairro Cidade Morumbi."
-    },
-    {
-        "id": 1372,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita à EDP Bandeirante o rebaixamento da árvore plantada em frente ao número 300 da Rua Serra dos Carajás no Jardim Altos de Santana."
-    },
-    {
-        "id": 1373,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Requer à Prefeitura, agendamento de consulta com ginecologista para a Sra. Carolina Pires Pinho."
-    },
-    {
-        "id": 1374,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Requer à Prefeitura, agendamento de consulta com ginecologista para a Sra. Maria Vilani S. Carneiro."
-    },
-    {
-        "id": 1375,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, quanto a agilidade de Tratamento Fonoaudiológico, para o Sr. Joaquim Pereira Filho, CRA 132467, nascido em 06/09/1928."
-    },
-    {
-        "id": 1376,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicito ao 46º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva nas proximidades da Praça Mario Porto - Jardim Satélite."
-    },
-    {
-        "id": 1377,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma cirurgia no Quadril, para o Sr. Aparecido Leite dos Santos, CRA 078658, nascido em 12/07/1949."
-    },
-    {
-        "id": 1378,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicito a EDP Bandeirantes, providências para substituição de um poste de madeira por um poste de concreto, localizado na Rua Manoel Aragão da Silva, próximo ao nº 114 - Jardim Primavera II."
-    },
-    {
-        "id": 1379,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicito ao 46º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva no Bairro Jardim Satélite."
-    },
-    {
-        "id": 1380,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma cirurgia de Pterígio no olho, para a Sra. Celeida de Fátima Barbosa, CRA 910639, nascida em 13/05/1955."
-    },
-    {
-        "id": 1381,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma cirurgia de Descolamento de Retina, para a Sra. Juliana Aparecida de Carvalho, CRA 428387, nascida em 31/07/1983."
-    },
-    {
-        "id": 1382,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma consulta com Ortopedista, para a Sra. Maria Moreira de Jesus, CRA 470742, nascida em 04/06/1943."
-    },
-    {
-        "id": 1383,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de um exame USG da Próstata, para o Sr. Antônio Geraldo Maria da Silva, CRA 307831, nascido em 20/08/1955."
-    },
-    {
-        "id": 1384,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de um tratamento de Densitometria Óssea, para a Sra. Rita Célia da Silva, CRA 301895, nascida em 27/09/1962."
-    },
-    {
-        "id": 1385,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Pede ao 46º BATALHÃO DA POLÍCIA MILITAR pedindo mais policiamento perto da escola E. E. Prof. Amintas Rocha Brito no bairro Jardim Castanheiras."
-    },
-    {
-        "id": 1386,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Pede ao 46º BATALHÃO DA POLÍCIA MILITAR mais policiamento no bairro Jardim Paraíso do Sol."
-    },
-    {
-        "id": 1387,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Pede a EDP BANDEIRANTES a troca do poste de madeira para poste de concreto na Rua Benedito Davi Filho em frente ao número 30 no Residencial Galo Branco."
-    },
-    {
-        "id": 1416,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Solange Azevedo Lemos de Oliveira Moreira, Dentista 20H da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
     },
     {
         "id": 1404,
@@ -6378,628 +5670,10 @@
         "text": "Registra a aposentadoria de Janne Santos Mendes, Professor I da Secretaria de Educação e Cidadaniae cumprimenta pelo trabalho realizado."
     },
     {
-        "id": 1421,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de CARLOS HENRIQUE DE CARVALHO, Higienista Dental  da Secretaria de Saúdee cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1422,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de HELIA GERALDINA FERREIRA DE ALMEIDA, Assistente de Enfermagem Nível I da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1423,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de WILMA JESUS DOS SANTOS RIBEIRO, Auxiliar de Serviços Gerais da Secretaria de Educação e Cidadania e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1424,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita a Sabesp, informações sobre a cobrança de taxa de esgoto dos moradores da Rua 14, no Bairro Majestic."
-    },
-    {
-        "id": 1425,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, vaga na EMEI Doroti da Silva Cunha Nei para Davi Lucca Silva Vichi."
-    },
-    {
-        "id": 1426,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, urgência no exame de Ultrassonografia Transvaginal para Stefania Graciele da Silva Rodrigues  - CRA 46914."
-    },
-    {
-        "id": 1427,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, vaga no IMI Marilda de Brito Barros Pereira ou EMEI Professora Maria Alice Pasquarelli, para Kauã Vinicius Bueno Ferreira."
-    },
-    {
-        "id": 1428,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, vaga na creche CEDIN Santo Antônio Santana Galvão, para Pérola Queres Pulquerio e  Pietra Queres Pulquerio"
-    },
-    {
-        "id": 1429,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, possibilidade de antecipar Cirurgia de Catarata do Sr. José Fernandes - CRA 630710"
-    },
-    {
-        "id": 1430,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, informações sobre o programa habitacional em nome de Cleiciane Fernanda da Silva, conforme nº PH 60887."
-    },
-    {
-        "id": 1431,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, vaga para Enzo Machado Andrade no CEDIN Professora Delza Giovanelli Fonseca."
-    },
-    {
-        "id": 1432,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, informações sobre o programa habitacional em nome de Fernanda de Lira Morais, conforme nº PH 60735."
-    },
-    {
-        "id": 1433,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, vaga em creche para Manuela Vitória Almeida Chaves, nascida dia 22/05/2017, conforme inscrição nº 18, para nível B I na creche IMI Pousada do Vale."
-    },
-    {
-        "id": 1434,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, informações sobre o programa habitacional em nome de Eliana Maria da Silva Melo, conforme nº PH 20714."
-    },
-    {
-        "id": 1435,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicita à Prefeitura, urgência na Ressonância Magnética para Wesley Daniel Guimarães dos Santos, nascido dia 26/08/2014, conforme número do CRA 899900"
-    },
-    {
-        "id": 1436,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "solicita  ao Comando do 1° Batalhão da Policia Militar do Interior, o aumento de policiamento no bairro Vila Maria, visando o combate à criminalidade."
-    },
-    {
-        "id": 1437,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma cirurgia de Catarata, para o Sr. Valdir Quirino dos Santos, CRA 23687, nascido em 28/12/1953."
-    },
-    {
-        "id": 1438,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma consulta com Clínico Geral, para a Sra. Maria Angelina B. Santos, CRA 400326, nascida em 09/03/1966."
-    },
-    {
-        "id": 1439,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma consulta com Psicólogo, para a Sra. Patrícia Maria da Silva, CRA 106340, nascida em 11/03/1983."
-    },
-    {
-        "id": 1440,
-        "tag": "SOLICITACAO_MEDICA",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a um exame de Ressonância, para a Sra. Marlúcia Alves de Assis, CRA 40228, nascida em  27/04/1977."
-    },
-    {
-        "id": 1441,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicito a Prefeitura Municipal, providências quanto a uma vaga na IMI Professora Helena Ferreira, para a criança Pedro Momilli Penna de Oliveira Nunes, nascido em 31 de Maio de 2016."
-    },
-    {
-        "id": 1442,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 46º Batalhão de Polícia Militar, rondas ostensivas no bairro Jardim Morumbi."
-    },
-    {
-        "id": 1443,
-        "tag": "EDUCACAO",
-        "tipo": "Requerimento",
-        "text": "Solicita ao Governo do Estado de São Paulo a contratação de Professor para EE Professor Xenofonte Estrabão de Castro."
-    },
-    {
-        "id": 1448,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor CARLOS AUGUSTO PEREIRA DE ALMEIDA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1449,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor SERGIO MORAIS PINTO e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1450,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor MAURICIO VALERIANO e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1451,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor FRANCELINO MOTA BUENO e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1452,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora FÁTIMA REGINA DE PAULA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1453,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor DIMAS PEREIRA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1454,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora ISABEL CRISTINA DE OLIVEIRA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1455,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora MARIA MARCIA DE FARIA e cumprimenta pelo trabalho realizado."
-    },
-    {
         "id": 1458,
         "tag": "OUTRO",
         "tipo": "Requerimento",
         "text": "Registra a aposentadoria do servidor BENEDITO JUSTINO MORAIS JUNIOR e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1459,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora MAGDA DE MORAIS MELO e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1460,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora JANNE SANTOS MENDES e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1461,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora ROGERIA BAIÔCO DA SILVA CARDOZO e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1462,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora LUCILIA MATOS RODRIGUES e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1463,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora WILMA JESUS DOS SANTOS RIBEIRO e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1464,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor JOSÉ BENEDITO GARCIA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1465,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor CLAUDIONOR MACHADO e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1466,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor MILTON DE PAULA FERREIRA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1467,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora ROSEMARI RUFINO LOPES e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1468,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora MARIA DE LOURDES SILVA PEREIRA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1469,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora ELIANE TEREZINHA ALVES LEMES e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1470,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora MARIA ISABEL DE PAIVA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1471,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora SOLANGE AZEVEDO LEMOS DE OLIVEIRA MOREIRA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1472,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora CLEUSA DE FATIMA DA SILVA RIBEIRO e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1473,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor HELIO SPERANZA CAMERANO JUNIOR e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1474,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora GILVANE RUTH BREMER HINCKEL e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1475,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora JUSTINA APARECIDA OVERA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1476,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora ISABEL CRISTINA MAIA MOREIRA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1477,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora MARIA FILOMENA DO PRADO SANTOS e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1478,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora MARIA LUCIA HELENA ALMEIDA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1479,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora IVANA MARIA MOTA JUNQUEIRA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1480,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora HELIA GERALCINA FERREIRA DE ALMEIDA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1481,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora APARECIDA DE SOUZA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1482,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor VANDERLEI BATISTA SILVA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1483,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora SANDRA MARINA DE PAULA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1484,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor JOÃO DA SILVA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1485,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor AFONSO ANGELO GIULIANI e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1486,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora MARIA DA SILVA DE OLIVEIRA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1487,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora LUCI DE PAULA CLARO e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1488,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora MARIA GUIA LUZ DOS SANTOS e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1489,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor LUIZ CARLOS DA SILVA e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1490,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria da servidora MARIA CANDIDA POLYACARPO e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1491,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor LUIZ FERNANDES DE MELLO e cumprimento pelo trabalho realizado."
-    },
-    {
-        "id": 1492,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do servidor JOSÉ MOREIRA VITO e cumprimento pelo trabalho realizado."
-    },
-    {
-        "id": 1493,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria do CARLOS ENRIQUE DE CARVALHO e cumprimento pelo trabalho realizado."
-    },
-    {
-        "id": 1494,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita autorização Legislativa para representar com ônus esta Casa de Leis no evento “Perspectivas e Desafios à Implementação da Política de Reparação no Brasil”."
-    },
-    {
-        "id": 1495,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 46º Batalhão da Polícia Militar a Intensificação das rondas preventivas e ostensivas no Jardim Paraíso, de modo especial nas proximidades da Rua Sebastião Sorato."
-    },
-    {
-        "id": 1496,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao Comando do 46° Batalhão da Policia Militar, o aumento de policiamento no bairro Jardim Terras do Sul."
-    },
-    {
-        "id": 1497,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita à EDP Bandeirante, a substituição dos postes de madeira na Rua Orlando Balbino da Silva no Jardim Terras do Sul."
-    },
-    {
-        "id": 1498,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicita a Sabesp, informações sobre a ligação de água nas residências dos moradores da Rua 14 no Bairro Majestic."
-    },
-    {
-        "id": 1499,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 1º BPM, a intensificação de rondas preventivas e ostensivas na Rua Antônio Rodrigues do Prado, na altura do número 110, no Bairro Vila Cristina."
-    },
-    {
-        "id": 1500,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Celeste Araújo de Andrade, Psicólogo da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1501,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Carlos Enrique de Carvalho, Higienista Dental da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1502,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de José Moreira Vito, Jardineiro da Secretaria de Manutenção da Cidade e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1503,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Luiz Fernandes de Mello, Motorista de Encargos Gerais do Município e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1504,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Maria Cândida Polycarpo, Médica 24H da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1505,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Luiz Carlos da Silva, Auxiliar de Serviços Gerais da Secretaria de Mobilidade Urbana e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1506,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Maria Guia Luz dos Santos, Assistente de Enfermagem Nível II daSecretaria de Saúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1507,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Luci de Paula Claro, Agente Fiscal da Secretaria de Proteção ao Cidadão e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1508,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Maria da Silva de Oliveira, Auxiliar de Serviços Gerais da Secretaria de Educação e Cidadania e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1509,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Afonso Angelo Giuliani, Armazenista da Secretaria de Saúde ecumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1510,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de João da Silva, Auxiliar de Serviços Gerais da Secretaria de Educação e Cidadania e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1511,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Sandra Marina de Paula, Assistente de Enfermagem Nível II daSecretaria de Saúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1512,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Vanderlei Batista Silva, Professor II da Secretaria de Educação eCidadania e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1513,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Aparecida de Souza, Agente Administrativo II da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1514,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Helia Geralcina Ferreira de Almeida, Assistente de EnfermagemNível I da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1515,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Ivana Maria Mota Junqueira, Professor I da Secretaria de Educação e Cidadania e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1516,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Maria Lúcia Helena Almeida, Agente Fiscal de Encargos Gerais do Município e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1517,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Maria Filomena do Prado Santos, Assistente de Enfermagem Nível I da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1518,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Isabel Cristina Maia Moreira, Professor I da Secretaria de Educação eCidadania e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1519,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Justina Aparecida Overa, Cozinheira da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1520,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Gilvane Ruth Bremer Hinckel, Professor II da Secretaria de Educação eCidadania e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1521,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Helio Speranza Camerano Junior, Médico 20H da Secretaria deSaúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1522,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Cleusa de Fátima da Silva Ribeiro, Higienista Dental da Secretaria deSaúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1523,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Registra a aposentadoria de Celeste Araújo de Andrade, Psicólogo da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
-    },
-    {
-        "id": 1524,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita à ECT – Empresa Brasileira de Correios e Telégrafos que adote as providências necessárias para que haja serviço de distribuição de correspondência no Bairro Majestic."
-    },
-    {
-        "id": 1525,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicita informações à Mesa Diretora quanto a viabilidade de uma parceria entre a Câmara Municipal, através da TV Câmara e a Universidade Federal de São Paulo – Unifesp."
-    },
-    {
-        "id": 1526,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Solicito Prefeitura a concessão de “Auxílio Aluguel” para a munícipe CINTHIA LUANA DA SILVA CORREA NASCIMENTO."
-    },
-    {
-        "id": 1527,
-        "tag": "MANUTENCAO",
-        "tipo": "Requerimento",
-        "text": "Solicito, à EDP Bandeirante, a supressão de uma árvore que está junto á fiação em frente ao número 232 da na Rua San Marino no Jardim América."
-    },
-    {
-        "id": 1528,
-        "tag": "TRANSPORTE",
-        "tipo": "Requerimento",
-        "text": "Solicito ao Ministério dos Transportes, Portos e Aviação Civil a realização de estudos para a internacionalização do TPS – Terminal de Passageiros do Aeroporto de São José dos Campos – Professor Urbano Ernesto Stumpf."
-    },
-    {
-        "id": 1529,
-        "tag": "TRANSPORTE",
-        "tipo": "Requerimento",
-        "text": "Solicito ao Ministério dos Transportes, Portos e Aviação Civil a realização de estudos para a complementação das marginais direita e esquerda da BR-116 – Rodovia Presidente Dutra, no trecho que  corta os municípios de São José dos Campos e Jacareí entre os quilômetros 144 e 162."
-    },
-    {
-        "id": 1530,
-        "tag": "OUTRO",
-        "tipo": "Requerimento",
-        "text": "Requer à Prefeitura, vaga em pré escola para a criança Ana laura Oliveira da Silveira."
     },
     {
         "id": 1531,
@@ -7212,6 +5886,12 @@
         "text": "Requer autorização para homenagear, no próximo dia 23/10/2017, às 19 horas, no Auditório Mário Covas, a Associação para Síndrome de Down – ASIN, pelo trabalho realizado em prol da pessoa com deficiência em São José dos Campos."
     },
     {
+        "id": 1585,
+        "tag": "SEM_CLASSIFICACAO",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 1º BPM,  a intensificação das rondas preventivas e ostensivas nas proximidades do número 207 da Rua Albertino de Almeida, na Vila Industrial."
+    },
+    {
         "id": 1576,
         "tag": "CONGRATULACAO",
         "tipo": "Requerimento",
@@ -7242,12 +5922,6 @@
         "text": "Requeremos a EDP BANDEIRANTE trocar o poste de madeira por um poste de concreto na Rua Três em frente do n.º 130 no Bairro do Serrote."
     },
     {
-        "id": 1585,
-        "tag": "SEM_CLASSIFICACAO",
-        "tipo": "Requerimento",
-        "text": "Solicita ao 1º BPM,  a intensificação das rondas preventivas e ostensivas nas proximidades do número 207 da Rua Albertino de Almeida, na Vila Industrial."
-    },
-    {
         "id": 1596,
         "tag": "OUTRO",
         "tipo": "Requerimento",
@@ -7264,12 +5938,6 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Requerimento",
         "text": "Pede ao 01º BATALHÃO DA POLÍCIA MILITAR/I/FORÇA TÁTICA mais seguranças no bairro Residencial Galo Branco e Residencial Ribeira."
-    },
-    {
-        "id": 1626,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Pede ao 01º BATALHÃO DA POLÍCIA MILITAR/I/FORÇA TÁTICA mais seguranças no bairro Jardim Itapõa."
     },
     {
         "id": 1627,
@@ -7444,6 +6112,12 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Requerimento",
         "text": "Registra a aposentadoria de Vanderlei Batista Silva, Professor II da Secretaria de Educação e Cidadania e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1626,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Pede ao 01º BATALHÃO DA POLÍCIA MILITAR/I/FORÇA TÁTICA mais seguranças no bairro Jardim Itapõa."
     },
     {
         "id": 1657,
@@ -10098,12 +8772,6 @@
         "text": "Altera as Leis Complementares n. 453, de 8 de dezembro de 2011, que \"Dispõe sobre o Plano de Cargos, Carreira e  Vencimento dos Servidores Municipais de São José dos Campos e dá outras providências.\" e n. 455, de 8 de dezembro de2011, que \"Institui os adicionais e gratificações que especifica e dispõe sobre a forma de concessão aos servidores públicos municipais, e dá outras providências.\", e dá outras providências."
     },
     {
-        "id": 2205,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar 428 de 09 de agosto de 2010, que estabelece as normas relativas ao parcelamento, uso e ocupação do solo em São José dos Campos, e dá outras providências."
-    },
-    {
         "id": 2206,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
@@ -10128,18 +8796,6 @@
         "text": "Altera o artigo 3º da Lei Complementar 572 de 31 de Dezembro de 2015 que “Dispõe sobre a regularização de edificações e usos que estejam em desacordo com a lei de uso e ocupação do solo e com o Código de Edificações do Município e dá outras providências”."
     },
     {
-        "id": 2210,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar nº 56 de 24 de julho de 1992, que “Dispõe sobre o Estatuto dos Servidores Públicos do Município, de suas Fundações e Autarquias.”"
-    },
-    {
-        "id": 2211,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei n. 2.252, de 21 de novembro de 1979 e as Leis Complementares n. 118, de 29 de dezembro de 1994; n. 319, de 23 de maio de 2007; n. 383, de 07 de janeiro de 2009; n. 456, de 16 de dezembro de 2011; e n. 562, de 18 de dezembro de 2014, com suas posteriores alterações e dá outras providências."
-    },
-    {
         "id": 2212,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
@@ -10156,12 +8812,6 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Altera as Leis Complementares n. 272, de 18 de dezembro de 2003 e n. 490, de 11 de abril de 2013; e a Lei n. 3.445, de 16 de fevereiro de 1989, com suas alterações, e dá outras providências."
-    },
-    {
-        "id": 2215,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n. 359, de 12 de maio de 2008, que \"Dispõe sobre a organização do Quadro da Guarda Civil Municipal, institui novo Plano de Carreira, cria novas escalas de vencimentos e dá outras providências.\"."
     },
     {
         "id": 2216,
@@ -10182,12 +8832,6 @@
         "text": "Autoriza a Prefeitura a instituir o Código Municipal de Arborização Urbana de São José dos Campos, e dá outras providências."
     },
     {
-        "id": 2219,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n. 428, de 9 de agosto de 2010, que \"Estabelece as normas relativas ao parcelamento, uso e ocupação do solo em São José dos Campos, e dá outras providências.\", com suas alterações."
-    },
-    {
         "id": 2220,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
@@ -10206,18 +8850,6 @@
         "text": "Altera o artigo 7º da Lei Complementar n. 454, de 8 de dezembro de 2008, que \"Dispõe sobre o Plano de Cargos, Carreira e Vencimento do Magistério Público Municipal - PCCVM, e dá outras providências.\"."
     },
     {
-        "id": 2222,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n. 371, de 20 de junho de 2008, que 'Autoriza o Poder Executivo a celebrar Convênio de Cooperação com o Estado de São Paulo com a Secretaria de Estado de Saneamento e Energia para a delegação ao Estado, segundo as condições que especifica, das competências de fiscalização e regulação, inclusive tarifária dos serviços municipais de abastecimento de água e esgotamento sanitário e autoriza a execução de tais serviços pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, por intermédio de Contrato de Programa.'.\""
-    },
-    {
-        "id": 2223,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei n° 192 de 30 de setembro de 1999 que dispõe sobre incentivo fiscal para a realização de projetos esportivos não profissionais e culturais e dá outras providências."
-    },
-    {
         "id": 2224,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
@@ -10228,18 +8860,6 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Altera as Leis Complementares n. 453, de 8 de dezembro de 2011, que \"Dispõe sobre o Plano de Cargos, Carreira e Vencimento dos Servidores Municipais de São José dos Campos e dá outras providências.\" e n. 455, de 8 de dezembro de 2011, que \"Institui os adicionais e gratificações que especifica e dispõe sobre a forma de concessão aos servidores públicos municipais, e dá outras providências.\"."
-    },
-    {
-        "id": 2226,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar nº 166, de 17 de dezembro de 1997, que “Dispõe sobre  concessão do serviço de estacionamento rotativo em vias e logradouros públicos do Município, e dá outras providências”."
-    },
-    {
-        "id": 2227,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar nº 166/97."
     },
     {
         "id": 2228,
@@ -10272,18 +8892,6 @@
         "text": "Autoriza a Prefeitura Municipal a promover a regularização fundiária e urbanística do parcelamento de solo denominado Santa Cecília II, implantado irregularmente na região leste do município de São José dos Campos, e dá outras providências."
     },
     {
-        "id": 2233,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 523, de 21 de novembro de 2013„ que alterou a Lei Complementar 453, de 08 de dezembro de 2011, com alterações que dispõe sobre o Plano de Cargos, Carreira e Vencimento dos Servidores Municipais de São José dos Campos e dá outras providências, e a Lei Complementar n° 56, de 24 de julho de 1992, que Dispõe sobre o Estatuto dos Servidores Públicos do Municipio , de suas Fundações e Autarquias."
-    },
-    {
-        "id": 2234,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 575, de 01 de março de 2016, que Dispõe sobre o Plano de Cargos, Carreira e Vencimento dos Servidores Municipais de São José dos Campos e dá outras providências e n° 455, de 08 de dezembro de 2011, que \" Institui os adicionais e gratificações que especifica e dispõe sobre a forma de concessão aos servidores públicos municipais e dá outras providências."
-    },
-    {
         "id": 2235,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
@@ -10308,12 +8916,6 @@
         "text": "Dispõe sobre os procedimentos para o licenciamento e controle ambiental de empreendimentos e atividades de impacto local, e dá outras providências."
     },
     {
-        "id": 2239,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar nº 166, de 17 de dezembro de 1997, que “Dispõe sobre concessão do serviço de estacionamento rotativo em vias e logradouros públicos do Município, e dá outras providências”."
-    },
-    {
         "id": 2240,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
@@ -10324,12 +8926,6 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Acrescenta o inciso V e exclui a alínea c do inciso II do artigo 80 da Lei Complementar n° 56 de 24 de Setembro de 1992 que “Dispõe sobre o Estatuto dos Servidores Públicos do Município, de suas Fundações e Autarquias.”."
-    },
-    {
-        "id": 2242,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "\"Altera a Lei Complementar n. 574, de 31 de dezembro de 2015, que 'Desafeta a área de domínio público municipal que especifica, classifica-a como bem dominical, e autoriza a Prefeitura Municipal a doá-la ao Grupo de Assistência a Criança com Câncer, e dá outras providências.'.\"."
     },
     {
         "id": 2243,
@@ -10380,34 +8976,10 @@
         "text": "Desafeta a área de domínio público municipal queespecifica, classifica-a como bem dominical, eautoriza a Prefeitura Municipal a doá-la ao Grupode Apoio ao Indivíduo com Autismo, e dá outrasprovidências."
     },
     {
-        "id": 2252,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n. 359, de 12 de maio de 2008, que \"Dispõe sobre a organização do Quadro daGuarda Civil Municipal, institui novo Plano de Carreira, cria novas escalas de vencimentos e dá outrasprovidências.\""
-    },
-    {
-        "id": 2253,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar nº 361 de 14 de maio de 2008, que “ Estabelece normas para a promoção da acessibilidade de pessoas com deficiência ou mobilidade reduzida e dá outras providências.”"
-    },
-    {
-        "id": 2254,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n. 567, de 14 de agosto de 2015, que \"Desafeta área de domínio público municipal queespecifica, classifica-a como bem dominical, e autoriza a Prefeitura Municipal a doá-la à Obra Social e AssistencialPadre Bonafé, e dá outras providências.\"."
-    },
-    {
         "id": 2255,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Dispõe sobre normas gerais urbanísticas para a instalação no Município de São José dos Campos de Estruturas de Suporte das Estações Rádio Base e equipamentos afins autorizados e homologados pela Agência Nacional de Telecomunicações (Anatel)."
-    },
-    {
-        "id": 2256,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar nº 428 de 09/08/2010, que “Estabelece as Normas relativas ao parcelamento, uso e ocupação do solo em São José dos Campos, e dá outras providências.\""
     },
     {
         "id": 2257,
@@ -10440,22 +9012,10 @@
         "text": "Desafeta área de domínio público municipal queespecifica, classifica-a como bem dominical, eautoriza a Prefeitura Municipal a doá-la à ObraSocial e Assistencial Padre Bonafé, e dá outrasprovidências."
     },
     {
-        "id": 2262,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n. 454, de 8 de dezembro de 2011, que \"Dispõe sobre o Plano de Cargos, Carreira e Vencimento do Magistério Público Municipal - PCCVM, e dá outras providências.\"."
-    },
-    {
         "id": 2263,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Altera o disposto no art. 9º da Lei Complementar nº 56/1992, que dispõe sobre o estatuto dos servidores públicos do município."
-    },
-    {
-        "id": 2264,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n. 321, de 6 de junho de 2007, que \"Autoriza a Prefeitura Municipal a regularizar o parcelamento do solo implantado clandestinamente no Jardim dos Coqueiros, e dá outrasprovidências.\"."
     },
     {
         "id": 2265,
@@ -10464,22 +9024,10 @@
         "text": "Desafeta área de domínio público municipal queespecifica, classifica-a como bem dominical, e dáoutras providências."
     },
     {
-        "id": 2266,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar nº 267, de 16 de dezembro de 2003, que “Institui o Código de Edificações do Município de São José dos Campos”."
-    },
-    {
         "id": 2267,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Desafeta a área de domínio público municipal queespecifica, classifica-a como bem dominical, eautoriza a Prefeitura Municipal a doá-la ao CentroEstadual de Educação Tecnológica Paula Souza -CEETEPS - visando à realização de investimentosna Faculdade de Tecnologia de São José dosCampos, e dá outras providências."
-    },
-    {
-        "id": 2268,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a lei nº 8.107, de 03 de maio de 2010, que “Dispõe sobre a gratuidade do transporte público aos alunos da rede municipal e estadual na faixa etária de 06 a 12 anos e dá outras providencias”."
     },
     {
         "id": 2269,
@@ -10492,12 +9040,6 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Dispõe sobre oficialização de vias no Loteamento Recanto do Caetê, localizado na Região Norte do Município, e dá outras providências."
-    },
-    {
-        "id": 2271,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n. 519, de 20 de setembro de 2013, que \"Dispõe sobre a concessão de cesta de natal aos servidores públicos municipais da Administração Pública Direta, aposentados e beneficiários dos Programas Sociais do Município, e dá outras providências."
     },
     {
         "id": 2272,
@@ -10548,24 +9090,6 @@
         "text": "Desafeta a área de domínio público municipal que especifica, classifica-a como bem dominical, eautoriza a Prefeitura Municipal a doá-la a União para implantação da sede do Ministério PúblicoFederal e da Delegacia da Receita Federal do Brasil no Município, e dá outras providências."
     },
     {
-        "id": 2279,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n. 521, de 15 de outubro de 2013, que \"Autoriza a Prefeitura Municipal a promover a regularização fundiária e urbanística do parcelamento de solo denominado Loteamento Boa Esperança, implantado irregularmente no Bairro do Bom Retiro, edá outras providências."
-    },
-    {
-        "id": 2280,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "\"Altera a Lei Complementar n. 345, de 19 de dezembro de 2007, que 'Autoriza a Prefeitura Municipal a regularizar o parcelamento do solo implantado clandestinamente no Bairro Chácaras Araújo, e dá outras providências.' \""
-    },
-    {
-        "id": 2281,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n. 535, de 22 de abril de 2014, que \"Autoriza a Prefeitura Municipal a promover a regularização fundiária e urbanística do parcelamento de solo denominado Santa Helena, implantado irregularmente na Região Leste do Município, e dá outras providências."
-    },
-    {
         "id": 2282,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
@@ -10594,18 +9118,6 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Altera o valor da remuneração de que trata o artigo 8° da Lei Complementar n. 309, de 8 de dezembro de 2006, com suas alterações, que \"Autoriza o Executivo Municipal a contratar pessoal para atender as necessidades do Programa de Agentes Comunitários de Saúde - PACS -, do Governo Federal.\", e o valor da remuneração de que trata o artigo 8° da Lei Complementar n. 326, de 5 de julho de 2007, com suas alterações, que \"Autoriza o Poder Executivo acontratar pessoal para atender às necessidades do  Sistema Nacional de Vigilância em Saúde no combate às endemias, do Governo Federal, nos termos da Portaria n. 1.172, de 15 de junho de 2004, com suas alterações.\", e dá outras providências."
-    },
-    {
-        "id": 2287,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n. 345 de 19 de dezembro de 2007, que \"Autoriza a PrefeituraMunicipal a regularizar o parcelamento do solo implantado clandestinamente no Bairro ChácarasAraújo, e dá outras providências."
-    },
-    {
-        "id": 2288,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n. 56, de 24 de julho de 1992 que \"Dispõe sobre o Estatuto dos Servidores Públicos do Município, de suas Fundações e Autarquias."
     },
     {
         "id": 2290,
@@ -10656,6 +9168,12 @@
         "text": "\"Altera o Anexo I da Lei Complementar n° 272, de 18 de novembro de 2003, que 'Dispõe sobre Imposto Sobre Serviços de Qualquer Natureza - ISSQN.'\"."
     },
     {
+        "id": 2287,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n. 345 de 19 de dezembro de 2007, que \"Autoriza a PrefeituraMunicipal a regularizar o parcelamento do solo implantado clandestinamente no Bairro ChácarasAraújo, e dá outras providências."
+    },
+    {
         "id": 2297,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
@@ -10686,22 +9204,10 @@
         "text": "Desafeta a área de domínio público municipal que especifica, classifica-a como bem dominical, eautoriza a Prefeitura Municipal a doá-la ao Instituto Federal de Educação, Ciência e Tecnologia de SãoPaulo."
     },
     {
-        "id": 2302,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "\"Altera a Lei Complementar n. 524, de 25 de novembro de 2013, que 'Altera a Lei Complementar n. 454, de 8 de dezembro de 2011, com suas alterações, que 'Dispõe sobre o Plano de Cargos, Carreira e Vencimento do Magistério Público Municipal - PCCVM, e dá outras providências.\"."
-    },
-    {
         "id": 2303,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Autoriza a Prefeitura Municipal a promover a regularização fundiária e urbanística do parcelamento de solo denominado Jardim Ebenezer, implantado irregularmente na Região do Bom Retiro, e dá outras providências."
-    },
-    {
-        "id": 2304,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "\"Altera a Lei Complementar nº 454, de 8 de dezembro de 2011, que \"Dispõe sobre o Plano de Cargos, Carreira e Vencimento do Magistério Público Municipal - PCCVM, e dá outras providências\"."
     },
     {
         "id": 2305,
@@ -10716,12 +9222,6 @@
         "text": "Altera o valor da remuneração de que trata o artigo 8° da Lei Complementar nº 309, de 8 de dezembro de 2006, com suas alterações, que \"Autoriza o Executivo Municipal a contratar pessoal para atender as necessidades do Programa de Agentes Comunitários de Saúde - PACS -, do Governo Federal.\", e o valor da remuneração de que trata o artigo - 8° - da Lei Complementar nº 326, de 5 de julho de 2007, com suas alterações, que \"Autoriza o Poder Executivo a contratar pessoal para atender às necessidades do Sistema Nacional de Vigilância em Saúde no combate às endemias, do Governo Federal, nos termos da Portaria nº 1.172, de 15 de junho de 2004, com suas alterações.\", e dá outras providências\"."
     },
     {
-        "id": 2307,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar nº 56/1992 que “Dispõe sobre o Estatuto dos Servidores Públicos do Município, de suas Fundações e Autarquias”."
-    },
-    {
         "id": 2308,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
@@ -10734,46 +9234,16 @@
         "text": "Altera o Anexo I da Lei Complementar n° 272, de 18 de novembro de 2003, que 'Dispõe sobre Imposto Sobre Serviços de Qualquer Natureza - ISSQN"
     },
     {
-        "id": 2310,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "\"Altera a Lei Complementar n° 502, de 28 de junho de 2013, com suas alterações, que 'Autoriza o Poder Executivo a contratar e garantir financiamento no valor de R$ 800.000.000,00 (oitocentos milhões dereais) junto a Caixa Econômica Federal para execução de empreendimentos integrantes do Programa de Infraestrutura de Transporte e da Mobilidade Urbana - Pró-Transporte, e dá outras providências.'"
-    },
-    {
-        "id": 2311,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "\"Altera a Lei Complementar n°272, de 18 de novembro de 2003, que 'Dispõe sobre Imposto Sobre Serviços de Qualquer Natureza - ISSQN', e dá outras providências.\""
-    },
-    {
         "id": 2312,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "\"Autoriza a Prefeitura Municipal a promover a regularização fundiária e urbanística do parcelamento de solo denominado Jardim Candelária localizado na Estrada Municipal José Augusto Teixeira,implantado irregularmente no Bairro Pernambucana, e dá outras providências.\""
     },
     {
-        "id": 2313,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar nº 445, de 21 de setembro de 2011."
-    },
-    {
         "id": 2314,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "EMENTA: Acrescenta parágrafo único com os incisos I e II, ao artigo 4º da Lei Complementar nº 166, de 23 de dezembro de 1997 e dá outras providências.Art."
-    },
-    {
-        "id": 2315,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "\"Altera a Lei Complementar n° 453, de 8 de dezembro de 2011, com suas alterações, que 'Dispõe sobre o Plano de Cargos, Carreira e Vencimento dos Servidores Municipais de São José dos Campos e dá outras providências.' e a Lei Complementar n° 56 de 24 de julho de 1992 que 'Dispõe sobre o Estatuto dos Servidores Públicos do Município, de suas Fundações e Autarquias.\"."
-    },
-    {
-        "id": 2316,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "\"Altera a Lei Complementar n° 454, de 8 de dezembro de 2011, com suas alterações, que 'Dispõe sobre o Plano de Cargos, Carreira e Vencimento do Magistério Público Municipal - PCC VIVI, e dá outras providências'\"."
     },
     {
         "id": 2317,
@@ -10788,22 +9258,10 @@
         "text": "\"Autoriza a Prefeitura Municipal a promover a regularização fundiária e urbanística do parcelamento de solo denominado Loteamento Boa Esperança implantado irregularmente no Bairro do Bom Retiro, e dá outras providências.\"."
     },
     {
-        "id": 2319,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "\"Altera a Lei Complementar n° 428, de 9 de agosto de 2010, que 'Estabelece as normas relativas ao parcelamento, uso e ocupação do solo em São José dos Campos e dá outras providências.\"."
-    },
-    {
         "id": 2320,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": ""
-    },
-    {
-        "id": 2321,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Encaminho para apreciação proposta que \"Altera a Lei Complementar n° 428, de 9 deagosto de 2010, que 'Estabelece as normas relativas ao parcelamento, uso e ocupação dorelativas ao parcelamento, uso e ocupação do solo em São José dos Campos e dá outras providências.'\"."
     },
     {
         "id": 2323,
@@ -10840,24 +9298,6 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Mensagem n° 089/ATL/2013Em 13 de agosto de 2013Encaminho para apreciação proposta que \"Edita a Planta Genérica de Valores Imobiliáriose altera as Leis Complementares n° 118, de 29 de dezembro de 1994, que 'Institui Taxade Serviço Público e dá outras providências.', com suas alterações, n° 319, de 23 de maiode 2007, que 'Dispõe sobre o Imposto Sobre a Propriedade Predial e Territorial Urbana- IPTU e dá outras providências.', com suas alterações, e a Lei n° 5.784, de 19' dedezembro de 2000, que 'Altera a forma de indexação monetária de créditos tributários enão tributários e dá outras providências.', com suas alterações, e dá outrasprovidências.\"."
-    },
-    {
-        "id": 2329,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 428/2010, que \"Estabelece as normas relativas ao parcelamento, uso e ocupação do solo em São José dos Campos, e dá outras providências.\"(inciso II do art. 115 - contrato de compra e venda dos imóveis em nome do mesmo comprador)."
-    },
-    {
-        "id": 2330,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 439, de 20 de abril de 2011, que \"Dispõe sobre a instituição de gratificação em razão do exercício de atividades em condições especiais cie trabalho, para os servidores da Secretaria de Saúde, em conformidade com o previsto no inciso IX do artigo 51 da Lei Complementar n° 56, de 24 de julho de 1992, e dá outras providências\"."
-    },
-    {
-        "id": 2331,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 455, de 8 de dezembro de 2011, que \"Institui os adicionais e gratificações que especifica e dispõe sobre a forma de concessão aos servidores públicos municipais, e dá outras providências.\"."
     },
     {
         "id": 2332,
@@ -10902,18 +9342,6 @@
         "text": "Autoriza o Poder Executivo a contratar financiamento no Valor de R$ 800.000.000,00 (oitocentos milhões de reais), junto a Caixa Econômica Federal para execução de empreendimentos integrantes do Programa de Infraestrutura de Transporte e da Mobilidade Urbana - Pró-Transporte, e dá outras providências."
     },
     {
-        "id": 2339,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 455, de 8 de dezembro de 2011, que \"Institui os adicionais e gratificações que especifica e dispõe sobre a forma de concessão aos servidores públicos municipais, e dá outras providências.\"."
-    },
-    {
-        "id": 2340,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 445, de 21 de setembro de 2011."
-    },
-    {
         "id": 2341,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
@@ -10932,24 +9360,6 @@
         "text": "Autoriza o Poder Executivo a contratar financiamento junto ao Banco do Brasil S.A. para aquisição de máquinas e equipamentos, através do Programa de Intervenções Viárias - Provias -, e dá outras providências."
     },
     {
-        "id": 2344,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 453, de 8 de dezembro de 2011 que \"Dispõe sobre o Plano de Cargos, Carreira e Vencimento dos Servidores Municipais de São José dos Campos e dá outras providências.\"."
-    },
-    {
-        "id": 2345,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 455, de 8 de dezembro de 2011, que \"Institui os adicionais e gratificações que especifica e dispõe sobre a forma de concessão aos servidores públicos municipais, e dá outras providências.\"."
-    },
-    {
-        "id": 2346,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 359, de 12 de maio de 2008, que \"Dispõe sobre a organização do quadro da Guarda Civil Municipal, institui novo plano de carreira, cria novas escalas de vencimentos e dá outras providências\"."
-    },
-    {
         "id": 2347,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
@@ -10960,12 +9370,6 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Acrescenta os §1° e §2° ao artigo 223 da Lei Complementar 428 de 2010, que estabelece as normas relativas ao parcelamento, uso e ocupação do solo, em consonância com o Plano Diretor de Desenvolvimento Integrado do Município de São José dos Carpas."
-    },
-    {
-        "id": 2349,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 428, de 9 de agosto de 2010, que \"Estabelece as normas relativas ao parcelamento, uso e ocupação do solo em São José dos Campos, e dá outras providências\"."
     },
     {
         "id": 2350,
@@ -10986,22 +9390,10 @@
         "text": "Dispõe sobre a isenção parcial do valor da taxa cobrada para uso de espaços públicos em eventos realizados por associações e entidades religiosas e civis sem fins lucrativos, e dá outras providências."
     },
     {
-        "id": 2353,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 447, de 1° de novembro de 2011, que \"Dispõe sobre a instalação de atividades econômicas de pequeno porte e de âmbito doméstico em edificações residenciais, e dá outras providências\"."
-    },
-    {
         "id": 2354,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei Complementar",
         "text": "Institui Programa de Incentivo Tributário para empreendimentos habitacionais do Programa Minha Casa, Minha Vida - PMCMV -, de faixa de renda que especifica, e dá outras providências."
-    },
-    {
-        "id": 2355,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei Complementar",
-        "text": "Altera a Lei Complementar n° 445, de 21 de setembro de 2011, com suas alterações, que \"Dispõe sobre a regularização de edificações e usos que estejam em desacordo com a lei de uso e ocupação do solo e com o Código de Edificações do Município e dá outras providências\"."
     },
     {
         "id": 2356,
@@ -27306,12 +25698,6 @@
         "text": "Institui e inclui no “Calendário Oficial de Festas e Eventos” do município, o “Novembro Azul”, com ações de conscientização sobre o câncer de próstata e dá outras providências."
     },
     {
-        "id": 285,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei 9.455, de 21 de dezembro de 2016, que instituiu e incluiu no Calendário Oficial de Eventos do Município a “Semana Municipal da Família”."
-    },
-    {
         "id": 45,
         "tag": "ALTERACAO_LEI",
         "tipo": "Projeto de Lei",
@@ -28654,6 +27040,12 @@
         "tag": "CONGRATULACAO",
         "tipo": "Requerimento",
         "text": "Parabeniza o atleta  EDUARDO SANTOS , integrante da equipe de MUAY THAI CHUTE ALTO da ACASEM – ASSOCIAÇÃO CASA DE AMPARO SOCIAL EMANUEL  de São José dos Campos, pela participação no CAMPEONATO UIAMA CHAMPIONSHIP 2017, realizado no dia 10 de setembro  na cidade de Buenos Aires - Argentina."
+    },
+    {
+        "id": 1459,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora MAGDA DE MORAIS MELO e cumprimenta pelo trabalho realizado."
     },
     {
         "id": 1391,
@@ -32064,12 +30456,6 @@
         "text": "DISPÕE SOBRE A OBRIGAÇÃO DE EVENTOS ARTÍSTICOS, CULTURAIS, ESPORTIVOS E DE LAZER DIVULGAREM OS DESCONTOS PARA IDOSOS, BEM COMO, O ACESSO PREFERENCIAL DESTES AOS RESPECTIVOS LOCAIS, NO MUNICÍPIO DE SÃO JOSE DOS CAMPOS/SP, COMO DEFINE O ESTATUTO DO IDOSO (LEI Nº 10.741/03)."
     },
     {
-        "id": 898,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "ALTERACAO_LEI de Lei",
-        "text": "Altera a Lei n. 9.248, de 24 de abril de 2015, que\"Altera a Lei n. 3.186, de 2 de dezembro de 1986, que'Estabelece o Sistema de Plano de Carreira para osservidores municipais e dá outras providências.'.\"."
-    },
-    {
         "id": 899,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei",
@@ -32106,12 +30492,6 @@
         "text": "Institui a “MEDALHA GILSON DE CÁSSIA CARVALHO” em São José dos Campos."
     },
     {
-        "id": 908,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei n. 8.108, de 5 de maio de 2010, que \"Autoriza o Poder Executivo, por intermédio da Secretaria de Educação, a celebrar convênio com a Associação Ágape para Educação Especial e com a Associação Educacional para Crianças Especiais Bem-Te-Vi para o desenvolvimento de projetos pedagógicos destinados ao atendimento de alunos com necessidades especiais matriculados na Rede de Ensino Municipal, e dá outras providências.\"."
-    },
-    {
         "id": 910,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei",
@@ -32122,6 +30502,30 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a criar a Inscrição Municipal Especial para comércios a serem estabelecidos ou regularizados na zona rural do município de São José dos Campos."
+    },
+    {
+        "id": 1450,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor MAURICIO VALERIANO e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1451,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor FRANCELINO MOTA BUENO e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1452,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora FÁTIMA REGINA DE PAULA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1453,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor DIMAS PEREIRA e cumprimenta pelo trabalho realizado."
     },
     {
         "id": 912,
@@ -32184,28 +30588,10 @@
         "text": "Autoriza a outorga de permissão uso para a instalaçãode mobiliário na Travessa Chico Luiz e na Rua Sete deSetembro, e dá outras providências."
     },
     {
-        "id": 922,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei n. 8.917, de 22 de março de 2013, que\"Desafeta o imóvel de domínio público municipal,especifica-o, classifica como bem dominical, e autorizaa Prefeitura Municipal a doá-lo ao Ministério daCiência, Tecnologia e Inovação - MCTI - para aimplantação do edifício-sede do Centro Nacional deMonitoramento e Alertas de Desastres Naturais -Cemaden -, e dá outras providências.\"."
-    },
-    {
-        "id": 924,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei n. 9.181, de 22 de outubro de 2014, que\"Denomina a Rua 28 do Loteamento Colinas doParatehy, do bairro Urbanova, de Rua Dr. FernandoVieira Lopes da Costa.\"."
-    },
-    {
         "id": 925,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei",
         "text": "Declara de Utilidade Pública a “Instituição    Escola do Corpo”."
-    },
-    {
-        "id": 927,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a lei nº 8.107, de 03 de maio de 2010, que “Dispõe sobre a gratuidade do transporte público aos alunos da rede municipal e estadual na faixa etária de 06 a 12 anos e dá outras providencias”."
     },
     {
         "id": 928,
@@ -32284,12 +30670,6 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza a Prefeitura a instituir o Código de Arborização Urbana do Município de São José dos Campos, e dá outras providências."
-    },
-    {
-        "id": 950,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei nº 4.220, de 8 de julho de 1992, que ‘Dispõe sobre a criação do Instituto de Previdência do Servidor Municipal, e dá outras providências.’."
     },
     {
         "id": 951,
@@ -32400,12 +30780,6 @@
         "text": "Autoriza o Poder Executivo a celebrar convênio, por intermédio da Secretaria de Desenvolvimento Social,com o Centro de Assistência Social Evangélico Palavra da Fé, e dá outras providências."
     },
     {
-        "id": 982,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei n. 9.064, de 11 de dezembro de 2013, que \"Cria o Serviço Ambulatorial Especializado no Tratamento da Dependência Química em Mulheres e Adolescentes - Sama -, vinculado à Secretaria de Promoção da Cidadania, autoriza o Poder Executivo a celebrar convênio com o Grupo de Assistência à Dependência Química Nova Aurora Feminino e Masculino, e dá outras providências.\"."
-    },
-    {
         "id": 983,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei",
@@ -32424,12 +30798,6 @@
         "text": "Institui o “Dia em Memória das Vítimas do Trânsito”, a ser comemorado todo dia 16 de Novembro, no município de São José dos Campos – SP, e dá outras providências."
     },
     {
-        "id": 988,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei Municipal nº 4.500, de 16 de dezembro de 1993, a Lei Municipal nº 4.572 de 23 de maio de 1994 e dá outras providências."
-    },
-    {
         "id": 989,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei",
@@ -32446,12 +30814,6 @@
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei",
         "text": "Autoriza o Poder Executivo a outorgar permissão de uso de três áreas de domínio público municipal à Associação de Engenheiros e Arquitetos de São José dos Campos, e dá outras providências."
-    },
-    {
-        "id": 993,
-        "tag": "ALTERACAO_LEI",
-        "tipo": "Projeto de Lei",
-        "text": "Altera a Lei n. 9.106, de 8 de abril de 2014 que \"Autoriza o Poder Executivo a conceder auxílio financeiro aos médicos participantes do Projeto Mais Médicos para o Brasil.\"."
     },
     {
         "id": 994,
@@ -32496,27 +30858,1665 @@
         "text": "Obriga os estabelecimentos mencionados a manter, em local visível, cartaz ou placa com dizeres do estatuto da criança e do adolescente (ECA) que esta lei especifica."
     },
     {
-        "id": 1002,
-        "tag": "IDOSO",
-        "tipo": "Projeto de Lei",
-        "text": "Institui no âmbito do Município, a Política Municipal para valorização e aplicação do conhecimento e da experiência dos idosos para fins educacionais, culturais e sociais para a complementação educacional de crianças matriculadas na rede municipal de ensino, e dá outras providências."
-    },
-    {
         "id": 1003,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Projeto de Lei",
         "text": "Dispõe sobre as regras para comercialização de alimentos em vias e áreas públicas – comida de rua “FOOD TRUCKS” em todo o município de São José dos Campos e dá outras providências."
     },
     {
-        "id": 1221,
-        "tag": "SEGURANCA",
-        "tipo": "Requerimento",
-        "text": "Solicito ao 1º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva próximo ao viaduto do Jardim Santa Inês II, no Distrito de Eugênio de Melo."
-    },
-    {
         "id": 3079,
         "tag": "SEM_CLASSIFICACAO",
         "tipo": "Indicação",
         "text": "Solicita à Prefeitura Municipal, providências necessárias e urgentes quanto a supressão de uma árvore localizada na Avenida Brasil, em frente ao n° 469 no Bairro Monte Castelo."
+    },
+    {
+        "id": 1212,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura Municipal, agilizar agendamento de cirurgia bariátrica para Neuza Rodrigues da Silva."
+    },
+    {
+        "id": 1213,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura Municipal, agilizar agendamento de médico cardiologista para Lucinéia Barbosa Ribeiro."
+    },
+    {
+        "id": 1219,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Requer à Prefeitura, urgência no agendamento com neurologista e reumatologista para a Sra. Ana Cristina da Conceição."
+    },
+    {
+        "id": 1220,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Pede a Prefeitura Municipal agendamento de Avaliação de Cirurgião Oncológico em nome da senhora Valeria Aparecida do Nascimento Bacelar de Carvalho - CRAº 821347."
+    },
+    {
+        "id": 1223,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 1º BPM, a intensificação de ronda policial no Distrito de Eugênio de Melo."
+    },
+    {
+        "id": 1224,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 46° BPM, rondas ostensivas na Avenida Salinas, localizada no Bairro Bosque dos Eucaliptos."
+    },
+    {
+        "id": 1225,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 1º BPM a intensificação de ronda policial próximo ao escadão localizado na Rua Joaquim Ferreira Carpinteiro cruzamento com a Rua Hélio de Almeida Ferreira, no Jardim Valparaiba."
+    },
+    {
+        "id": 1226,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 1º BPM, a intensificação de rondas policiais ostensivas no Bairro Vila Maria."
+    },
+    {
+        "id": 1227,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 46º BPM, a intensificação de rondas preventivas e ostensivas na Rua das Oliveiras, nas proximidades do n° 198 no Bairro Frei Galvão."
+    },
+    {
+        "id": 1228,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicito ao 46º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda no Bairro do Jardim Coqueiro."
+    },
+    {
+        "id": 1230,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura Municipal, providenciar agendamento de consulta com médico especialista Gastroenterologista."
+    },
+    {
+        "id": 1231,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura Municipal, providenciar agendamento o agendamento de exame de mamografia com urgência, para Lindsey Bronzatto Viana."
+    },
+    {
+        "id": 1232,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura Municipal, providenciar agendamento de cirurgia de catarata com urgência para Nilce Lopes dos Santos de 80 (oitenta) anos."
+    },
+    {
+        "id": 1244,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Requer à Prefeitura, agendamento de clínico geral para Fábio Gabriel Bento Severino."
+    },
+    {
+        "id": 1256,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura Municipal, providenciar agendamento o agendamento de exame de colonoscopia com urgência, para Casturina Maria de Azevedo."
+    },
+    {
+        "id": 1258,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma cirurgia no ombro, para o Sr. Mario Joaquim dos Santos, CRA 251983, nascido em 15/01/1956."
+    },
+    {
+        "id": 1259,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a urgência de uma consulta com especialista vascular, para a Sra. Antônia Audenor da Silva, CRA 406114, nascida em 21/02/1942."
+    },
+    {
+        "id": 1261,
+        "tag": "SECURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 46º Batalhão da Policia Militar policiamento preventivo e ostensivo na Avenida Gisele Martins e adjacências, no Jardim Morumbi."
+    },
+    {
+        "id": 1262,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita à EDP Bandeirante os serviços de conserto ou substituição do poste na esquina da Avenida George Eastman com a Rua Meghy Moanna Metene, no Palmeiras de São José."
+    },
+    {
+        "id": 1263,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, informações sobre o programa habitacional em nome de Keila Barbosa de Andrade, conforme PH 44405."
+    },
+    {
+        "id": 1264,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, vaga para Lorenzo Cabral Maia dos Santos no IMI João Lopes Simões."
+    },
+    {
+        "id": 1265,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, urgência na marcação do exame de Ultrassom com Doppler colorido venoso de dois membros, para Cristina Aparecida de Brito Gonçalves, conforme CRA 642086."
+    },
+    {
+        "id": 1266,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Pede a EDP BANDEIRANTES o serviço de limpeza de galho após a poda realizada pela mesmo na Rua dos Farmacêuticos em frente ao número 415 no bairro Parque Novo Horizonte."
+    },
+    {
+        "id": 1267,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 46º Batalhão da Polícia Militar a Intensificação das rondas preventivas e ostensivas no bairro Residencial União, de modo especial nas proximidades do Centro Esportivo e da EMEF Ildete Mendonça Barbosa."
+    },
+    {
+        "id": 1268,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Requer à Prefeitura, agendamento de avaliação cardiológica para a Sra. Rita de Cássia Anhaia de Lemos."
+    },
+    {
+        "id": 1269,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Requer à Prefeitura urgência no agendamento de exame de densitometria óssea para a Sra. Clarice Eiko Hanada."
+    },
+    {
+        "id": 1270,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura Municipal, providenciar acompanhamento especializado para crianças autistas em sala de aula, EMEF Ângela de Castro, do Parque Industrial."
+    },
+    {
+        "id": 1271,
+        "tag": "OUTRA",
+        "tipo": "Requerimento",
+        "text": "Solicita informações à Prefeitura sobre o IPSM - Instituto de Previdência Social do Servidor Municipal."
+    },
+    {
+        "id": 1272,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura Municipal, providenciar atendimento médico especializado de ginecologista para munícipe Marta Mirian Jesus Santos, que já possui o exame de mamografia."
+    },
+    {
+        "id": 1273,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura Municipal, providenciar a troca de local de atendimento da UBS da Vila Maria para a UBS da Cel. Monteiro, de Hercília Ribeiro e Nelton Claudio Ribeiro, ambos com sequelas de AVC."
+    },
+    {
+        "id": 1274,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura Municipal, providenciar atendimento médico especializado de ginecologista e exame de mamografia para munícipe Oriana Maria Dias Chaves."
+    },
+    {
+        "id": 1275,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra participação no Seminário: “Anistia Política: Perspectivas e desafios à implantação da política de reparação no Brasil”."
+    },
+    {
+        "id": 1276,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura Municipal de São José dos Campos a realização de estudo técnico para avaliar a possibilidade de ser incluído como objeto do contrato de prestação de serviços de pagamento da folha salarial dos servidores municipais ativos do Município, uma agência bancária, bem como a instalação e exploração de postos de atendimento eletrônico, no Distrito de São Francisco Xavier."
+    },
+    {
+        "id": 1277,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicito ao 46º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva no Bairro Jardim Santa Inês I."
+    },
+    {
+        "id": 1454,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora ISABEL CRISTINA DE OLIVEIRA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1278,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de um exame USG doppler, para Sra. Adriana Aparecida Medeiros Neves Manoel, CRA 444613, nascida em 24/05/1985."
+    },
+    {
+        "id": 1279,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma cirurgia de retirada de útero, para a Sra. Claudineia Aparecida G. de Meira, CRA 588121, nascida em 20/02/1973."
+    },
+    {
+        "id": 1280,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de sessões de Fisioterapia, para a Sra. Lúcia Santos, CRA 680715, nascida em 01/03/1962."
+    },
+    {
+        "id": 1281,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de um exame USG de tireoide doppler, para a Sra. Silmara Aparecida de Araújo Silva, CRA 97148, nascida em 10/10/1987."
+    },
+    {
+        "id": 1282,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma consulta com Oncologista, para Sr. Paulo Tadeu de Souza, CRA 534995, nascido em 12/02/1948."
+    },
+    {
+        "id": 1260,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 1º Batalhão da Policia Militar policiamento preventivo e ostensivo na Avenida Vinte e Três de Maio e adjacências, na Vila Maria."
+    },
+    {
+        "id": 1285,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade para retirada de gaiola, para o Sr. Alcides Aparecido Carvalho, CRA 545831, nascido em 09/04/1978."
+    },
+    {
+        "id": 1286,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de um exame de Densitometria Óssea, para a Sra. Maria Aparecida das Dores, CRA 498567, nascida em 20/08/1952."
+    },
+    {
+        "id": 1287,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a uma vaga na IMI Flavio Lenzi - Vila Tatetuba, para a criança Lucas de Oliveira, nascido em 11/11/2016."
+    },
+    {
+        "id": 1288,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto agilidade de uma cirurgia no joelho, para Sr. Sidney Ismael dos Santos, CRA 463190, nascido em 25/11/1989."
+    },
+    {
+        "id": 1289,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de alguns exames, para Sra. Ana Maria Dias, CRA 32069, nascido em 08/11/1964."
+    },
+    {
+        "id": 1290,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma consulta com Otorrinolaringologista, para a Sra. Dulceneia Ribeiro da Silva, CRA 470467, nascida em 03/04/1962."
+    },
+    {
+        "id": 1291,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a urgência de um exame de Próstata, para o Sr. Luiz Carlos Gomes, CRA 430603, nascido em 10/03/1952"
+    },
+    {
+        "id": 1292,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de um exame no Provisão, para a Sra. Jesuina Dias Santos, CRA 204988, nascida em 08/05/1961."
+    },
+    {
+        "id": 1293,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Pede a Prefeitura Municipal agendamento do exame de histeroscopia em nome da senhora Maria de Fátima Campos Botelho - CRAº 561067."
+    },
+    {
+        "id": 1294,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita a Prefeitura Municipal agendamento do exame de uretroscopia c/ biópsia visical em nome do senhor Luiz Gonzaga Rodrigues - CRAº 491947."
+    },
+    {
+        "id": 1295,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Pede a Prefeitura Municipal agendamento do exame de histeroscopia para a senhora Fátima Conceição Crot - CRAº 429344."
+    },
+    {
+        "id": 1296,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Pede a Prefeitura Municipal visita domiciliar em carater de vulnerabilidade social para o senhor Edson dos Santos."
+    },
+    {
+        "id": 1297,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita à EDP Bandeirante a troca do poste de madeira existente na Rua Benedita Augusta dos Santos, em frente ao número 595 no Residencial Galo Branco."
+    },
+    {
+        "id": 1298,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicito ao 1º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva na Praça Tereza Tomaz Calsavara, no Residencial Galo Branco."
+    },
+    {
+        "id": 1299,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Pede à UNIP, UNIVERSIDADE PAULISTA, tratamento odontológico para o Senhor Wilson Aparecido Barboza."
+    },
+    {
+        "id": 1300,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita a SABESP,  providências quanto ao vazamento de água na Rua Coronel Gonçalves, em frente ao número 220 no Distrito de Eugênio de Melo."
+    },
+    {
+        "id": 1301,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicito ao 1º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva próximo ao Condomínio Boa Vista,  existente na SP - 50, altura do km 101."
+    },
+    {
+        "id": 1302,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Pede a EDP BANDEIRANTES o serviço de manutenção a rede elétrica na central na Fazenda Takanashi em frente ao número 31 na Fazenda Takanashi."
+    },
+    {
+        "id": 1304,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Pede autorização Plenária para representar esta Edilidade, com ônus, na reunião com o Dr Bruno Caligaris, Chefe de Gabinete da SENASP no Ministério da Justiça e Segurança Pública - Esplanada dos Ministérios, no dia 09 de novembro às 15 horas."
+    },
+    {
+        "id": 1305,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Requer à Prefeitura, agendamento de consulta médica com neurologista para a Sra. Tânia Cristina Ferreira de Souza."
+    },
+    {
+        "id": 1306,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita à EDP Bandeirante, a instalação de “braços” e lâmpadas nos postes na Avenida D. José Antônio do Couto, no Cajuru."
+    },
+    {
+        "id": 1307,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita a EDP Bandeirante a vistoria em um poste localizado na Avenida Filadélfia, em frente ao nº 350, no bairro Águas de Canindú."
+    },
+    {
+        "id": 1308,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita à EDP Bandeirante a poda da árvore em frente ao número 241 da Rua Gemini, no Jardim Satélite."
+    },
+    {
+        "id": 1309,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita à EDP Bandeirante a manutenção, a capina e a limpeza dos imóveis localizados entre os números 405 e 410 da Rua Coronel Manoel Pacheco Neto, Jardim Paulista."
+    },
+    {
+        "id": 1310,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita à EDP Bandeirante a poda da árvore localizada em frente ao número 78 da Rua Francisco Rodrigues Silva, no Jardim Morumbi."
+    },
+    {
+        "id": 1311,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 1º Batalhão da Policia Militar policiamento preventivo e ostensivo na região da Vila Tesouro e adjacências."
+    },
+    {
+        "id": 1313,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, possibilidade de agilizar a consulta da Sra. Vera Lucia Barbosa - CRA: 171958 com o Gastroenterologista e avaliação Cirúrgica Ortopédica."
+    },
+    {
+        "id": 1314,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, vaga em creche para Bernardo Costa Pedroso de Oliveira na EMEI Professora Ângela Maria de Souza Alves"
+    },
+    {
+        "id": 1315,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, vaga em creche para Eduardo Pires de Souza no IMI Maria de Lourdes Constantino ou CECOI Casepafe."
+    },
+    {
+        "id": 1316,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, possibilidade de agilizar a consulta do Sr. Valdir Alves Garcia Junior - CRA: 92154 com especialista Gastroenterologista."
+    },
+    {
+        "id": 1317,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, vaga em creche para Daniel Henrique da Cruz Melo no IMI Professora Maria de Lourdes Constantino."
+    },
+    {
+        "id": 1457,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora MARIA INEZ DE LIMA TEIXEIRA DA GAMA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1328,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Requer à Prefeitura, urgência no agendamento de Ressonância da coluna para o Sr. Antônio Carlos Pereira."
+    },
+    {
+        "id": 1329,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Pede autorização Plenária para representar esta Edilidade na cerimônia de Posse do Conselho Municipal de Juventude - COMJUV, sem ônus, que ocorrerá no Centro de Juventude, às 18h00 do dia 31 de outubro de 2017."
+    },
+    {
+        "id": 1330,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Pede à  ECT – EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS, a implantação de CEP na  Estrada Municipal Fazenda Ronda, no Distrito de Eugênio de Melo."
+    },
+    {
+        "id": 1331,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Pede à UNITAU, UNIVERSIDADE DE TAUBATÉ, tratamento odontológico para o Senhor Wilson Aparecido Barboza."
+    },
+    {
+        "id": 1332,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Pede à UNIFESP, UNIVERSIDADE FEDERAL DE SÃO PAULO, tratamento odontológico para o Senhor Wilson Aparecido Barboza."
+    },
+    {
+        "id": 1333,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Pede à UNIVAP, UNIVERSIDADE DO VALE DO PARAÍBA, tratamento odontológico para o Senhor Wilson Aparecido Barbosa."
+    },
+    {
+        "id": 1334,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicito ao 46º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva no Bairro Jardim Bandeirantes."
+    },
+    {
+        "id": 1335,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicito ao 46º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda no Bairro Jardim República."
+    },
+    {
+        "id": 1336,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicito ao 1º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva no Distrito de Eugênio de Melo."
+    },
+    {
+        "id": 1337,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicito ao 1º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva nas proximidades da Praça Luiz Roberto de Souza, no Residencial Galo Branco."
+    },
+    {
+        "id": 1338,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicito à Prefeitura Municipal, informações sobre o curso de depilação e sobrancelhas oferecidos pelo Sebrae, para a senhora ANGELA CRISTINA ATHANASIO DA SILVA, Residente a Rua Benedito Fraga da Silva , nº 975 no Residencial Galo Branco."
+    },
+    {
+        "id": 1340,
+        "tag": "GRATIFICACAO",
+        "tipo": "Requerimento",
+        "text": "Requer à confecção da Medalha Mérito Legislativo e respectivo Diploma, concedidos à Paróquia Espírito Santo, Diocese de São José dos Campos, por meio do Decreto Legislativo nº 01/2017, de 16 de março de 2017."
+    },
+    {
+        "id": 1341,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Justifica ausência na Sessão Ordinária do dia 24 de outubro de 2017, conforme atestado médico anexo."
+    },
+    {
+        "id": 1342,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Pede autorização Plenária para representar esta Edilidade na cerimônia de Posse do Conselho Municipal de Juventude - COMJUV, sem ônus, que ocorrerá no Centro de Juventude, às 18h00 do dia 26 de outubro de 2017."
+    },
+    {
+        "id": 1343,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita supressão da sessão ordinária do dia 02 de novembro de 2017, em decorrência do feriado de Finados."
+    },
+    {
+        "id": 1344,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Pede autorização Plenária para representar esta Edilidade na cerimônia de Posse do Conselho Municipal de Juventude - COMJUV, que ocorrerá no Centro de Juventude, às 18h00 do dia 26 de agosto de 2017."
+    },
+    {
+        "id": 1346,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Pede autorização Plenária para representar esta Edilidade, com ônus, na reunião com o Diretor do Departamento de Atenção Básica da Secretaria de Atenção à Saúde João Salame, a ocorrer no próximo dia 08 de novembro, em Brasília."
+    },
+    {
+        "id": 1358,
+        "tag": "TRANSPORTE",
+        "tipo": "Requerimento",
+        "text": "Solicita ao Governo do Estado de São Paulo que realize estudos estudos para extensão da linha férrea destinada ao transporte de passageiros de Mogi das Cruzes até Jacareí."
+    },
+    {
+        "id": 1359,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita a CTEEP - Companhia de Transmissão de Energia Elétrica Paulista, serviços de capina e limpeza na esquina da Rua dos Paturis com a Av. Deputado Benedito Matarazzo, zona leste, VilaTatetuba, no município de São José dos Campos."
+    },
+    {
+        "id": 1361,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita a Polícia Militar intensificação de ronda policial próximo ao \"escadão\" localizado na Rua Joaquim Ferreira Carpinteiro cruzamento com a Rua Hélio de Almeida Ferreira, no Jardim Ismênia."
+    },
+    {
+        "id": 1362,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita a Polícia Militar a intensificação de rondas policiais ostensivas próximo ao IFSP, campus São José dos Campos."
+    },
+    {
+        "id": 1363,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Requer à Prefeitura, urgência no agendamento de consulta com urologista para o Sr. Antônio Sinézio Soares."
+    },
+    {
+        "id": 1364,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 1º Batalhão da Polícia Militar a intensificação do policiamento preventivo e ostensivo nas imediações do Hospital Municipal na Vila Industrial."
+    },
+    {
+        "id": 1365,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita Prefeitura que envie um técnico para avaliar a possibilidade de providenciar a supressão de duas árvores que estão plantadas na frente da residência da Sra. MARIA JOSÉ FÁTIMA FARIA, na Rua Adriano Espíndola, 691, no bairro Cidade Morumbi."
+    },
+    {
+        "id": 1366,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicito Prefeitura a concessão de Vales Transporte para a munícipe SUELI AKEMI TANAKA, que exerce a atividade de professora do ensino público."
+    },
+    {
+        "id": 1367,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita à EDP Bandeirante a poda dos galhos da árvore em frente ao número 141 da Rua Tupinambás, em Santana."
+    },
+    {
+        "id": 1368,
+        "tag": "CONGRATULACAO",
+        "tipo": "Requerimento",
+        "text": "Requer autorização para homenagear, no próximo dia 22/11/17, às 19 horas, no Plenário desta Edilidade, todos os profissionais e voluntários que atuam no combate ao Câncer Infantojuvenil no Município de São José dos Campos."
+    },
+    {
+        "id": 1369,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita à EDP Bandeirante o rebaixamento da árvore plantada em frente ao número 1016 da Rua Francisco Rodrigues Silva no bairro Cidade Morumbi."
+    },
+    {
+        "id": 1370,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita à EDP Bandeirante a troca do poste de madeira existente em frente ao número 1413 da Rua Odete Garcia no bairro Cidade Morumbi."
+    },
+    {
+        "id": 1372,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita à EDP Bandeirante o rebaixamento da árvore plantada em frente ao número 300 da Rua Serra dos Carajás no Jardim Altos de Santana."
+    },
+    {
+        "id": 1373,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Requer à Prefeitura, agendamento de consulta com ginecologista para a Sra. Carolina Pires Pinho."
+    },
+    {
+        "id": 1374,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Requer à Prefeitura, agendamento de consulta com ginecologista para a Sra. Maria Vilani S. Carneiro."
+    },
+    {
+        "id": 1375,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, quanto a agilidade de Tratamento Fonoaudiológico, para o Sr. Joaquim Pereira Filho, CRA 132467, nascido em 06/09/1928."
+    },
+    {
+        "id": 1455,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora MARIA MARCIA DE FARIA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1376,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicito ao 46º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva nas proximidades da Praça Mario Porto - Jardim Satélite."
+    },
+    {
+        "id": 1377,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma cirurgia no Quadril, para o Sr. Aparecido Leite dos Santos, CRA 078658, nascido em 12/07/1949."
+    },
+    {
+        "id": 1378,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicito a EDP Bandeirantes, providências para substituição de um poste de madeira por um poste de concreto, localizado na Rua Manoel Aragão da Silva, próximo ao nº 114 - Jardim Primavera II."
+    },
+    {
+        "id": 1379,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicito ao 46º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva no Bairro Jardim Satélite."
+    },
+    {
+        "id": 1380,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma cirurgia de Pterígio no olho, para a Sra. Celeida de Fátima Barbosa, CRA 910639, nascida em 13/05/1955."
+    },
+    {
+        "id": 1381,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma cirurgia de Descolamento de Retina, para a Sra. Juliana Aparecida de Carvalho, CRA 428387, nascida em 31/07/1983."
+    },
+    {
+        "id": 1382,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma consulta com Ortopedista, para a Sra. Maria Moreira de Jesus, CRA 470742, nascida em 04/06/1943."
+    },
+    {
+        "id": 1383,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de um exame USG da Próstata, para o Sr. Antônio Geraldo Maria da Silva, CRA 307831, nascido em 20/08/1955."
+    },
+    {
+        "id": 1384,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de um tratamento de Densitometria Óssea, para a Sra. Rita Célia da Silva, CRA 301895, nascida em 27/09/1962."
+    },
+    {
+        "id": 1385,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Pede ao 46º BATALHÃO DA POLÍCIA MILITAR pedindo mais policiamento perto da escola E. E. Prof. Amintas Rocha Brito no bairro Jardim Castanheiras."
+    },
+    {
+        "id": 1386,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Pede ao 46º BATALHÃO DA POLÍCIA MILITAR mais policiamento no bairro Jardim Paraíso do Sol."
+    },
+    {
+        "id": 1387,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Pede a EDP BANDEIRANTES a troca do poste de madeira para poste de concreto na Rua Benedito Davi Filho em frente ao número 30 no Residencial Galo Branco."
+    },
+    {
+        "id": 1416,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Solange Azevedo Lemos de Oliveira Moreira, Dentista 20H da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1421,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de CARLOS HENRIQUE DE CARVALHO, Higienista Dental  da Secretaria de Saúdee cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1422,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de HELIA GERALDINA FERREIRA DE ALMEIDA, Assistente de Enfermagem Nível I da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1423,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de WILMA JESUS DOS SANTOS RIBEIRO, Auxiliar de Serviços Gerais da Secretaria de Educação e Cidadania e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1424,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita a Sabesp, informações sobre a cobrança de taxa de esgoto dos moradores da Rua 14, no Bairro Majestic."
+    },
+    {
+        "id": 1425,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, vaga na EMEI Doroti da Silva Cunha Nei para Davi Lucca Silva Vichi."
+    },
+    {
+        "id": 1426,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, urgência no exame de Ultrassonografia Transvaginal para Stefania Graciele da Silva Rodrigues  - CRA 46914."
+    },
+    {
+        "id": 1427,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, vaga no IMI Marilda de Brito Barros Pereira ou EMEI Professora Maria Alice Pasquarelli, para Kauã Vinicius Bueno Ferreira."
+    },
+    {
+        "id": 1428,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, vaga na creche CEDIN Santo Antônio Santana Galvão, para Pérola Queres Pulquerio e  Pietra Queres Pulquerio"
+    },
+    {
+        "id": 1429,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, possibilidade de antecipar Cirurgia de Catarata do Sr. José Fernandes - CRA 630710"
+    },
+    {
+        "id": 1430,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, informações sobre o programa habitacional em nome de Cleiciane Fernanda da Silva, conforme nº PH 60887."
+    },
+    {
+        "id": 1431,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, vaga para Enzo Machado Andrade no CEDIN Professora Delza Giovanelli Fonseca."
+    },
+    {
+        "id": 1432,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, informações sobre o programa habitacional em nome de Fernanda de Lira Morais, conforme nº PH 60735."
+    },
+    {
+        "id": 1433,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, vaga em creche para Manuela Vitória Almeida Chaves, nascida dia 22/05/2017, conforme inscrição nº 18, para nível B I na creche IMI Pousada do Vale."
+    },
+    {
+        "id": 1434,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, informações sobre o programa habitacional em nome de Eliana Maria da Silva Melo, conforme nº PH 20714."
+    },
+    {
+        "id": 1435,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicita à Prefeitura, urgência na Ressonância Magnética para Wesley Daniel Guimarães dos Santos, nascido dia 26/08/2014, conforme número do CRA 899900"
+    },
+    {
+        "id": 1436,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "solicita  ao Comando do 1° Batalhão da Policia Militar do Interior, o aumento de policiamento no bairro Vila Maria, visando o combate à criminalidade."
+    },
+    {
+        "id": 1437,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma cirurgia de Catarata, para o Sr. Valdir Quirino dos Santos, CRA 23687, nascido em 28/12/1953."
+    },
+    {
+        "id": 1438,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma consulta com Clínico Geral, para a Sra. Maria Angelina B. Santos, CRA 400326, nascida em 09/03/1966."
+    },
+    {
+        "id": 1439,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a agilidade de uma consulta com Psicólogo, para a Sra. Patrícia Maria da Silva, CRA 106340, nascida em 11/03/1983."
+    },
+    {
+        "id": 1440,
+        "tag": "SOLICITACAO_MEDICA",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a um exame de Ressonância, para a Sra. Marlúcia Alves de Assis, CRA 40228, nascida em  27/04/1977."
+    },
+    {
+        "id": 1441,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicito a Prefeitura Municipal, providências quanto a uma vaga na IMI Professora Helena Ferreira, para a criança Pedro Momilli Penna de Oliveira Nunes, nascido em 31 de Maio de 2016."
+    },
+    {
+        "id": 1442,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 46º Batalhão de Polícia Militar, rondas ostensivas no bairro Jardim Morumbi."
+    },
+    {
+        "id": 1443,
+        "tag": "EDUCACAO",
+        "tipo": "Requerimento",
+        "text": "Solicita ao Governo do Estado de São Paulo a contratação de Professor para EE Professor Xenofonte Estrabão de Castro."
+    },
+    {
+        "id": 1448,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor CARLOS AUGUSTO PEREIRA DE ALMEIDA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1449,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor SERGIO MORAIS PINTO e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1460,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora JANNE SANTOS MENDES e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1461,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora ROGERIA BAIÔCO DA SILVA CARDOZO e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1462,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora LUCILIA MATOS RODRIGUES e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1463,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora WILMA JESUS DOS SANTOS RIBEIRO e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1464,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor JOSÉ BENEDITO GARCIA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1465,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor CLAUDIONOR MACHADO e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1466,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor MILTON DE PAULA FERREIRA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1467,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora ROSEMARI RUFINO LOPES e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1468,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora MARIA DE LOURDES SILVA PEREIRA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1469,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora ELIANE TEREZINHA ALVES LEMES e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1470,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora MARIA ISABEL DE PAIVA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1471,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora SOLANGE AZEVEDO LEMOS DE OLIVEIRA MOREIRA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1472,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora CLEUSA DE FATIMA DA SILVA RIBEIRO e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1473,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor HELIO SPERANZA CAMERANO JUNIOR e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1474,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora GILVANE RUTH BREMER HINCKEL e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1475,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora JUSTINA APARECIDA OVERA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1476,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora ISABEL CRISTINA MAIA MOREIRA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1477,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora MARIA FILOMENA DO PRADO SANTOS e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1478,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora MARIA LUCIA HELENA ALMEIDA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1479,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora IVANA MARIA MOTA JUNQUEIRA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1480,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora HELIA GERALCINA FERREIRA DE ALMEIDA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1481,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora APARECIDA DE SOUZA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1482,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor VANDERLEI BATISTA SILVA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1483,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora SANDRA MARINA DE PAULA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1484,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor JOÃO DA SILVA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1485,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor AFONSO ANGELO GIULIANI e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1486,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora MARIA DA SILVA DE OLIVEIRA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1487,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora LUCI DE PAULA CLARO e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1488,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora MARIA GUIA LUZ DOS SANTOS e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1489,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor LUIZ CARLOS DA SILVA e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1490,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria da servidora MARIA CANDIDA POLYACARPO e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1491,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor LUIZ FERNANDES DE MELLO e cumprimento pelo trabalho realizado."
+    },
+    {
+        "id": 1492,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do servidor JOSÉ MOREIRA VITO e cumprimento pelo trabalho realizado."
+    },
+    {
+        "id": 1493,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria do CARLOS ENRIQUE DE CARVALHO e cumprimento pelo trabalho realizado."
+    },
+    {
+        "id": 1494,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita autorização Legislativa para representar com ônus esta Casa de Leis no evento “Perspectivas e Desafios à Implementação da Política de Reparação no Brasil”."
+    },
+    {
+        "id": 1495,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 46º Batalhão da Polícia Militar a Intensificação das rondas preventivas e ostensivas no Jardim Paraíso, de modo especial nas proximidades da Rua Sebastião Sorato."
+    },
+    {
+        "id": 1496,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao Comando do 46° Batalhão da Policia Militar, o aumento de policiamento no bairro Jardim Terras do Sul."
+    },
+    {
+        "id": 1497,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita à EDP Bandeirante, a substituição dos postes de madeira na Rua Orlando Balbino da Silva no Jardim Terras do Sul."
+    },
+    {
+        "id": 1498,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicita a Sabesp, informações sobre a ligação de água nas residências dos moradores da Rua 14 no Bairro Majestic."
+    },
+    {
+        "id": 1499,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicita ao 1º BPM, a intensificação de rondas preventivas e ostensivas na Rua Antônio Rodrigues do Prado, na altura do número 110, no Bairro Vila Cristina."
+    },
+    {
+        "id": 1500,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Celeste Araújo de Andrade, Psicólogo da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1501,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Carlos Enrique de Carvalho, Higienista Dental da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1502,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de José Moreira Vito, Jardineiro da Secretaria de Manutenção da Cidade e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1503,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Luiz Fernandes de Mello, Motorista de Encargos Gerais do Município e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1504,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Maria Cândida Polycarpo, Médica 24H da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1505,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Luiz Carlos da Silva, Auxiliar de Serviços Gerais da Secretaria de Mobilidade Urbana e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1506,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Maria Guia Luz dos Santos, Assistente de Enfermagem Nível II daSecretaria de Saúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1507,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Luci de Paula Claro, Agente Fiscal da Secretaria de Proteção ao Cidadão e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1508,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Maria da Silva de Oliveira, Auxiliar de Serviços Gerais da Secretaria de Educação e Cidadania e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1509,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Afonso Angelo Giuliani, Armazenista da Secretaria de Saúde ecumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1510,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de João da Silva, Auxiliar de Serviços Gerais da Secretaria de Educação e Cidadania e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1511,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Sandra Marina de Paula, Assistente de Enfermagem Nível II daSecretaria de Saúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1512,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Vanderlei Batista Silva, Professor II da Secretaria de Educação eCidadania e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1513,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Aparecida de Souza, Agente Administrativo II da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1514,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Helia Geralcina Ferreira de Almeida, Assistente de EnfermagemNível I da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1515,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Ivana Maria Mota Junqueira, Professor I da Secretaria de Educação e Cidadania e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1516,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Maria Lúcia Helena Almeida, Agente Fiscal de Encargos Gerais do Município e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1517,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Maria Filomena do Prado Santos, Assistente de Enfermagem Nível I da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1518,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Isabel Cristina Maia Moreira, Professor I da Secretaria de Educação eCidadania e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1519,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Justina Aparecida Overa, Cozinheira da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1520,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Gilvane Ruth Bremer Hinckel, Professor II da Secretaria de Educação eCidadania e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1521,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Helio Speranza Camerano Junior, Médico 20H da Secretaria deSaúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1522,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Cleusa de Fátima da Silva Ribeiro, Higienista Dental da Secretaria deSaúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1523,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Registra a aposentadoria de Celeste Araújo de Andrade, Psicólogo da Secretaria de Saúde e cumprimenta pelo trabalho realizado."
+    },
+    {
+        "id": 1524,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita à ECT – Empresa Brasileira de Correios e Telégrafos que adote as providências necessárias para que haja serviço de distribuição de correspondência no Bairro Majestic."
+    },
+    {
+        "id": 1525,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicita informações à Mesa Diretora quanto a viabilidade de uma parceria entre a Câmara Municipal, através da TV Câmara e a Universidade Federal de São Paulo – Unifesp."
+    },
+    {
+        "id": 1526,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Solicito Prefeitura a concessão de “Auxílio Aluguel” para a munícipe CINTHIA LUANA DA SILVA CORREA NASCIMENTO."
+    },
+    {
+        "id": 1527,
+        "tag": "MANUTENCAO",
+        "tipo": "Requerimento",
+        "text": "Solicito, à EDP Bandeirante, a supressão de uma árvore que está junto á fiação em frente ao número 232 da na Rua San Marino no Jardim América."
+    },
+    {
+        "id": 1528,
+        "tag": "TRANSPORTE",
+        "tipo": "Requerimento",
+        "text": "Solicito ao Ministério dos Transportes, Portos e Aviação Civil a realização de estudos para a internacionalização do TPS – Terminal de Passageiros do Aeroporto de São José dos Campos – Professor Urbano Ernesto Stumpf."
+    },
+    {
+        "id": 1529,
+        "tag": "TRANSPORTE",
+        "tipo": "Requerimento",
+        "text": "Solicito ao Ministério dos Transportes, Portos e Aviação Civil a realização de estudos para a complementação das marginais direita e esquerda da BR-116 – Rodovia Presidente Dutra, no trecho que  corta os municípios de São José dos Campos e Jacareí entre os quilômetros 144 e 162."
+    },
+    {
+        "id": 1530,
+        "tag": "OUTRO",
+        "tipo": "Requerimento",
+        "text": "Requer à Prefeitura, vaga em pré escola para a criança Ana laura Oliveira da Silveira."
+    },
+    {
+        "id": 2205,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar 428 de 09 de agosto de 2010, que estabelece as normas relativas ao parcelamento, uso e ocupação do solo em São José dos Campos, e dá outras providências."
+    },
+    {
+        "id": 2210,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar nº 56 de 24 de julho de 1992, que “Dispõe sobre o Estatuto dos Servidores Públicos do Município, de suas Fundações e Autarquias.”"
+    },
+    {
+        "id": 2211,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei n. 2.252, de 21 de novembro de 1979 e as Leis Complementares n. 118, de 29 de dezembro de 1994; n. 319, de 23 de maio de 2007; n. 383, de 07 de janeiro de 2009; n. 456, de 16 de dezembro de 2011; e n. 562, de 18 de dezembro de 2014, com suas posteriores alterações e dá outras providências."
+    },
+    {
+        "id": 2215,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n. 359, de 12 de maio de 2008, que \"Dispõe sobre a organização do Quadro da Guarda Civil Municipal, institui novo Plano de Carreira, cria novas escalas de vencimentos e dá outras providências.\"."
+    },
+    {
+        "id": 2219,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n. 428, de 9 de agosto de 2010, que \"Estabelece as normas relativas ao parcelamento, uso e ocupação do solo em São José dos Campos, e dá outras providências.\", com suas alterações."
+    },
+    {
+        "id": 2222,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n. 371, de 20 de junho de 2008, que 'Autoriza o Poder Executivo a celebrar Convênio de Cooperação com o Estado de São Paulo com a Secretaria de Estado de Saneamento e Energia para a delegação ao Estado, segundo as condições que especifica, das competências de fiscalização e regulação, inclusive tarifária dos serviços municipais de abastecimento de água e esgotamento sanitário e autoriza a execução de tais serviços pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, por intermédio de Contrato de Programa.'.\""
+    },
+    {
+        "id": 2223,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei n° 192 de 30 de setembro de 1999 que dispõe sobre incentivo fiscal para a realização de projetos esportivos não profissionais e culturais e dá outras providências."
+    },
+    {
+        "id": 2226,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar nº 166, de 17 de dezembro de 1997, que “Dispõe sobre  concessão do serviço de estacionamento rotativo em vias e logradouros públicos do Município, e dá outras providências”."
+    },
+    {
+        "id": 2227,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar nº 166/97."
+    },
+    {
+        "id": 2233,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 523, de 21 de novembro de 2013„ que alterou a Lei Complementar 453, de 08 de dezembro de 2011, com alterações que dispõe sobre o Plano de Cargos, Carreira e Vencimento dos Servidores Municipais de São José dos Campos e dá outras providências, e a Lei Complementar n° 56, de 24 de julho de 1992, que Dispõe sobre o Estatuto dos Servidores Públicos do Municipio , de suas Fundações e Autarquias."
+    },
+    {
+        "id": 2234,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 575, de 01 de março de 2016, que Dispõe sobre o Plano de Cargos, Carreira e Vencimento dos Servidores Municipais de São José dos Campos e dá outras providências e n° 455, de 08 de dezembro de 2011, que \" Institui os adicionais e gratificações que especifica e dispõe sobre a forma de concessão aos servidores públicos municipais e dá outras providências."
+    },
+    {
+        "id": 2239,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar nº 166, de 17 de dezembro de 1997, que “Dispõe sobre concessão do serviço de estacionamento rotativo em vias e logradouros públicos do Município, e dá outras providências”."
+    },
+    {
+        "id": 2242,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "\"Altera a Lei Complementar n. 574, de 31 de dezembro de 2015, que 'Desafeta a área de domínio público municipal que especifica, classifica-a como bem dominical, e autoriza a Prefeitura Municipal a doá-la ao Grupo de Assistência a Criança com Câncer, e dá outras providências.'.\"."
+    },
+    {
+        "id": 2252,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n. 359, de 12 de maio de 2008, que \"Dispõe sobre a organização do Quadro daGuarda Civil Municipal, institui novo Plano de Carreira, cria novas escalas de vencimentos e dá outrasprovidências.\""
+    },
+    {
+        "id": 2253,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar nº 361 de 14 de maio de 2008, que “ Estabelece normas para a promoção da acessibilidade de pessoas com deficiência ou mobilidade reduzida e dá outras providências.”"
+    },
+    {
+        "id": 2254,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n. 567, de 14 de agosto de 2015, que \"Desafeta área de domínio público municipal queespecifica, classifica-a como bem dominical, e autoriza a Prefeitura Municipal a doá-la à Obra Social e AssistencialPadre Bonafé, e dá outras providências.\"."
+    },
+    {
+        "id": 2256,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar nº 428 de 09/08/2010, que “Estabelece as Normas relativas ao parcelamento, uso e ocupação do solo em São José dos Campos, e dá outras providências.\""
+    },
+    {
+        "id": 2262,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n. 454, de 8 de dezembro de 2011, que \"Dispõe sobre o Plano de Cargos, Carreira e Vencimento do Magistério Público Municipal - PCCVM, e dá outras providências.\"."
+    },
+    {
+        "id": 2264,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n. 321, de 6 de junho de 2007, que \"Autoriza a Prefeitura Municipal a regularizar o parcelamento do solo implantado clandestinamente no Jardim dos Coqueiros, e dá outrasprovidências.\"."
+    },
+    {
+        "id": 2266,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar nº 267, de 16 de dezembro de 2003, que “Institui o Código de Edificações do Município de São José dos Campos”."
+    },
+    {
+        "id": 2268,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a lei nº 8.107, de 03 de maio de 2010, que “Dispõe sobre a gratuidade do transporte público aos alunos da rede municipal e estadual na faixa etária de 06 a 12 anos e dá outras providencias”."
+    },
+    {
+        "id": 2271,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n. 519, de 20 de setembro de 2013, que \"Dispõe sobre a concessão de cesta de natal aos servidores públicos municipais da Administração Pública Direta, aposentados e beneficiários dos Programas Sociais do Município, e dá outras providências."
+    },
+    {
+        "id": 2279,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n. 521, de 15 de outubro de 2013, que \"Autoriza a Prefeitura Municipal a promover a regularização fundiária e urbanística do parcelamento de solo denominado Loteamento Boa Esperança, implantado irregularmente no Bairro do Bom Retiro, edá outras providências."
+    },
+    {
+        "id": 2280,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "\"Altera a Lei Complementar n. 345, de 19 de dezembro de 2007, que 'Autoriza a Prefeitura Municipal a regularizar o parcelamento do solo implantado clandestinamente no Bairro Chácaras Araújo, e dá outras providências.' \""
+    },
+    {
+        "id": 2281,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n. 535, de 22 de abril de 2014, que \"Autoriza a Prefeitura Municipal a promover a regularização fundiária e urbanística do parcelamento de solo denominado Santa Helena, implantado irregularmente na Região Leste do Município, e dá outras providências."
+    },
+    {
+        "id": 2288,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n. 56, de 24 de julho de 1992 que \"Dispõe sobre o Estatuto dos Servidores Públicos do Município, de suas Fundações e Autarquias."
+    },
+    {
+        "id": 2302,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "\"Altera a Lei Complementar n. 524, de 25 de novembro de 2013, que 'Altera a Lei Complementar n. 454, de 8 de dezembro de 2011, com suas alterações, que 'Dispõe sobre o Plano de Cargos, Carreira e Vencimento do Magistério Público Municipal - PCCVM, e dá outras providências.\"."
+    },
+    {
+        "id": 2304,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "\"Altera a Lei Complementar nº 454, de 8 de dezembro de 2011, que \"Dispõe sobre o Plano de Cargos, Carreira e Vencimento do Magistério Público Municipal - PCCVM, e dá outras providências\"."
+    },
+    {
+        "id": 2307,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar nº 56/1992 que “Dispõe sobre o Estatuto dos Servidores Públicos do Município, de suas Fundações e Autarquias”."
+    },
+    {
+        "id": 2310,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "\"Altera a Lei Complementar n° 502, de 28 de junho de 2013, com suas alterações, que 'Autoriza o Poder Executivo a contratar e garantir financiamento no valor de R$ 800.000.000,00 (oitocentos milhões dereais) junto a Caixa Econômica Federal para execução de empreendimentos integrantes do Programa de Infraestrutura de Transporte e da Mobilidade Urbana - Pró-Transporte, e dá outras providências.'"
+    },
+    {
+        "id": 2311,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "\"Altera a Lei Complementar n°272, de 18 de novembro de 2003, que 'Dispõe sobre Imposto Sobre Serviços de Qualquer Natureza - ISSQN', e dá outras providências.\""
+    },
+    {
+        "id": 2313,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar nº 445, de 21 de setembro de 2011."
+    },
+    {
+        "id": 2315,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "\"Altera a Lei Complementar n° 453, de 8 de dezembro de 2011, com suas alterações, que 'Dispõe sobre o Plano de Cargos, Carreira e Vencimento dos Servidores Municipais de São José dos Campos e dá outras providências.' e a Lei Complementar n° 56 de 24 de julho de 1992 que 'Dispõe sobre o Estatuto dos Servidores Públicos do Município, de suas Fundações e Autarquias.\"."
+    },
+    {
+        "id": 2316,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "\"Altera a Lei Complementar n° 454, de 8 de dezembro de 2011, com suas alterações, que 'Dispõe sobre o Plano de Cargos, Carreira e Vencimento do Magistério Público Municipal - PCC VIVI, e dá outras providências'\"."
+    },
+    {
+        "id": 2319,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "\"Altera a Lei Complementar n° 428, de 9 de agosto de 2010, que 'Estabelece as normas relativas ao parcelamento, uso e ocupação do solo em São José dos Campos e dá outras providências.\"."
+    },
+    {
+        "id": 2321,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Encaminho para apreciação proposta que \"Altera a Lei Complementar n° 428, de 9 deagosto de 2010, que 'Estabelece as normas relativas ao parcelamento, uso e ocupação dorelativas ao parcelamento, uso e ocupação do solo em São José dos Campos e dá outras providências.'\"."
+    },
+    {
+        "id": 2329,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 428/2010, que \"Estabelece as normas relativas ao parcelamento, uso e ocupação do solo em São José dos Campos, e dá outras providências.\"(inciso II do art. 115 - contrato de compra e venda dos imóveis em nome do mesmo comprador)."
+    },
+    {
+        "id": 2330,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 439, de 20 de abril de 2011, que \"Dispõe sobre a instituição de gratificação em razão do exercício de atividades em condições especiais cie trabalho, para os servidores da Secretaria de Saúde, em conformidade com o previsto no inciso IX do artigo 51 da Lei Complementar n° 56, de 24 de julho de 1992, e dá outras providências\"."
+    },
+    {
+        "id": 2331,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 455, de 8 de dezembro de 2011, que \"Institui os adicionais e gratificações que especifica e dispõe sobre a forma de concessão aos servidores públicos municipais, e dá outras providências.\"."
+    },
+    {
+        "id": 2339,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 455, de 8 de dezembro de 2011, que \"Institui os adicionais e gratificações que especifica e dispõe sobre a forma de concessão aos servidores públicos municipais, e dá outras providências.\"."
+    },
+    {
+        "id": 2340,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 445, de 21 de setembro de 2011."
+    },
+    {
+        "id": 2344,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 453, de 8 de dezembro de 2011 que \"Dispõe sobre o Plano de Cargos, Carreira e Vencimento dos Servidores Municipais de São José dos Campos e dá outras providências.\"."
+    },
+    {
+        "id": 2345,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 455, de 8 de dezembro de 2011, que \"Institui os adicionais e gratificações que especifica e dispõe sobre a forma de concessão aos servidores públicos municipais, e dá outras providências.\"."
+    },
+    {
+        "id": 2346,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 359, de 12 de maio de 2008, que \"Dispõe sobre a organização do quadro da Guarda Civil Municipal, institui novo plano de carreira, cria novas escalas de vencimentos e dá outras providências\"."
+    },
+    {
+        "id": 2349,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 428, de 9 de agosto de 2010, que \"Estabelece as normas relativas ao parcelamento, uso e ocupação do solo em São José dos Campos, e dá outras providências\"."
+    },
+    {
+        "id": 2353,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 447, de 1° de novembro de 2011, que \"Dispõe sobre a instalação de atividades econômicas de pequeno porte e de âmbito doméstico em edificações residenciais, e dá outras providências\"."
+    },
+    {
+        "id": 2355,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei Complementar",
+        "text": "Altera a Lei Complementar n° 445, de 21 de setembro de 2011, com suas alterações, que \"Dispõe sobre a regularização de edificações e usos que estejam em desacordo com a lei de uso e ocupação do solo e com o Código de Edificações do Município e dá outras providências\"."
+    },
+    {
+        "id": 285,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a Lei 9.455, de 21 de dezembro de 2016, que instituiu e incluiu no Calendário Oficial de Eventos do Município a “Semana Municipal da Família”."
+    },
+    {
+        "id": 898,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "ALTERACAO_LEI de Lei",
+        "text": "Altera a Lei n. 9.248, de 24 de abril de 2015, que\"Altera a Lei n. 3.186, de 2 de dezembro de 1986, que'Estabelece o Sistema de Plano de Carreira para osservidores municipais e dá outras providências.'.\"."
+    },
+    {
+        "id": 908,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a Lei n. 8.108, de 5 de maio de 2010, que \"Autoriza o Poder Executivo, por intermédio da Secretaria de Educação, a celebrar convênio com a Associação Ágape para Educação Especial e com a Associação Educacional para Crianças Especiais Bem-Te-Vi para o desenvolvimento de projetos pedagógicos destinados ao atendimento de alunos com necessidades especiais matriculados na Rede de Ensino Municipal, e dá outras providências.\"."
+    },
+    {
+        "id": 922,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a Lei n. 8.917, de 22 de março de 2013, que\"Desafeta o imóvel de domínio público municipal,especifica-o, classifica como bem dominical, e autorizaa Prefeitura Municipal a doá-lo ao Ministério daCiência, Tecnologia e Inovação - MCTI - para aimplantação do edifício-sede do Centro Nacional deMonitoramento e Alertas de Desastres Naturais -Cemaden -, e dá outras providências.\"."
+    },
+    {
+        "id": 924,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a Lei n. 9.181, de 22 de outubro de 2014, que\"Denomina a Rua 28 do Loteamento Colinas doParatehy, do bairro Urbanova, de Rua Dr. FernandoVieira Lopes da Costa.\"."
+    },
+    {
+        "id": 927,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a lei nº 8.107, de 03 de maio de 2010, que “Dispõe sobre a gratuidade do transporte público aos alunos da rede municipal e estadual na faixa etária de 06 a 12 anos e dá outras providencias”."
+    },
+    {
+        "id": 950,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a Lei nº 4.220, de 8 de julho de 1992, que ‘Dispõe sobre a criação do Instituto de Previdência do Servidor Municipal, e dá outras providências.’."
+    },
+    {
+        "id": 982,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a Lei n. 9.064, de 11 de dezembro de 2013, que \"Cria o Serviço Ambulatorial Especializado no Tratamento da Dependência Química em Mulheres e Adolescentes - Sama -, vinculado à Secretaria de Promoção da Cidadania, autoriza o Poder Executivo a celebrar convênio com o Grupo de Assistência à Dependência Química Nova Aurora Feminino e Masculino, e dá outras providências.\"."
+    },
+    {
+        "id": 988,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a Lei Municipal nº 4.500, de 16 de dezembro de 1993, a Lei Municipal nº 4.572 de 23 de maio de 1994 e dá outras providências."
+    },
+    {
+        "id": 993,
+        "tag": "ALTERACAO_LEI",
+        "tipo": "Projeto de Lei",
+        "text": "Altera a Lei n. 9.106, de 8 de abril de 2014 que \"Autoriza o Poder Executivo a conceder auxílio financeiro aos médicos participantes do Projeto Mais Médicos para o Brasil.\"."
+    },
+    {
+        "id": 1002,
+        "tag": "IDOSO",
+        "tipo": "Projeto de Lei",
+        "text": "Institui no âmbito do Município, a Política Municipal para valorização e aplicação do conhecimento e da experiência dos idosos para fins educacionais, culturais e sociais para a complementação educacional de crianças matriculadas na rede municipal de ensino, e dá outras providências."
+    },
+    {
+        "id": 1221,
+        "tag": "SEGURANCA",
+        "tipo": "Requerimento",
+        "text": "Solicito ao 1º Batalhão da Polícia Militar, providências para que seja ampliada e intensificada a ronda ostensiva próximo ao viaduto do Jardim Santa Inês II, no Distrito de Eugênio de Melo."
     }
 ]
