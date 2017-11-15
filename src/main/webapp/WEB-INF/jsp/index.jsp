@@ -13,9 +13,6 @@
 
 <body>
 
-	<h3>Total de Leis Classificadas: ${totalLeisClassificdas}</h3>
-	<h3>${mensagem}</h3>
-
 	<form action="/salvar" method="post">
 		<table>
 

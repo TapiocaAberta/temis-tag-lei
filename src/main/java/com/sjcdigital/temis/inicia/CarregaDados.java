@@ -17,26 +17,23 @@ import com.sjcdigital.temis.repositories.DataRepository;
 
 @Component
 public class CarregaDados {
-	
+
 	@Autowired
 	private DataRepository repository;
-	
+
 	String dataJsonFile = "src/main/resources/pt-leis-train.json";
-	
+
 	@PostConstruct
-    public void init() throws IOException {
-		
-		if(repository.count() == 0) {
-			
-			System.out.println("#### Carregando dados ... ");
-			
-			String dataJson = new String(Files.readAllBytes(Paths.get(dataJsonFile)));
-			ObjectMapper jsonMapper = new ObjectMapper();
-			TypeReference<List<Data>> typeReference = new TypeReference<List<Data>>(){};
-			List<Data> datas = jsonMapper.readValue(dataJson, typeReference);
-			repository.save(datas);
-		}
-		
-    }
+	public void init() throws IOException {
+
+		System.out.println("#### Carregando dados ... ");
+
+		String dataJson = new String(Files.readAllBytes(Paths.get(dataJsonFile)));
+		ObjectMapper jsonMapper = new ObjectMapper();
+		TypeReference<List<Data>> typeReference = new TypeReference<List<Data>>() {};
+		List<Data> datas = jsonMapper.readValue(dataJson, typeReference);
+		repository.save(datas);
+
+	}
 
 }
