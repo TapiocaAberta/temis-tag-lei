@@ -11,6 +11,8 @@
 <link href="${jstlCss}" rel="stylesheet" />
 </head>
 
+<h3>Quantidade de leis: ${totalLeisClassificdas}</h3>
+
 <body>
 
 	<form action="/salvar" method="post">
